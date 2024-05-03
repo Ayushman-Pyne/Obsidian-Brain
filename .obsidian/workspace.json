@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "be6ff4709b0f60ab",
+        "id": "647166f3f10ab611",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4c1c4ea031a6ad",
+            "id": "d81ab677befe6e30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -29,8 +25,24 @@
     "type": "split",
     "children": [
       {
+        "id": "6dd0972476511748",
+        "type": "tabs",
+        "dimension": 62.46376811594203,
+        "children": [
+          {
+            "id": "3b4c1c4ea031a6ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "bd0978c021f225e1",
         "type": "tabs",
+        "dimension": 37.53623188405797,
         "children": [
           {
             "id": "0155e84e638cc8a7",
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readme.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,10 +159,10 @@
   },
   "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
+    "Readme.md",
     "Untitled",
     "Templates",
     "gitignore.txt",
-    "New Text Document.txt",
-    "Readme.md"
+    "New Text Document.txt"
   ]
 }
