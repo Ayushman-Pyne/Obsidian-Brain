@@ -25,7 +25,7 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "5 - Templates/Full Note Template.md"
   ],
   "enable_ribbon_icon": true
 }

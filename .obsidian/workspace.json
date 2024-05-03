@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c679f949327c5cb",
+        "id": "4a804114252456db",
         "type": "tabs",
         "children": [
           {
-            "id": "ed55baf2f723caa0",
+            "id": "9fec9b0e6f80f2fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,8 +172,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed55baf2f723caa0",
+  "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
+    "5 - Templates/Full Note Template.md",
+    "6 - Full Notes/Week 0 - Scratch.md",
+    "6 - Full Notes/Untitled.md",
     "6 - Full Notes/Week 10 Cybersecurity.md",
     "6 - Full Notes/Week 9 - Flask.md",
     "6 - Full Notes/Week 8 - HTML, CSS, JavaScript.md",
@@ -183,7 +186,6 @@
     "6 - Full Notes/Week 5 - Data Structures.md",
     "6 - Full Notes/Week 4 - Memory.md",
     "6 - Full Notes/Week 3 - Algorithms.md",
-    "6 - Full Notes/Week 0 - Scratch.md",
     "6 - Full Notes/Week 2 - Arrays.md",
     "6 - Full Notes/Week 1 - C.md",
     "4 - Indexes/CS50X.md",

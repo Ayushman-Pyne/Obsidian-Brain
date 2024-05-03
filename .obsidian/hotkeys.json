@@ -1,0 +1,11 @@
+{
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}
