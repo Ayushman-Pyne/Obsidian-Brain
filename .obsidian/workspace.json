@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Untitled.md",
+                "file": "1 - Rough Notes/First Official note.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Untitled.md",
+                "file": "1 - Rough Notes/First Official note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Untitled.md",
+                "file": "1 - Rough Notes/First Official note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Untitled.md"
+                "file": "1 - Rough Notes/First Official note.md"
               }
             }
           },
@@ -185,10 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0155e84e638cc8a7",
+  "active": "cc5aeac1103c9fdd",
   "lastOpenFiles": [
     "Readme.md",
-    "1 - Rough Notes/Untitled.md",
+    "1 - Rough Notes/First Official note.md",
     "4 - Indexes",
     "6 - Full Notes",
     "3 - Tags",
