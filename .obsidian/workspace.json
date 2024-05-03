@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +166,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e76ac14893abe31e",
+  "active": "c5acbd3980e8d930",
   "lastOpenFiles": [
     "Readme.md",
     "Untitled",
