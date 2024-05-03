@@ -11,8 +11,12 @@
             "id": "d81ab677befe6e30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -25,24 +29,9 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd0972476511748",
-        "type": "tabs",
-        "dimension": 28.985507246376812,
-        "children": [
-          {
-            "id": "3b4c1c4ea031a6ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "bd0978c021f225e1",
         "type": "tabs",
-        "dimension": 71.01449275362319,
+        "dimension": 63.76811594202898,
         "children": [
           {
             "id": "0155e84e638cc8a7",
@@ -77,12 +66,26 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "1cb87b306b864ca6",
+        "type": "tabs",
+        "dimension": 36.231884057971016,
+        "children": [
+          {
+            "id": "3b4c1c4ea031a6ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
     "id": "a370b92b12670430",
@@ -98,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md"
+              }
             }
           },
           {
@@ -146,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +172,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5acbd3980e8d930",
+  "active": "d81ab677befe6e30",
   "lastOpenFiles": [
     "Readme.md",
     "Untitled",
