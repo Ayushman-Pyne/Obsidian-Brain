@@ -1,1 +1,1 @@
-## It'll be about the class i took online names CS50X 2024.
+## It'll be about the class i took online named CS50X 2024.
