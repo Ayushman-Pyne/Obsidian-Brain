@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasFolderPlus",
-      "FasBookmark"
+      "FasBook",
+      "RiFileList2Fill",
+      "FasTags",
+      "FasNoteSticky",
+      "FarNoteSticky"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,6 +31,10 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "Templates": "FasBookmark",
-  "Attachments": "FasFolderPlus"
+  "2 - Attachments": "FasFolderPlus",
+  "5 - Templates": "FasBookmark",
+  "1 - Rough Notes": "FasNoteSticky",
+  "3 - Tags": "FasTags",
+  "4 - Indexes": "RiFileList2Fill",
+  "6 - Full Notes": "FasBook"
 }
