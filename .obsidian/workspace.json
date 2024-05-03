@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfc64b638e2f8c10",
+            "id": "ed55baf2f723caa0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Week 0 - Scratch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Full Notes/Week 0 - Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Full Notes/Week 0 - Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6 - Full Notes/Week 0 - Scratch.md"
+              }
             }
           },
           {
@@ -164,8 +172,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cfc64b638e2f8c10",
+  "active": "ed55baf2f723caa0",
   "lastOpenFiles": [
+    "6 - Full Notes/Week 10 Cybersecurity.md",
+    "6 - Full Notes/Week 9 - Flask.md",
+    "6 - Full Notes/Week 8 - HTML, CSS, JavaScript.md",
+    "6 - Full Notes/Week 7 - SQL.md",
+    "6 - Full Notes/Week 6.5 - Artificial Intelligence.md",
     "6 - Full Notes/Week 6 - Python.md",
     "6 - Full Notes/Week 5 - Data Structures.md",
     "6 - Full Notes/Week 4 - Memory.md",
