@@ -1,4 +1,4 @@
-# Week 0
+# [[Week 0 - Scratch]]
 
 
-# Week 1
+# Week 1 - C
