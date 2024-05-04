@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Week 0 - Scratch.md",
+                "file": "1 - Rough Notes/First Official note.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Week 0 - Scratch.md",
+                "file": "1 - Rough Notes/First Official note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Week 0 - Scratch.md",
+                "file": "1 - Rough Notes/First Official note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Week 0 - Scratch.md"
+                "file": "1 - Rough Notes/First Official note.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "9fec9b0e6f80f2fb",
   "lastOpenFiles": [
-    "6 - Full Notes/Untitled 1.md",
+    "6 - Full Notes/Here Stands the first official full note.md",
     "6 - Full Notes/Week 0 - Scratch.md",
+    "6 - Full Notes/Untitled 1.md",
     "5 - Templates/Full Note Template.md",
     "6 - Full Notes/Untitled.md",
     "6 - Full Notes/Week 10 Cybersecurity.md",
@@ -193,7 +194,6 @@
     "Readme.md",
     "3 - Tags/Scratch.md",
     "3 - Tags/CS50X.md",
-    "6 - Full Notes/Here Stands the first official full note.md",
     "1 - Rough Notes/First Official note.md",
     "4 - Indexes",
     "6 - Full Notes",
