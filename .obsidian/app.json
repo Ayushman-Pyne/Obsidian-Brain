@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "attachmentFolderPath": "2 - Attachments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "trashOption": "local"
 }
