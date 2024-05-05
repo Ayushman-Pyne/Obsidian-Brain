@@ -19,8 +19,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -32,7 +31,6 @@
       {
         "id": "bd0978c021f225e1",
         "type": "tabs",
-        "dimension": 63.76811594202898,
         "children": [
           {
             "id": "0155e84e638cc8a7",
@@ -64,21 +62,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "1cb87b306b864ca6",
-        "type": "tabs",
-        "dimension": 36.231884057971016,
-        "children": [
-          {
-            "id": "3b4c1c4ea031a6ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
@@ -189,12 +172,12 @@
   },
   "active": "9fec9b0e6f80f2fb",
   "lastOpenFiles": [
+    "1 - Rough Notes/0 - First Official note.md",
     "6 - Full Notes/Here Stands the first official full note.md",
     "6 - Full Notes/Week 0 - Scratch.md",
     "6 - Full Notes/Week 1 - C.md",
     "6 - Full Notes/Week 2 - Arrays.md",
     "1 - Rough Notes/Week 0 - Scratch.md",
-    "1 - Rough Notes/0 - First Official note.md",
     "5 - Templates/Rough Note Template.md",
     "5 - Templates/Full Note Template.md",
     "3 - Tags/Scratch.md",
