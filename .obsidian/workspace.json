@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md",
+                "file": "1 - Rough Notes/0 - First Official note.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md",
+                "file": "1 - Rough Notes/0 - First Official note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md",
+                "file": "1 - Rough Notes/0 - First Official note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md"
+                "file": "1 - Rough Notes/0 - First Official note.md"
               }
             }
           },
@@ -187,10 +187,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9fec9b0e6f80f2fb",
+  "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
+    "Untitled",
+    "1 - Rough Notes/Untitled.md",
+    "1 - Rough Notes/0 - First Official note.md",
     "1 - Rough Notes/Week 0 - Scratch.md",
-    "1 - Rough Notes/First Official note.md",
     "5 - Templates/Full Note Template.md",
     "5 - Templates/Rough Note Template.md",
     "2 - Attachments/The Ultimate ping pong game.sb3",
