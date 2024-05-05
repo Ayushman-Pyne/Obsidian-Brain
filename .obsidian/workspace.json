@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/0 - Here Stands the first official full note.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/0 - Here Stands the first official full note.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/0 - Here Stands the first official full note.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/0 - Here Stands the first official full note.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -173,8 +173,10 @@
   "active": "9fec9b0e6f80f2fb",
   "lastOpenFiles": [
     "1 - Rough Notes/0 - First Official note.md",
-    "1 - Rough Notes/Week 0 - Scratch.md",
+    "4 - Indexes/CS50X.md",
+    "Readme.md",
     "6 - Full Notes/0 - Here Stands the first official full note.md",
+    "1 - Rough Notes/Week 0 - Scratch.md",
     "6 - Full Notes/Week 0 - Scratch.md",
     "6 - Full Notes/Week 1 - C.md",
     "6 - Full Notes/Week 2 - Arrays.md",
@@ -196,9 +198,7 @@
     "6 - Full Notes/Week 5 - Data Structures.md",
     "6 - Full Notes/Week 4 - Memory.md",
     "6 - Full Notes/Week 3 - Algorithms.md",
-    "4 - Indexes/CS50X.md",
     "3 - Tags/Untitled 1.md",
-    "Readme.md",
     "3 - Tags/CS50X.md",
     "4 - Indexes",
     "6 - Full Notes",
