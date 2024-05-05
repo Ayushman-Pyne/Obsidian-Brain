@@ -1,7 +1,8 @@
 {
-  "encore-settings@@theme-dark": "encore-theme-dark-carbon",
+  "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
   "encore-settings@@colors": "encore-colors-colorful",
-  "encore-settings@@encore-translucency-background": "encore-bg-sapphire",
   "encore-settings@@encore-translucency": true,
-  "encore-settings@@encore-translucency-strength": 0.6
+  "encore-settings@@encore-translucency-blur-amount": 10,
+  "encore-settings@@encore-translucency-strength": 0.25,
+  "encore-settings@@encore-translucency-image": "https://images.unsplash.com/photo-1576571732557-dd8365df689a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 }
