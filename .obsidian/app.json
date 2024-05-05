@@ -2,5 +2,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "2 - Attachments",
   "showUnsupportedFiles": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "showInlineTitle": false
 }
