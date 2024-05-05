@@ -8,7 +8,7 @@ Tags:  [[Scratch]] [[4 - Indexes/CS50X|CS50X]]
 
 # Week 0 - Scratch
 
-
+The first video starts off as an introduction to computer thinking, i.e. thinking in algorithms.
 
 ## References
 
