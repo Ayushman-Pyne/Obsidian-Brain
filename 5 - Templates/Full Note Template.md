@@ -1,3 +1,6 @@
+---
+Type: Full
+---
 {{date}} {{time}}
 
 Status: 

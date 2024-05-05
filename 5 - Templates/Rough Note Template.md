@@ -1,3 +1,6 @@
+---
+Type: Rough
+---
 {{date}} {{time}}
 
 Tags: 
