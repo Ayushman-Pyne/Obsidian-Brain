@@ -1,0 +1,7 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-carbon",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-translucency-background": "encore-bg-sapphire",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-translucency-strength": 0.6
+}
