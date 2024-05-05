@@ -8,8 +8,7 @@ Then after that u can check out the ***4 - Indexes*** for the journey you are in
 
 
 
-
-
 Feel Free To message me: [@artixx._.me](https://www.instagram.com/artixx._.me/)
 
 You can support my work here.
+(well i have no way to get any kind of payment yet so this is just place holder text 😅)
