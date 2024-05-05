@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/0 - First Official note.md",
+                "file": "6 - Full Notes/0 - Here Stands the first official full note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/0 - First Official note.md",
+                "file": "6 - Full Notes/0 - Here Stands the first official full note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/0 - First Official note.md",
+                "file": "6 - Full Notes/0 - Here Stands the first official full note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/0 - First Official note.md"
+                "file": "6 - Full Notes/0 - Here Stands the first official full note.md"
               }
             }
           },
@@ -173,11 +173,11 @@
   "active": "9fec9b0e6f80f2fb",
   "lastOpenFiles": [
     "1 - Rough Notes/0 - First Official note.md",
-    "6 - Full Notes/Here Stands the first official full note.md",
+    "1 - Rough Notes/Week 0 - Scratch.md",
+    "6 - Full Notes/0 - Here Stands the first official full note.md",
     "6 - Full Notes/Week 0 - Scratch.md",
     "6 - Full Notes/Week 1 - C.md",
     "6 - Full Notes/Week 2 - Arrays.md",
-    "1 - Rough Notes/Week 0 - Scratch.md",
     "5 - Templates/Rough Note Template.md",
     "5 - Templates/Full Note Template.md",
     "3 - Tags/Scratch.md",
