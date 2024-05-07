@@ -129,28 +129,9 @@
                 "file": "1 - Rough Notes/Week 0 - Scratch.md"
               }
             }
-          },
-          {
-            "id": "c5acbd3980e8d930",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a740e5b94d6dcd7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,6 +154,7 @@
   },
   "active": "9fec9b0e6f80f2fb",
   "lastOpenFiles": [
+    "1 - Rough Notes/Week 0 - Scratch.md",
     "2 - Attachments/Pasted image 20240507084332.png",
     "2 - Attachments/Pasted image 20240507083549.png",
     "2 - Attachments/Pasted image 20240507082607.png",
@@ -182,7 +164,6 @@
     "Readme.md",
     "1 - Rough Notes/0 - First Official note.md",
     "6 - Full Notes/0 - Here Stands the first official full note.md",
-    "1 - Rough Notes/Week 0 - Scratch.md",
     "6 - Full Notes/Week 0 - Scratch.md",
     "6 - Full Notes/Week 1 - C.md",
     "6 - Full Notes/Week 2 - Arrays.md",

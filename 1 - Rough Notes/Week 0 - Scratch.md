@@ -31,7 +31,8 @@ A byte consists of 8 bits.
 To represent the symbols that represent letters and convey them to the computer a byte follows a specific set of rules called the ASCII to interpret for the computer.
 ![[Pasted image 20240507084332.png |500]]
 
-The above table represents 
+The above table represents the ASCII equivalent to represent letters. For Example: 65 in binary would be interpreted by the computer as the letter **'A'** or 01000001 will be **'A'**. 
+only points to remember from the 
 
 
 
