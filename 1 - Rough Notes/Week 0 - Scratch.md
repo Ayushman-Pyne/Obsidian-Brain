@@ -47,9 +47,12 @@ the ones written in yellow are unicode for individual emojis girl, love sign and
 ![[Pasted image 20240507093650.png|300]]
 
 
-Representing Pictures in computer language i.e. binary. A common way of representing images is by showing millions of pixels each of which is colored. to represent color in commonly used convention is RGB. In theory, all colors are just combinations of Red, Green and Blue, so by adjusting the intensity of each color from range 0 to 255 for each of Red, Green and Blue.
+Representing Pictures in computer language i.e. binary. A common way of representing images is by showing millions of pixels each of which is colored. to represent color in commonly used convention is RGB. In theory, all colors are just combinations of Red, Green and Blue, so by adjusting the intensity of each color from range 0 to 255 for each of Red, Green and Blue. 
 
 
+
+### Searching Problem (Algorithmic thinking)
+ Now let's see a phonebook. If we need to find a name in the book there are many approaches. One of which being to search the name by cross referencing it with each name. Now the time
 
 
 
