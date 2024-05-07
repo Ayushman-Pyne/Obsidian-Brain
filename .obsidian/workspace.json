@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md",
+                "file": "hi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md",
+                "file": "hi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md"
+                "file": "hi.md"
               }
             }
           },
@@ -175,10 +176,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9fec9b0e6f80f2fb",
+  "active": "7c8d3e6082689cd3",
   "lastOpenFiles": [
-    "hi.md",
     "1 - Rough Notes/Week 0 - Scratch.md",
+    "hi.md",
     "2 - Attachments/Pasted image 20240507112315.png",
     "2 - Attachments/Pasted image 20240507111613.png",
     "2 - Attachments/Pasted image 20240507111510.png",
