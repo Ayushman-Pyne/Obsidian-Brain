@@ -61,8 +61,15 @@ An approach would be to divide the book in half and look for the name in the hal
 A more efficient approach will be to repeat this process again and again until u reach the page where the name is. Elaborating on that, if u divide the half again and keep the one where the name would be the time taken now will be exponentially less.
 ![[Pasted image 20240507111510.png|500]]
 
-The last appro
+The last approach in algorithm format would be:
+![[Pasted image 20240507111613.png|500]]
 
+To develop this computational thinking more, Scratch is introduced. Scratch is a visual puzzle type programming language used for making games, videos, etc. 
+
+The Scratch interface is a familiar one so i wont bother explaining. For namesakes here's the page
+![[Pasted image 20240507112315.png|500]]
+Check it out here: [Scratch - Imagine, Program, Share (mit.edu)](https://scratch.mit.edu/)
+And the next slides were pretty much all known and basic so i wont bother explaining.
 
 
 
