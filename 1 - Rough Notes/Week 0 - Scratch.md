@@ -22,7 +22,15 @@ The System we use to represent numbers is the decimal system. It has a base of 1
 
 Similarly the binary digits can be used to represent numbers or data in general.
 ![[Pasted image 20240507082403.png |200]]
-A one in the 
+A one in the 4th place from the left would represent 8.
+![[Pasted image 20240507082607.png|200]]
+
+A byte consists of 8 bits. 
+
+
+
+
+
 ## References
 
 [CS50x 2024 - Lecture 0 - Scratch - YouTube](https://www.youtube.com/watch?v=3LPJfIKxwWc)
