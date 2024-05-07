@@ -52,7 +52,11 @@ Representing Pictures in computer language i.e. binary. A common way of represen
 
 
 ### Searching Problem (Algorithmic thinking)
- Now let's see a phonebook. If we need to find a name in the book there are many approaches. One of which being to search the name by cross referencing it with each name. Now the time
+Now let's see a phonebook. If we need to find a name in the book there are many approaches. One of which being to search the name by cross referencing it with each name. Now the time taken at maximum will be N times the time taken to cross reference one name. N being the total number of names in the phone book.
+
+But this isn't efficient. Its rather time consuming if the name starts with a letter that shows up at the very last part of the book.
+
+A great approach pointed out by the instructor is that to assign the name a value. then 
 
 
 
