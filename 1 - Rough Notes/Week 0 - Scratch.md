@@ -56,7 +56,9 @@ Now let's see a phonebook. If we need to find a name in the book there are many 
 
 But this isn't efficient. Its rather time consuming if the name starts with a letter that shows up at the very last part of the book.
 
-A great approach pointed out by the instructor is that to assign the name a value. then 
+An approach would be to divide the book in half and look for the name in the half that it'll most likely be in. this halves the time taken.
+
+A more efficient approach will be to repeat this process again and again until u reach the page where the name is.
 
 
 
