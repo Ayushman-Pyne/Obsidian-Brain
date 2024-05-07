@@ -43,7 +43,13 @@ For the above mentioned example üëç is represented by U+1F44D and the emoji üë
 
 Similarly, 
 ![[Pasted image 20240507093333.png|300]]
-the ones written in yellow are unicode for individual emojis girl, love sign, boy connected by the 
+the ones written in yellow are unicode for individual emojis girl, love sign and boy connected by the modifier unicode U+200D. Another example of how this works is by changing the last boy emoji to another girl's emoji.
+![[Pasted image 20240507093650.png|300]]
+
+
+Representing Pictures in computer language i.e. binary. A common way of representing images is by showing millions of pixels each of which is colored. to represent color in commonly used convention is RGB. In theory, all colors are just combinations of Red, Green and Blue, so by adjusting the intensity of each color from range 0 to 255 for each of Red, Green and Blue.
+
+
 
 
 
