@@ -26,6 +26,12 @@ A one in the 4th place from the left would represent 8.
 ![[Pasted image 20240507082607.png|200]]
 
 A byte consists of 8 bits. 
+![[Pasted image 20240507083549.png|200]]
+
+To represent the symbols that represent letters and convey them to the computer a byte follows a specific set of rules called the ASCII to interpret for the computer.
+![[Pasted image 20240507084332.png |500]]
+
+The above table represents 
 
 
 
