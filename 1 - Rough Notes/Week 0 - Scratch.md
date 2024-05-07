@@ -71,9 +71,13 @@ The Scratch interface is a familiar one so i wont bother explaining. For namesak
 Check it out here: [Scratch - Imagine, Program, Share (mit.edu)](https://scratch.mit.edu/)
 And the next slides were pretty much all known and basic so i wont bother explaining.
 
+## Homework
 
+The homework i made was a scratch ping pong game that had a soothing background music and some sound effects. three sprites with different costumes and different backdrops with level changing features.
 
+Here's the link to the .sb3 file: [[The Ultimate ping pong game.sb3]]
 
+Here's the file on scratch website for demo purposes: [The Ultimate ping pong game on Scratch (mit.edu)](https://scratch.mit.edu/projects/1011592037/)
 
 ## References
 
