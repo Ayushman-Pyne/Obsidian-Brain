@@ -17,8 +17,12 @@ But that only leads us to get up to 5 in one hand, 10 if both hands are used, 20
 
 A binary digit in the computer is also called a Bit. 1 bit represents only 2 states ON and OFF.
 
-The System we use to represent numbers is the decimal system. It has a base of 10.
+The System we use to represent numbers is the decimal system. It has a base of 10, i.e. it has 10 base digits that are used to represent all the numbers. by using their position. 
+![[Pasted image 20240507082121.png|200]]
 
+Similarly the binary digits can be used to represent numbers or data in general.
+![[Pasted image 20240507082403.png |200]]
+A one in the 
 ## References
 
 [CS50x 2024 - Lecture 0 - Scratch - YouTube](https://www.youtube.com/watch?v=3LPJfIKxwWc)
