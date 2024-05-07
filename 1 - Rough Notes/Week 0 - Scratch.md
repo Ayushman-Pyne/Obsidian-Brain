@@ -38,7 +38,9 @@ Unicode is another way to represent the same. Unicode usually is 32 bits.
 
 #### U+1F602 is used to represent the 😂 face in Unicode.
 
-Another interesting thing about unicode is the combining of emojis or different elements of an emoji. For example: There is this 👍 emoji and this 👍🏻 emoji, they both represent thumbs up but are different in skin color. To represent them in unicode there were two ways. The first being to assign a different value for both the emojis, but that would create problems when there are more than one hand sign and 5 skin tones. The problem being that 
+Another interesting thing about unicode is the combining of emojis or different elements of an emoji. For example: There is this 👍 emoji and this 👍🏻 emoji, they both represent thumbs up but are different in skin color. To represent them in unicode there were two ways. The first being to assign a different value for both the emojis, but that would create problems when there are more than one hand sign and 5 skin tones. The problem being that there would be 5 times the number of emojis needed and will use more space. so this will not be the approach. Unicode developers decided to implement a completely different approach which was efficient and used less space. They decided to add modifiers which would instruct the computer that the emoji will have some of it's features will change.
+For e
+
 
 
 
