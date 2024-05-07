@@ -58,7 +58,12 @@ But this isn't efficient. Its rather time consuming if the name starts with a le
 
 An approach would be to divide the book in half and look for the name in the half that it'll most likely be in. this halves the time taken.
 
-A more efficient approach will be to repeat this process again and again until u reach the page where the name is.
+A more efficient approach will be to repeat this process again and again until u reach the page where the name is. Elaborating on that, if u divide the half again and keep the one where the name would be the time taken now will be exponentially less.
+![[Pasted image 20240507111510.png|500]]
+
+The last appro
+
+
 
 
 
