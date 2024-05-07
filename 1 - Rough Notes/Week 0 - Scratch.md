@@ -34,7 +34,11 @@ To represent the symbols that represent letters and convey them to the computer 
 The above table represents the ASCII equivalent to represent letters. For Example: 65 in binary would be interpreted by the computer as the letter **'A'** or 01000001 will be **'A'**. 
 Only points to remember from the table are number of A-Z and a-z.
 
-Unicode is another way to represent the same. Unicode usually is 32  
+Unicode is another way to represent the same. Unicode usually is 32 bits.
+
+#### U+1F602 is used to represent the 😂 face in Unicode.
+
+Another interesting thing about unicode is the combining of emojis or different elements of an emoji. For example: There is this 👍 emoji and this 👍🏻 emoji, they both represent thumbs up but are different in skin color. To represent them in unicode there were two ways. The first being to assign a different value for both the emojis, but that would create problems when there are more than one hand sign and 5 skin tones. The problem being that 
 
 
 
