@@ -13,8 +13,11 @@ The class then continues to explain the unary operator using fingers. For exampl
 
 Base represents the number of different digits used to represent a number. Here Base is 1 because one is only repeated and no other digit is used. 
 
-But that only leads us to get 5 numbers in one hand.
+But that only leads us to get up to 5 in one hand, 10 if both hands are used, 20 if u count your toes too. But what if we need to count higher than that we would need more fingers. This is where more base numbers come in play. As for computers, they use a base system of 0s and 1s. And the order is given priority. 0 represents OFF, 1 represents ON. These are basically on and off states of a transistor in the computer CPU. A computer CPU consists of millions of transistors.
 
+A binary digit in the computer is also called a Bit. 1 bit represents only 2 states ON and OFF.
+
+The System we use to represent numbers is the decimal system. It has a base of 10.
 
 ## References
 
