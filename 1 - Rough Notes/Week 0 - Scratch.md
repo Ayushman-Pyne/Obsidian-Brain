@@ -81,5 +81,6 @@ Here's the file on scratch website for demo purposes: [The Ultimate ping pong ga
 
 ## References
 
+[Week 0 Scratch - CS50x 2024 (harvard.edu)](https://cs50.harvard.edu/x/2024/weeks/0/)
 [CS50x 2024 - Lecture 0 - Scratch - YouTube](https://www.youtube.com/watch?v=3LPJfIKxwWc)
 [CS50 2023 - Lecture 0 - Scratch](https://cdn.cs50.net/2023/fall/lectures/0/lecture0.pdf)
