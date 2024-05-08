@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/CS50X.md",
+                "file": "1 - Rough Notes/Week 0 - Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Week 0 - Scratch.md",
+                "file": "1 - Rough Notes/Week 0 - Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/Week 0 - Scratch.md",
+                "file": "1 - Rough Notes/Week 0 - Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Week 0 - Scratch.md"
+                "file": "1 - Rough Notes/Week 0 - Scratch.md"
               }
             }
           },
@@ -182,11 +182,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2329be43d71bb036",
+  "active": "5231ab9c5a64a43f",
   "lastOpenFiles": [
-    "4 - Indexes/CS50X.md",
-    "1 - Rough Notes/Week 0 - Scratch.md",
     "6 - Full Notes/Week 0 - Scratch.md",
+    "1 - Rough Notes/Week 0 - Scratch.md",
+    "4 - Indexes/CS50X.md",
     "1 - Rough Notes/Week 1 - C.md",
     "3 - Tags/C.md",
     "hi.md",

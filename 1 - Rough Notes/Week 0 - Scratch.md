@@ -71,6 +71,8 @@ The Scratch interface is a familiar one so i wont bother explaining. For namesak
 Check it out here: [Scratch - Imagine, Program, Share (mit.edu)](https://scratch.mit.edu/)
 And the next slides were pretty much all known and basic so i wont bother explaining.
 
+Well, turns out all this is nicely documented in CS50 website. So ill just stop and link the notes in every page.
+[Lecture 0 - CS50x 2024 (harvard.edu)](https://cs50.harvard.edu/x/2024/notes/0/)
 ## Homework
 
 The homework i made was a scratch ping pong game that had a soothing background music and some sound effects. three sprites with different costumes and different backdrops with level changing features.
