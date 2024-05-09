@@ -10,7 +10,8 @@ Tags: [[CS50X]] [[C]]
 
 # Week 1 - C
 
-
+👇🏻All the lecture notes are present here 
+[Lecture 1 - CS50x 2024 (harvard.edu)](https://cs50.harvard.edu/x/2024/notes/1/)
 
 
 

@@ -9,9 +9,9 @@ Tags: [[Scratch]] [[CS50X]]
 
 
 # Week 0 - Scratch
+
+👇🏻All the lecture notes are present here 
 [Lecture 0 - CS50x 2024 (harvard.edu)](https://cs50.harvard.edu/x/2024/notes/0/)
-
-
 
 ## Homework
 
