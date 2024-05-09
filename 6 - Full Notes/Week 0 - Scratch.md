@@ -3,7 +3,7 @@ Type: Full
 ---
 2024-05-03 18:49
 
-Status: Started
+Status: Finished
 
 Tags: [[Scratch]] [[CS50X]]
 
@@ -15,7 +15,7 @@ Tags: [[Scratch]] [[CS50X]]
 
 ## Homework
 
-The homework i made was a scratch ping pong game that had a soothing background music and some sound effects. three sprites with different costumes and different backdrops with level changing features.
+The homework I made was a scratch ping pong game that had a soothing background music and some sound effects. three sprites with different costumes and different backdrops with level changing features.
 
 Here's the link to the .sb3 file: [[The Ultimate ping pong game.sb3]]
 

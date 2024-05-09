@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d43f8ab6187d51cc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2329be43d71bb036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Week 0 - Scratch.md",
+                "file": "7 - Rough Notes complete/Week 0 - Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "a370b92b12670430",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md",
+                "file": "7 - Rough Notes complete/Week 0 - Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md",
+                "file": "7 - Rough Notes complete/Week 0 - Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Week 0 - Scratch.md"
+                "file": "7 - Rough Notes complete/Week 0 - Scratch.md"
               }
             }
           },
@@ -184,10 +165,11 @@
   },
   "active": "5231ab9c5a64a43f",
   "lastOpenFiles": [
-    "6 - Full Notes/Week 0 - Scratch.md",
-    "1 - Rough Notes/Week 0 - Scratch.md",
-    "4 - Indexes/CS50X.md",
     "1 - Rough Notes/Week 1 - C.md",
+    "6 - Full Notes/Week 0 - Scratch.md",
+    "6 - Full Notes/Week 1 - C.md",
+    "7 - Rough Notes complete/Week 0 - Scratch.md",
+    "4 - Indexes/CS50X.md",
     "3 - Tags/C.md",
     "hi.md",
     "2 - Attachments/Pasted image 20240507112315.png",
@@ -203,7 +185,6 @@
     "Readme.md",
     "1 - Rough Notes/0 - First Official note.md",
     "6 - Full Notes/0 - Here Stands the first official full note.md",
-    "6 - Full Notes/Week 1 - C.md",
     "6 - Full Notes/Week 2 - Arrays.md",
     "5 - Templates/Rough Note Template.md",
     "5 - Templates/Full Note Template.md",
