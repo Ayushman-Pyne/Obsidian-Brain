@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBox2Line",
+      "RiPenNibLine",
+      "RiGlobeLine",
       "SiExcalidraw",
-      "FasChalkboardUser",
-      "RiInboxFill",
-      "RiInboxLine",
-      "FasBook"
+      "FasChalkboardUser"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -45,12 +45,12 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "06 - Attachments": "FasFolderPlus",
-  "02 - Full Notes": "FasBook",
-  "05 - Templates": "FasBookmark",
-  "04 - Rough Notes complete": "RiInboxFill",
-  "07 - Presentations": "FasChalkboardUser",
-  "03 - Excalidraw": "SiExcalidraw",
-  "00 - Map Of Contents": "RiFileList2Fill",
-  "05 - Fleeting": "FasNoteSticky"
+  "00 - Map Of Contents": "RiGlobeLine",
+  "05 - Fleeting": "FasNoteSticky",
+  "04 - Permanent": "FasBook",
+  "99 - Meta": "FasBookmark",
+  "03 - Resources/06 - Attachments": "FasFolderPlus",
+  "03 - Resources/03 - Excalidraw": "SiExcalidraw",
+  "01 - Projects": "RiPenNibLine",
+  "02 - Areas": "RiBox2Line"
 }

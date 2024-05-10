@@ -10,9 +10,9 @@ cssclasses:
 [Visual Studio Code for CS50](https://cs50.dev/)
 
 
-# [[02 - Full Notes/Week 0 - Scratch]]
+# [[04 - Permanent/Week 0 - Scratch]]
 
-![[02 - Full Notes/Week 0 - Scratch|Week 0 - Scratch]]
+![[04 - Permanent/Week 0 - Scratch|Week 0 - Scratch]]
 
 # [[Week 1 - C]]
 
