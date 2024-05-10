@@ -8,7 +8,7 @@ cssclasses:
 > [!multi-column]
 >
 >> ## Courses
->> ## [[CS50X]]
+>> ### [[CS50X]]
 >> - [[01 - Projects/CS50X/Week 0 - Scratch|Week 0 - Scratch]]
 >> - [[Week 1 - C]]
 >> - [[Week 2 - Arrays]]
@@ -20,7 +20,9 @@ cssclasses:
 >> - [[Week 8 - HTML, CSS, JavaScript]]
 >> - [[Week 9 - Flask]]
 >> - [[Week 10 Cybersecurity]]
->>
+>
+>
+>
 >
 >> ## Books
 >> #### Requirement
