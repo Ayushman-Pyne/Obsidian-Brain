@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Rough Notes complete/Test.md",
+                "file": "02 - Full Notes/Week 0 - Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Rough Notes complete/Test.md",
+                "file": "02 - Full Notes/Week 0 - Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Rough Notes complete/Test.md",
+                "file": "02 - Full Notes/Week 0 - Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Rough Notes complete/Test.md"
+                "file": "02 - Full Notes/Week 0 - Scratch.md"
               }
             }
           },
@@ -170,14 +170,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0155e84e638cc8a7",
+  "active": "1f5262fbc93f44ff",
   "lastOpenFiles": [
-    "04 - Rough Notes complete/Test.md",
     "04 - Rough Notes complete/Week 0 - Scratch.md",
-    "Pasted image 20240510201303.png",
-    "Pasted image 20240510201145.png",
-    "05 - Templates/Full Note Template.md",
     "05 - Templates/Rough Note Template.md",
+    "05 - Templates/Full Note Template.md",
+    "04 - Rough Notes complete/Test.md",
+    "06 - Attachments/Pasted image 20240510201303.png",
+    "06 - Attachments/Pasted image 20240510201145.png",
     "02 - Full Notes/Week 1 - C.md",
     "02 - Full Notes/Week 0 - Scratch.md",
     "02 - Full Notes/Week 2 - Arrays.md",

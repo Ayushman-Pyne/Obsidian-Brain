@@ -3,7 +3,8 @@ Date: 2024-05-10 19:40
 tags:
   - CS50X
   - Scratch
-cssclasses: []
+cssclasses:
+  - center-titles
 Status: Completed
 ---
 # Week 0 - Scratch
