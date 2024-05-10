@@ -5,6 +5,10 @@
       "path": "05 - Fleeting/0 - First Official note.md"
     },
     {
+      "basename": "Home",
+      "path": "00 - Map Of Contents/Home.md"
+    },
+    {
       "basename": "Readme",
       "path": "Readme.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Week 1 - C",
       "path": "01 - Projects/CS50X/Week 1 - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00 - Map Of Contents/Home.md"
     },
     {
       "basename": "Week 0 - Scratch",

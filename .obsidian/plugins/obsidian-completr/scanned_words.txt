@@ -14,6 +14,7 @@ exponentially
 etc
 explaining
 every
+enough
 plugin
 parsed
 present
@@ -39,6 +40,10 @@ programming
 pretty
 possible
 payment
+profile
+progress
+passion
+painful
 tags
 to
 the
@@ -85,6 +90,7 @@ System
 Similarly
 Searching
 So
+Science
 EXCALIDRAW
 Elements
 Example
@@ -92,6 +98,7 @@ Elaborating
 Every
 VIEW
 Vitae
+Vault
 in
 is
 ipsum
@@ -112,6 +119,9 @@ interface
 ill
 interested
 introductory
+introduce
+important
+installed
 MORE
 My
 OPTIONS
@@ -120,6 +130,8 @@ OFF
 ON
 Only
 One
+Ohk
+Obsidian
 menu
 made
 music
@@ -139,6 +151,7 @@ message
 me
 my
 mess
+myself
 of
 on
 ornare
@@ -151,6 +164,10 @@ other
 or
 ones
 out
+online
+offline
+own
+obsidian
 document
 dot
 different
@@ -170,6 +187,9 @@ develop
 documented
 database
 done
+date
+do
+don
 Drawing
 Date
 Define
@@ -193,6 +213,7 @@ general
 girl
 games
 goes
+gain
 hello
 here
 homework
@@ -225,6 +246,10 @@ look
 ll
 likely
 lead
+learning
+linking
+like
+living
 cssclasses
 center
 costumes
@@ -258,6 +283,11 @@ combinations
 cross
 consuming
 check
+completed
+courses
+course
+continue
+company
 Important
 In
 It
@@ -266,6 +296,7 @@ Its
 Is
 Ill
 Indexes
+IST
 Links
 Lorem
 Learning
@@ -285,6 +316,7 @@ now
 namesakes
 next
 nicely
+navigate
 CS
 Completed
 Courses
@@ -293,6 +325,8 @@ Craft
 CPU
 Check
 Complete
+Chartreuse
+Computer
 Week
 Well
 All
@@ -303,6 +337,8 @@ ASCII
 Another
 Algorithmic
 An
+Ayushman
+Arceus
 are
 and
 amet
@@ -324,6 +360,9 @@ again
 algorithm
 after
 any
+am
+anyone
+attend
 Homework
 Here
 was
@@ -346,6 +385,9 @@ writing
 work
 well
 words
+who
+week
+watch
 scratch
 soothing
 some
@@ -380,6 +422,9 @@ stop
 support
 style
 stored
+should
+span
+storing
 background
 backdrops
 border
@@ -414,6 +459,7 @@ familiar
 folder
 follow
 formal
+finally
 References
 Resources
 Requirement
@@ -422,12 +468,14 @@ Representing
 RGB
 Red
 Read
+Rules
 velit
 video
 value
 very
 visual
 videos
+visits
 ut
 unary
 using
@@ -449,6 +497,7 @@ Free
 Full
 Just
 Journey
+Job
 represent
 representing
 repeated
@@ -464,19 +513,24 @@ repeat
 reach
 reader
 re
+refer
+really
 Base
 But
 Bit
 Blue
+Basically
 your
 yellow
 you
 yet
 Pictures
 Problem
+Pyne
 just
 journey
 Green
+Ground
 Now
 Note
 Notes

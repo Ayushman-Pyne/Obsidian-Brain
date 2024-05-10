@@ -1,10 +1,11 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "attachmentFolderPath": "03 - Resources/06 - Attachments",
   "showUnsupportedFiles": true,
   "trashOption": "local",
   "showInlineTitle": false,
   "readableLineLength": false,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest"
 }
