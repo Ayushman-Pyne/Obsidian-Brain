@@ -33,9 +33,9 @@
   },
   "2 - Attachments": "FasFolderPlus",
   "5 - Templates": "FasBookmark",
-  "1 - Rough Notes": "FasNoteSticky",
   "3 - Tags": "FasTags",
   "4 - Indexes": "RiFileList2Fill",
-  "6 - Full Notes": "FasBook",
-  "7 - Rough Notes complete": "RiInboxFill"
+  "7 - Rough Notes complete": "RiInboxFill",
+  "00 - Rough Notes": "FasNoteSticky",
+  "01 - Full Notes": "FasBook"
 }

@@ -6,9 +6,9 @@
 [Visual Studio Code for CS50](https://cs50.dev/)
 
 
-# [[Week 0 - Scratch]]
+# [[01 - Full Notes/Week 0 - Scratch]]
 
-![[6 - Full Notes/Week 0 - Scratch|Week 0 - Scratch]]
+![[01 - Full Notes/Week 0 - Scratch|Week 0 - Scratch]]
 
 # [[Week 1 - C]]
 

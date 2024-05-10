@@ -1,5 +1,10 @@
 {
-  "accentColor": "",
-  "cssTheme": "Dark Graphite Pie",
-  "showViewHeader": true
+  "accentColor": "#16bfe9",
+  "cssTheme": "Vanilla AMOLED",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Notebook Backgrounds"
+  ],
+  "theme": "system"
 }
