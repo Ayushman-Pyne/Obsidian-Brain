@@ -25,11 +25,13 @@ This will continue until I gain a Job that I like or I finally understand enough
 - This is a Obsidian Vault so use obsidian to navigate... It'll be less painful.
 	Here's the Obsidian page link if you don't have it installed on your computer.	[Obsidian](https://obsidian.md/)
 - I really don't think anyone would need to fork this and try to make it better because there'll be a lot of notes in this and sorting them would be time consuming and inefficient.
+- Don't change the Theme to any other. If you prefer Light mode... well... you do you... the default light mode theme looks pretty good too. But it's my strong recommendation, that you use the dark amoled mode 
 - This is a Joker's approach to learning basically. It's all linked and u just have to complete a file before going to the next file. I as a layman can understand then u can too.
 
 
 
-Feel Free To message me: [@artixx._.me](https://www.instagram.com/artixx._.me/)
+#### Feel Free To message me: [@artixx._.me](https://www.instagram.com/artixx._.me/)
 
-You can support my work here.
+##### You can support my work here.
 (well i have no way to get any kind of payment yet so this is just place holder text 😅)
+If u want to buy me Obsidian Publish so that i can make this vault available online. Email me [@Ayushman](mailto:arceus.z2xy@gmail.com?cc=ayushman.pyne@gmail.com&subject=You%20Wanna%20Buy%20me%20Obsidian)

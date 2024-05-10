@@ -46,6 +46,8 @@ profile
 progress
 passion
 painful
+pertaining
+pyne
 tags
 to
 the
@@ -86,6 +88,10 @@ talking
 thought
 think
 training
+taking
+term
+thoughts
+things
 Switch
 Some
 Scratch
@@ -97,11 +103,13 @@ Searching
 So
 Science
 Started
+Short
 EXCALIDRAW
 Elements
 Example
 Elaborating
 Every
+Email
 VIEW
 Vitae
 Vault
@@ -130,6 +138,7 @@ important
 installed
 inefficient
 intro
+ideas
 MORE
 My
 OPTIONS
@@ -183,6 +192,7 @@ own
 obsidian
 organization
 organized
+over
 document
 dot
 different
@@ -205,6 +215,9 @@ done
 date
 do
 don
+deadlines
+definite
+doing
 Drawing
 Date
 Define
@@ -232,6 +245,7 @@ goes
 gain
 going
 guarantee
+gmail
 hello
 here
 homework
@@ -248,6 +262,7 @@ holder
 head
 he
 his
+helpful
 loorem
 lecture
 level
@@ -273,6 +288,7 @@ living
 lot
 linked
 legible
+layman
 cssclasses
 center
 costumes
@@ -313,6 +329,7 @@ continue
 company
 complete
 context
+com
 Important
 In
 It
@@ -342,6 +359,7 @@ namesakes
 next
 nicely
 navigate
+note
 CS
 Completed
 Courses
@@ -354,6 +372,7 @@ Chartreuse
 Computer
 Week
 Well
+Wider
 All
 Attending
 As
@@ -365,6 +384,8 @@ An
 Ayushman
 Arceus
 About
+Areas
+Archives
 are
 and
 amet
@@ -389,6 +410,9 @@ any
 am
 anyone
 attend
+areas
+available
+ayushman
 Homework
 Here
 was
@@ -416,6 +440,9 @@ week
 watch
 write
 without
+want
+while
+working
 scratch
 soothing
 some
@@ -462,6 +489,8 @@ sorting
 say
 special
 stuff
+shortening
+scope
 background
 backdrops
 border
@@ -484,6 +513,7 @@ basic
 better
 before
 bee
+buy
 features
 file
 for
@@ -512,6 +542,7 @@ RGB
 Red
 Read
 Rules
+Refined
 velit
 video
 value
@@ -519,6 +550,7 @@ very
 visual
 videos
 visits
+vault
 ut
 unary
 using
@@ -562,6 +594,7 @@ re
 refer
 really
 random
+reading
 Base
 But
 Bit
@@ -575,6 +608,9 @@ Pictures
 Problem
 Pyne
 Permanent
+PARA
+Projects
+Publish
 just
 journey
 Green
