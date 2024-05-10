@@ -183,18 +183,15 @@
     "hiddenItems": {
       "templates:Insert template": true,
       "zk-prefixer:Create new unique note": false,
-      "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "audio-recorder:Start/stop recording": true,
       "markdown-importer:Open format converter": true,
       "workspaces:Manage workspace layouts": true,
-      "obsidian-advanced-slides:Show Slide Preview": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "3e9a4b878cf70035",
