@@ -1,8 +1,7 @@
 ---
-cssclasses:
-  - center-titles
+cssclasses: []
 ---
-# HOME
+# <span style= "text-align:center;!important ">Home Page</span>
 
 ### Courses
 
