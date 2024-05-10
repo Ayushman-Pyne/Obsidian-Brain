@@ -5,7 +5,8 @@
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "Notebook Backgrounds",
-    "CyanVoxel's General Tweaks"
+    "CyanVoxel's General Tweaks",
+    "MCL Multi Column"
   ],
   "theme": "system",
   "interfaceFontFamily": "JetBrains Mono NL",
