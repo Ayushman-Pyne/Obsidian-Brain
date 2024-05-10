@@ -148,6 +148,19 @@ https://angel-rs.github.io/css-color-filter-generator
 .embed-blueprint img {
   background-color: var(--page-blue);
 }
+/* Adds a dot grid on page background */
+.dot-grid{
+  --dot-bg: black;
+  --dot-color: var(--pen-gray);
+  --dot-size: 1px;
+  --dot-space: 22px;
+  background:
+    linear-gradient(90deg, 
+    var(--dot-bg) calc(var(--dot-space) - var(--dot-size)), transparent 1%) center / var(--dot-space) var(--dot-space),
+    linear-gradient(var(--dot-bg) calc(var(--dot-space) - var(--dot-size)), 
+    transparent 1%) center / var(--dot-space) var(--dot-space),
+    var(--dot-color);
+}
 
 /* Adds a grid layout on page background */
 .page-grid {

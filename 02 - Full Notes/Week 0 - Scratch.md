@@ -5,6 +5,7 @@ tags:
   - Scratch
 cssclasses:
   - center-titles
+  - dot-grid
 Status: Completed
 ---
 # Week 0 - Scratch
