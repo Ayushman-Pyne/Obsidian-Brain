@@ -13,10 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md",
+                "file": "01 - Rough Notes/Test Slides.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "fce31119bbc14018",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,35 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9073d02d6ddfad8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6a07fd596bdece8f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "1fd1f930547a8774",
             "type": "leaf",
             "state": {
@@ -116,16 +96,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "e76ac14893abe31e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md"
               }
             }
           },
@@ -142,23 +112,28 @@
             }
           },
           {
-            "id": "d9131cd132638708",
+            "id": "e76ac14893abe31e",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "01 - Rough Notes/Test Slides.md"
+              }
             }
           },
           {
-            "id": "374929b5fb342254",
+            "id": "6a07fd596bdece8f",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Rough Notes/Test Slides.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "b019791a747a5609",
@@ -169,6 +144,22 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9131cd132638708",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2d0c9b7f19738c4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -190,24 +181,24 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "374929b5fb342254",
+  "active": "ee1abc87844dbd31",
   "lastOpenFiles": [
     "02 - Full Notes/Week 0 - Scratch.md",
+    "01 - Rough Notes/Test Slides.md",
+    "04 - Rough Notes complete/Test.md",
+    "01 - Rough Notes/0 - First Official note.md",
     "04 - Rough Notes complete/Week 0 - Scratch.md",
     "05 - Templates/Rough Note Template.md",
     "05 - Templates/Full Note Template.md",
-    "04 - Rough Notes complete/Test.md",
     "06 - Attachments/Pasted image 20240510201303.png",
     "06 - Attachments/Pasted image 20240510201145.png",
     "02 - Full Notes/Week 1 - C.md",
     "02 - Full Notes/Week 2 - Arrays.md",
     "00 - Indexes/CS50X.md",
     "02 - Full Notes/0 - Here Stands the first official full note.md",
-    "01 - Rough Notes/0 - First Official note.md",
     "1 - Rough Notes/Week 1 - C.md",
     "04 - Tags/C.md",
     "hi.md",

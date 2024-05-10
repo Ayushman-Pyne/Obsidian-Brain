@@ -21,10 +21,11 @@
         "order": 0
       },
       {
-        "rule": "CS50X",
+        "rule": "Week",
         "icon": "SiEdx",
         "for": "files",
-        "order": 1
+        "order": 1,
+        "useFilePath": false
       }
     ],
     "extraMargin": {
