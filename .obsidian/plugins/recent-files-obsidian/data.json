@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - First Official note",
+      "path": "05 - Fleeting/0 - First Official note.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
       "basename": "CS50X",
       "path": "00 - Map Of Contents/CS50X.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Test",
       "path": "07 - Archives/Test.md"
-    },
-    {
-      "basename": "0 - First Official note",
-      "path": "05 - Fleeting/0 - First Official note.md"
     }
   ],
   "omittedPaths": [],

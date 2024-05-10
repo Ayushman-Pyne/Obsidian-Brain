@@ -1,2 +1,9 @@
-This would an introductory file that would lead to make the reader understand this mess of a database 😅. Every Note in this folder is made will follow a writing style of me talking in my head. The same goes for ***7 - Rough Notes Complete*** folder as the notes that I have done re-writing in formal words (that will be stored in the ***6 - Full Notes*** folder) will be stored there.
+## Ohk so I should introduce myself 
+# I am Ayushman Pyne. 
+## But anyone who visits this profile will refer to me as <span style = "color:Chartreuse">Arceus.</span>
+
+So as of now the date and time is 2024-05-10 23:53 in IST. 
+I have completed the week 0 of CS50X 2024 and it's really interesting. As I progress in the journey of basically me learning Computer Science. I'll keep storing the notes and the homework i do and keep linking them here. All the courses that I attend, any course 
+
+### This is a Obsidian Vault so use obsidian to navigate... It'll be less painful.
 

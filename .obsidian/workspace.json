@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Map Of Contents/CS50X.md",
+                "file": "05 - Fleeting/0 - First Official note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Map Of Contents/CS50X.md"
+                "file": "05 - Fleeting/0 - First Official note.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Map Of Contents/CS50X.md",
+                "file": "05 - Fleeting/0 - First Official note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Map Of Contents/CS50X.md",
+                "file": "05 - Fleeting/0 - First Official note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +198,9 @@
   },
   "active": "4a5484c2abecc9df",
   "lastOpenFiles": [
-    "07 - Archives/Week 0 - Scratch.md",
+    "Readme.md",
     "00 - Map Of Contents/CS50X.md",
+    "07 - Archives/Week 0 - Scratch.md",
     "01 - Projects/CS50X/Week 1 - C.md",
     "00 - Map Of Contents/Home.md",
     "01 - Projects/CS50X/Week 0 - Scratch.md",
@@ -235,7 +236,6 @@
     "04 - Permanent/0 - Here Stands the first official full note.md",
     "1 - Rough Notes/Week 1 - C.md",
     "04 - Tags/C.md",
-    "hi.md",
     "03 - Resources/06 - Attachments/Pasted image 20240507112315.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507111613.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507111510.png",
