@@ -46,11 +46,11 @@
     "debugMode": false
   },
   "06 - Attachments": "FasFolderPlus",
-  "00 - Indexes": "RiFileList2Fill",
-  "01 - Rough Notes": "FasNoteSticky",
   "02 - Full Notes": "FasBook",
   "05 - Templates": "FasBookmark",
   "04 - Rough Notes complete": "RiInboxFill",
   "07 - Presentations": "FasChalkboardUser",
-  "03 - Excalidraw": "SiExcalidraw"
+  "03 - Excalidraw": "SiExcalidraw",
+  "00 - Map Of Contents": "RiFileList2Fill",
+  "05 - Fleeting": "FasNoteSticky"
 }

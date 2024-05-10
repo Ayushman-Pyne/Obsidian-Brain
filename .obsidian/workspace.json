@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.51103591918945
+    "width": 228.51103591918945
   },
   "right": {
     "id": "a370b92b12670430",
@@ -168,10 +168,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cf7ec84569bd73f5",
+  "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
     "03 - Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md",
-    "01 - Rough Notes/test excalidraw.md",
+    "05 - Fleeting/test excalidraw.md",
     "03 - Excalidraw/Drawing 2024-05-10 21.59.02.excalidraw.md",
     "03 - Excalidraw/Drawing 2024-05-10 21.56.04.excalidraw.md",
     "03 - Excalidraw",
@@ -180,7 +180,7 @@
     "07 - Presentations",
     "02 - Full Notes/Week 0 - Scratch.md",
     "04 - Rough Notes complete/Test.md",
-    "01 - Rough Notes/0 - First Official note.md",
+    "05 - Fleeting/0 - First Official note.md",
     "04 - Rough Notes complete/Week 0 - Scratch.md",
     "05 - Templates/Rough Note Template.md",
     "05 - Templates/Full Note Template.md",
@@ -188,7 +188,7 @@
     "06 - Attachments/Pasted image 20240510201145.png",
     "02 - Full Notes/Week 1 - C.md",
     "02 - Full Notes/Week 2 - Arrays.md",
-    "00 - Indexes/CS50X.md",
+    "00 - Map Of Contents/CS50X.md",
     "02 - Full Notes/0 - Here Stands the first official full note.md",
     "1 - Rough Notes/Week 1 - C.md",
     "04 - Tags/C.md",
@@ -211,10 +211,10 @@
     "02 - Full Notes/Week 9 - Flask.md",
     "02 - Full Notes/Week 8 - HTML, CSS, JavaScript.md",
     "02 - Full Notes/Week 7 - SQL.md",
-    "00 - Indexes",
+    "00 - Map Of Contents",
     "02 - Full Notes",
     "04 - Tags",
-    "01 - Rough Notes",
+    "05 - Fleeting",
     "06 - Attachments"
   ]
 }
