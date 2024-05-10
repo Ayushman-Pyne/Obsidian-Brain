@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f5262fbc93f44ff",
+            "id": "ee1abc87844dbd31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,8 +170,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f5262fbc93f44ff",
+  "active": "ee1abc87844dbd31",
   "lastOpenFiles": [
+    "02 - Full Notes/Week 0 - Scratch.md",
     "04 - Rough Notes complete/Week 0 - Scratch.md",
     "05 - Templates/Rough Note Template.md",
     "05 - Templates/Full Note Template.md",
@@ -179,7 +180,6 @@
     "06 - Attachments/Pasted image 20240510201303.png",
     "06 - Attachments/Pasted image 20240510201145.png",
     "02 - Full Notes/Week 1 - C.md",
-    "02 - Full Notes/Week 0 - Scratch.md",
     "02 - Full Notes/Week 2 - Arrays.md",
     "00 - Indexes/CS50X.md",
     "02 - Full Notes/0 - Here Stands the first official full note.md",

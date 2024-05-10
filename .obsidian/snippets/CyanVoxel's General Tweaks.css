@@ -1,10 +1,5 @@
 /* CyanVoxel's General Tweaks */
 
-.cm-s-obsidian span.cm-hmd-internal-link {
-  font-weight: 400;
-  color: var(--linkpink)  !important;
-}
-
 .theme-light,
 .theme-dark {
   --link-decoration: none;
