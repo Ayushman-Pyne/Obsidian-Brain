@@ -1,5 +1,10 @@
-## Courses Attending
+---
+cssclasses:
+  - center-titles
+---
+# HOME
 
+### Courses
 
 > [!multi-column]
 >
@@ -27,3 +32,4 @@
 >> - [ ] Craft User Story
 >> - [ ] Develop draft sketches
 
+### Books

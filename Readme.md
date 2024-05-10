@@ -1,6 +1,6 @@
 ## Ohk so I should introduce myself 
 # I am Ayushman Pyne. 
-## But anyone who visits this profile will refer to me as <span style = "color:Chartreuse">Arceus.</span>
+## But anyone who visits this repo will refer to me as <span style = "color:Chartreuse">Arceus.</span>
 
 So as of now the date and time is 2024-05-10 23:53 in IST. 
 I have completed the week 0 of CS50X 2024 and it's really interesting. As I progress in the journey of basically me learning Computer Science. I'll keep storing the notes and the homework i do and keep linking them here. All the courses that I watch online, any course on Computer Science I attend offline. If the notes are important to me I'll keep storing them here.
@@ -8,7 +8,9 @@ I have completed the week 0 of CS50X 2024 and it's really interesting. As I prog
 This will continue until I gain a Job that I like or I finally understand enough to make my own company🤞🏻. Basically make a living out of this passion of computers I have.
 
 ## About The Vault
-- Everything starts from the [[Home]]Page. 
+- Everything starts from the [[Home]]Page.
+>[!tip] [[Home|Go to HOMEPAGE for detailed index]]
+
 - I saw this video of [CyanVoxel](https://www.youtube.com/@cyanvoxel) where he showcased his setup and the organization made sense to me. So I'll use it here. In the [Video](https://www.youtube.com/watch?v=rAkerV8rlow), he uses a mixture of 
 	- Zettelkasten folders 
 		- Fleeting (random thought notes and are meant to be more surface level)
@@ -19,7 +21,7 @@ This will continue until I gain a Job that I like or I finally understand enough
 		- Areas (Wider scope that can keep on going, basically ideas i would have while learning)
 		- Resources (just like the Zettelkasten folder is used to keep more over thoughts and surface level stuff pertaining to me or the things i am doing at the time only)
 		- Archives (Completed Projects or areas that i have completed working on.)
-- There'll also be a large deal of self help books and movie
+- There'll also be a large deal of books and Movie Reviews kinda...
 
 
 ### Some Ground Rules
@@ -31,7 +33,7 @@ This will continue until I gain a Job that I like or I finally understand enough
 
 
 #### Feel Free To message me: [@artixx._.me](https://www.instagram.com/artixx._.me/)
-If you are learning from this vault and happened to post any of the notes. You can also tag me in the above account to encourage me in making more notes. 
+If you are learning from this vault and happened to post any of the notes. You can also tag me at the above account to encourage me in making more notes. 
 
 ##### You can support my work here.
 (well i have no way to get any kind of payment yet so this is just place holder text 😅)

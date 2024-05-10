@@ -17,6 +17,7 @@ every
 enough
 explore
 end
+encourage
 plugin
 parsed
 present
@@ -48,6 +49,8 @@ passion
 painful
 pertaining
 pyne
+prefer
+post
 tags
 to
 the
@@ -92,6 +95,8 @@ taking
 term
 thoughts
 things
+theme
+tag
 Switch
 Some
 Scratch
@@ -110,6 +115,7 @@ Example
 Elaborating
 Every
 Email
+Everything
 VIEW
 Vitae
 Vault
@@ -141,6 +147,7 @@ intro
 ideas
 MORE
 My
+Movie
 OPTIONS
 Ongoing
 OFF
@@ -174,6 +181,8 @@ meant
 mostly
 mistakes
 minimum
+mode
+mailto
 of
 on
 ornare
@@ -218,11 +227,15 @@ don
 deadlines
 definite
 doing
+deal
+default
+dark
 Drawing
 Date
 Define
 Develop
 Documented
+Don
 Text
 The
 Type
@@ -234,6 +247,7 @@ There
 They
 Then
 Title
+Theme
 game
 grid
 get
@@ -246,6 +260,7 @@ gain
 going
 guarantee
 gmail
+good
 hello
 here
 homework
@@ -263,6 +278,7 @@ head
 he
 his
 helpful
+happened
 loorem
 lecture
 level
@@ -289,6 +305,9 @@ lot
 linked
 legible
 layman
+large
+light
+looks
 cssclasses
 center
 costumes
@@ -330,6 +349,7 @@ company
 complete
 context
 com
+cc
 Important
 In
 It
@@ -342,6 +362,7 @@ IST
 Links
 Lorem
 Learning
+Light
 nodes
 notes
 no
@@ -373,6 +394,7 @@ Computer
 Week
 Well
 Wider
+Wanna
 All
 Attending
 As
@@ -413,8 +435,12 @@ attend
 areas
 available
 ayushman
+amoled
+account
+arceus
 Homework
 Here
+HOME
 was
 with
 website
@@ -491,6 +517,8 @@ special
 stuff
 shortening
 scope
+strong
+subject
 background
 backdrops
 border
@@ -514,6 +542,7 @@ better
 before
 bee
 buy
+books
 features
 file
 for
@@ -543,6 +572,7 @@ Red
 Read
 Rules
 Refined
+Reviews
 velit
 video
 value
@@ -595,11 +625,14 @@ refer
 really
 random
 reading
+repo
+recommendation
 Base
 But
 Bit
 Blue
 Basically
+Buy
 your
 yellow
 you
@@ -611,6 +644,7 @@ Permanent
 PARA
 Projects
 Publish
+Page
 just
 journey
 Green
@@ -622,5 +656,7 @@ Not
 keep
 known
 kind
+kinda
 You
 Zettelkasten
+xy

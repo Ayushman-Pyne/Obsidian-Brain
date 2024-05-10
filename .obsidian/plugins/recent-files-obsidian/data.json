@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Readme",
-      "path": "Readme.md"
-    },
-    {
-      "basename": "0 - Here Stands the first official full note",
-      "path": "07 - Archives/0 - Here Stands the first official full note.md"
+      "basename": "Home",
+      "path": "00 - Maps Of Contents/Home.md"
     },
     {
       "basename": "0 - First Official note",
       "path": "07 - Archives/0 - First Official note.md"
     },
     {
+      "basename": "Test column",
+      "path": "07 - Archives/Test column.md"
+    },
+    {
+      "basename": "test excalidraw",
+      "path": "07 - Archives/test excalidraw.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
       "basename": "CS50X",
       "path": "00 - Maps Of Contents/CS50X.md"
     },
     {
-      "basename": "Home",
-      "path": "00 - Maps Of Contents/Home.md"
+      "basename": "0 - Here Stands the first official full note",
+      "path": "07 - Archives/0 - Here Stands the first official full note.md"
     },
     {
       "basename": "Week 0 - Scratch",
@@ -47,10 +55,6 @@
     {
       "basename": "Drawing 2024-05-10 22.01.25.excalidraw",
       "path": "03 - Resources/03 - Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md"
-    },
-    {
-      "basename": "test excalidraw",
-      "path": "07 - Archives/test excalidraw.md"
     },
     {
       "basename": "Test",
