@@ -11,8 +11,13 @@
             "id": "cf7ec84569bd73f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Map Of Contents/CS50X.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -104,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "00 - Map Of Contents/CS50X.md"
               }
             }
           },
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Map Of Contents/CS50X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,27 +175,29 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "00 - Map Of Contents/Home Page.canvas",
+    "00 - Map Of Contents/CS50X.md",
+    "04 - Permanent/Week 0 - Scratch.md",
+    "07 - Archives/Test Slides.md",
     "06 - Daily",
     "07 - Archives",
     "03 - Resources",
     "02 - Areas",
     "01 - Projects",
     "03 - Resources/03 - Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md",
-    "05 - Fleeting/test excalidraw.md",
+    "07 - Archives/test excalidraw.md",
     "03 - Excalidraw/Drawing 2024-05-10 21.59.02.excalidraw.md",
     "03 - Excalidraw/Drawing 2024-05-10 21.56.04.excalidraw.md",
     "03 - Resources/03 - Excalidraw",
-    "99 - Meta/Test Slides.md",
     "03 - Exacalidraw",
     "07 - Presentations",
-    "04 - Permanent/Week 0 - Scratch.md",
-    "99 - Meta/Test.md",
+    "07 - Archives/Test.md",
     "05 - Fleeting/0 - First Official note.md",
     "07 - Archives/Week 0 - Scratch.md",
     "99 - Meta/Rough Note Template.md",
@@ -197,7 +206,6 @@
     "03 - Resources/06 - Attachments/Pasted image 20240510201145.png",
     "04 - Permanent/Week 1 - C.md",
     "04 - Permanent/Week 2 - Arrays.md",
-    "00 - Map Of Contents/CS50X.md",
     "04 - Permanent/0 - Here Stands the first official full note.md",
     "1 - Rough Notes/Week 1 - C.md",
     "04 - Tags/C.md",
