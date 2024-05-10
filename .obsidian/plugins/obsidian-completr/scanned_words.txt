@@ -15,6 +15,8 @@ etc
 explaining
 every
 enough
+explore
+end
 plugin
 parsed
 present
@@ -83,6 +85,7 @@ text
 talking
 thought
 think
+training
 Switch
 Some
 Scratch
@@ -126,6 +129,7 @@ introduce
 important
 installed
 inefficient
+intro
 MORE
 My
 OPTIONS
@@ -158,6 +162,9 @@ mess
 myself
 mixture
 meant
+mostly
+mistakes
+minimum
 of
 on
 ornare
@@ -175,6 +182,7 @@ offline
 own
 obsidian
 organization
+organized
 document
 dot
 different
@@ -223,6 +231,7 @@ games
 goes
 gain
 going
+guarantee
 hello
 here
 homework
@@ -263,6 +272,7 @@ like
 living
 lot
 linked
+legible
 cssclasses
 center
 costumes
@@ -302,6 +312,7 @@ course
 continue
 company
 complete
+context
 Important
 In
 It
@@ -403,6 +414,8 @@ words
 who
 week
 watch
+write
+without
 scratch
 soothing
 some
@@ -446,6 +459,9 @@ setup
 sense
 surface
 sorting
+say
+special
+stuff
 background
 backdrops
 border
@@ -467,6 +483,7 @@ bother
 basic
 better
 before
+bee
 features
 file
 for
@@ -485,6 +502,7 @@ formal
 finally
 folders
 fork
+files
 References
 Resources
 Requirement
