@@ -31,11 +31,10 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "2 - Attachments": "FasFolderPlus",
-  "5 - Templates": "FasBookmark",
-  "3 - Tags": "FasTags",
-  "4 - Indexes": "RiFileList2Fill",
-  "7 - Rough Notes complete": "RiInboxFill",
-  "00 - Rough Notes": "FasNoteSticky",
-  "01 - Full Notes": "FasBook"
+  "06 - Attachments": "FasFolderPlus",
+  "00 - Indexes": "RiFileList2Fill",
+  "01 - Rough Notes": "FasNoteSticky",
+  "02 - Full Notes": "FasBook",
+  "05 - Templates": "FasBookmark",
+  "04 - Rough Notes complete": "RiInboxFill"
 }

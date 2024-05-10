@@ -1,7 +1,9 @@
 ---
-Type: Full
+Date: "{{date}} {{time}}"
+tags: 
+Status: 
+cssclasses:
 ---
-{{date}} {{time}}
 
 Status: 
 
