@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/CS50X/Week 0 - Scratch.md",
+                "file": "00 - Map Of Contents/Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.51103591918945,
-    "collapsed": true
+    "width": 228.51103591918945
   },
   "right": {
     "id": "a370b92b12670430",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/CS50X/Week 0 - Scratch.md"
+                "file": "00 - Map Of Contents/Home.md"
               }
             }
           },
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/CS50X/Week 0 - Scratch.md",
+                "file": "00 - Map Of Contents/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/CS50X/Week 0 - Scratch.md",
+                "file": "00 - Map Of Contents/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,8 +196,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0155e84e638cc8a7",
+  "active": "4a5484c2abecc9df",
   "lastOpenFiles": [
+    "01 - Projects/CS50X/Week 0 - Scratch.md",
     "01 - Projects/CS50X/Week 5 - Data Structures.md",
     "01 - Projects/CS50X/Week 10 Cybersecurity.md",
     "01 - Projects/CS50X/Week 9 - Flask.md",
@@ -210,7 +210,6 @@
     "00 - Map Of Contents/Home.md",
     "00 - Map Of Contents/CS50X.md",
     "00 - Map Of Contents/Home Page.canvas",
-    "01 - Projects/CS50X/Week 0 - Scratch.md",
     "07 - Archives/Test Slides.md",
     "06 - Daily",
     "07 - Archives",
