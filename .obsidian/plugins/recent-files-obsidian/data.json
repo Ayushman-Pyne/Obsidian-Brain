@@ -9,6 +9,10 @@
       "path": "00 - Maps Of Contents/CS50X.md"
     },
     {
+      "basename": "Week 0 - Scratch",
+      "path": "01 - Projects/CS50X/Week 0 - Scratch.md"
+    },
+    {
       "basename": "0 - First Official note",
       "path": "07 - Archives/0 - First Official note.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "0 - Here Stands the first official full note",
       "path": "07 - Archives/0 - Here Stands the first official full note.md"
-    },
-    {
-      "basename": "Week 0 - Scratch",
-      "path": "01 - Projects/CS50X/Week 0 - Scratch.md"
     },
     {
       "basename": "Full Note Template",
