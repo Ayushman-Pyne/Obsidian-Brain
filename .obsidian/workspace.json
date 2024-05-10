@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5231ab9c5a64a43f",
+            "id": "1f5262fbc93f44ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,12 +170,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5231ab9c5a64a43f",
+  "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
-    "05 - Templates/Full Note Template.md",
-    "05 - Templates/Rough Note Template.md",
     "04 - Rough Notes complete/Test.md",
     "04 - Rough Notes complete/Week 0 - Scratch.md",
+    "Pasted image 20240510201303.png",
+    "Pasted image 20240510201145.png",
+    "05 - Templates/Full Note Template.md",
+    "05 - Templates/Rough Note Template.md",
     "02 - Full Notes/Week 1 - C.md",
     "02 - Full Notes/Week 0 - Scratch.md",
     "02 - Full Notes/Week 2 - Arrays.md",
@@ -193,8 +195,6 @@
     "06 - Attachments/Pasted image 20240507084332.png",
     "06 - Attachments/Pasted image 20240507083549.png",
     "06 - Attachments/Pasted image 20240507082607.png",
-    "06 - Attachments/Pasted image 20240507082403.png",
-    "06 - Attachments/Pasted image 20240507082121.png",
     "Readme.md",
     "04 - Tags/Scratch.md",
     "04 - Rough Notes complete",
@@ -209,7 +209,6 @@
     "02 - Full Notes/Week 6 - Python.md",
     "02 - Full Notes/Week 5 - Data Structures.md",
     "02 - Full Notes/Week 4 - Memory.md",
-    "02 - Full Notes/Week 3 - Algorithms.md",
     "00 - Indexes",
     "02 - Full Notes",
     "04 - Tags",
