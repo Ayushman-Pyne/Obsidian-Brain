@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Map Of Contents/Home.md",
+                "file": "01 - Projects/CS50X/Week 0 - Scratch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.51103591918945
+    "width": 228.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "a370b92b12670430",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Map Of Contents/Home.md"
+                "file": "01 - Projects/CS50X/Week 0 - Scratch.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Map Of Contents/Home.md",
+                "file": "01 - Projects/CS50X/Week 0 - Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Map Of Contents/Home.md",
+                "file": "01 - Projects/CS50X/Week 0 - Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,12 +197,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4a5484c2abecc9df",
+  "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
-    "00 - Map Of Contents/CS50X.md",
+    "01 - Projects/CS50X/Week 5 - Data Structures.md",
+    "01 - Projects/CS50X/Week 10 Cybersecurity.md",
+    "01 - Projects/CS50X/Week 9 - Flask.md",
+    "01 - Projects/CS50X/Week 8 - HTML, CSS, JavaScript.md",
+    "01 - Projects/CS50X/Week 7 - SQL.md",
+    "01 - Projects/CS50X/Week 6.5 - Artificial Intelligence.md",
+    "01 - Projects/CS50X/Week 6 - Python.md",
+    "01 - Projects/CS50X",
     "00 - Map Of Contents/Home.md",
+    "00 - Map Of Contents/CS50X.md",
     "00 - Map Of Contents/Home Page.canvas",
-    "04 - Permanent/Week 0 - Scratch.md",
+    "01 - Projects/CS50X/Week 0 - Scratch.md",
     "07 - Archives/Test Slides.md",
     "06 - Daily",
     "07 - Archives",
@@ -222,8 +231,8 @@
     "99 - Meta/Full Note Template.md",
     "03 - Resources/06 - Attachments/Pasted image 20240510201303.png",
     "03 - Resources/06 - Attachments/Pasted image 20240510201145.png",
-    "04 - Permanent/Week 1 - C.md",
-    "04 - Permanent/Week 2 - Arrays.md",
+    "01 - Projects/CS50X/Week 1 - C.md",
+    "01 - Projects/CS50X/Week 2 - Arrays.md",
     "04 - Permanent/0 - Here Stands the first official full note.md",
     "1 - Rough Notes/Week 1 - C.md",
     "04 - Tags/C.md",
@@ -236,14 +245,6 @@
     "03 - Resources/06 - Attachments/Pasted image 20240507084332.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507083549.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507082607.png",
-    "Readme.md",
-    "04 - Tags/Scratch.md",
-    "04 - Rough Notes complete",
-    "03 - Resources/06 - Attachments/The Ultimate ping pong game.sb3",
-    "6 - Full Notes/Untitled 1.md",
-    "6 - Full Notes/Untitled.md",
-    "04 - Permanent/Week 10 Cybersecurity.md",
-    "04 - Permanent/Week 9 - Flask.md",
-    "04 - Permanent/Week 8 - HTML, CSS, JavaScript.md"
+    "04 - Rough Notes complete"
   ]
 }

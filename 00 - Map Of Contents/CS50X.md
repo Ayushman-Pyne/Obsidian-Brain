@@ -2,9 +2,9 @@
 cssclasses:
   - no-embed-border
 ---
-# [[04 - Permanent/Week 0 - Scratch| Week 0 - Scratch]]
+# [[01 - Projects/CS50X/Week 0 - Scratch|Week 0 - Scratch]]
 
-![[04 - Permanent/Week 0 - Scratch|Week 0 - Scratch]]
+![[01 - Projects/CS50X/Week 0 - Scratch|Week 0 - Scratch]]
 
 # [[Week 1 - C]]
 
