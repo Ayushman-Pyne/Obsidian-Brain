@@ -1,16 +1,11 @@
 ---
 Date: "{{date}} {{time}}"
-tags: 
 Status: 
+tags: 
 cssclasses:
 ---
-
-Status: 
-
-Tags: 
-
-
 # {{Title}}
+
 
 
 

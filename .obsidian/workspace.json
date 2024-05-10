@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md",
+                "file": "05 - Templates/Full Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md",
+                "file": "05 - Templates/Full Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md",
+                "file": "05 - Templates/Full Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md"
+                "file": "05 - Templates/Full Note Template.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "5231ab9c5a64a43f",
   "lastOpenFiles": [
-    "05 - Templates/Full Note Template.md",
     "02 - Full Notes/Week 0 - Scratch.md",
+    "05 - Templates/Full Note Template.md",
     "00 - Indexes/CS50X.md",
     "02 - Full Notes/Week 2 - Arrays.md",
     "05 - Templates/Rough Note Template.md",

@@ -4,7 +4,11 @@
   "showViewHeader": true,
   "enabledCssSnippets": [
     "Colored Sidebar Items",
-    "Notebook Backgrounds"
+    "Notebook Backgrounds",
+    "CyanVoxel's General Tweaks"
   ],
-  "theme": "system"
+  "theme": "system",
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": false
 }
