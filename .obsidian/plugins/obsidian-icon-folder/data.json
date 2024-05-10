@@ -5,7 +5,9 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "BoBxGlobeAlt"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
@@ -57,16 +59,16 @@
         "order": 7
       },
       {
-        "rule": "- Archives",
-        "icon": "BoBxsArchive",
-        "for": "folders",
-        "order": 9
-      },
-      {
         "rule": "- Permanent",
         "icon": "BoBxsFile",
         "for": "everything",
         "order": 8
+      },
+      {
+        "rule": "- Archives",
+        "icon": "BoBxsArchive",
+        "for": "folders",
+        "order": 9
       }
     ],
     "extraMargin": {
@@ -85,5 +87,6 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "00 - Maps Of Contents": "BoBxGlobeAlt"
 }
