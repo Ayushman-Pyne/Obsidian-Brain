@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee1abc87844dbd31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Rough Notes/Test Slides.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fce31119bbc14018",
             "type": "leaf",
             "state": {
@@ -116,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - Rough Notes/Test Slides.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/Test Slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +168,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ee1abc87844dbd31",
+  "active": "fce31119bbc14018",
   "lastOpenFiles": [
+    "04 - Rough Notes complete/Test Slides.md",
+    "03 - Exacalidraw",
+    "07 - Presentations",
     "02 - Full Notes/Week 0 - Scratch.md",
-    "01 - Rough Notes/Test Slides.md",
     "04 - Rough Notes complete/Test.md",
     "01 - Rough Notes/0 - First Official note.md",
     "04 - Rough Notes complete/Week 0 - Scratch.md",
@@ -223,14 +209,11 @@
     "02 - Full Notes/Week 6.5 - Artificial Intelligence.md",
     "02 - Full Notes/Week 6 - Python.md",
     "02 - Full Notes/Week 5 - Data Structures.md",
-    "02 - Full Notes/Week 4 - Memory.md",
     "00 - Indexes",
     "02 - Full Notes",
     "04 - Tags",
     "01 - Rough Notes",
     "06 - Attachments",
-    "05 - Templates",
-    "gitignore.txt",
-    "New Text Document.txt"
+    "05 - Templates"
   ]
 }
