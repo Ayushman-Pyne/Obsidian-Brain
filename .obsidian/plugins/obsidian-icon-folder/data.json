@@ -13,7 +13,20 @@
       "FasTags"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "template",
+        "icon": "FasBookmark",
+        "for": "folders",
+        "order": 0
+      },
+      {
+        "rule": "CS50X",
+        "icon": "SiEdx",
+        "for": "files",
+        "order": 1
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
