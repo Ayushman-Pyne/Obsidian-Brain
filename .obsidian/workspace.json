@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a804114252456db",
+        "id": "a3fe07edde0d9d2a",
         "type": "tabs",
         "children": [
           {
-            "id": "fce31119bbc14018",
+            "id": "cf7ec84569bd73f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,8 +168,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fce31119bbc14018",
+  "active": "cf7ec84569bd73f5",
   "lastOpenFiles": [
+    "03 - Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md",
+    "01 - Rough Notes/test excalidraw.md",
+    "03 - Excalidraw/Drawing 2024-05-10 21.59.02.excalidraw.md",
+    "03 - Excalidraw/Drawing 2024-05-10 21.56.04.excalidraw.md",
+    "03 - Excalidraw",
     "04 - Rough Notes complete/Test Slides.md",
     "03 - Exacalidraw",
     "07 - Presentations",
@@ -206,14 +211,10 @@
     "02 - Full Notes/Week 9 - Flask.md",
     "02 - Full Notes/Week 8 - HTML, CSS, JavaScript.md",
     "02 - Full Notes/Week 7 - SQL.md",
-    "02 - Full Notes/Week 6.5 - Artificial Intelligence.md",
-    "02 - Full Notes/Week 6 - Python.md",
-    "02 - Full Notes/Week 5 - Data Structures.md",
     "00 - Indexes",
     "02 - Full Notes",
     "04 - Tags",
     "01 - Rough Notes",
-    "06 - Attachments",
-    "05 - Templates"
+    "06 - Attachments"
   ]
 }
