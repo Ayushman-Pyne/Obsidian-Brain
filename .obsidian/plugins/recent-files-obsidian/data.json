@@ -5,6 +5,10 @@
       "path": "00 - Maps Of Contents/Home.md"
     },
     {
+      "basename": "CS50X",
+      "path": "00 - Maps Of Contents/CS50X.md"
+    },
+    {
       "basename": "0 - First Official note",
       "path": "07 - Archives/0 - First Official note.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Readme",
       "path": "Readme.md"
-    },
-    {
-      "basename": "CS50X",
-      "path": "00 - Maps Of Contents/CS50X.md"
     },
     {
       "basename": "0 - Here Stands the first official full note",

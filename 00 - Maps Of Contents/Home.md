@@ -4,31 +4,31 @@ cssclasses:
 ---
 # <span style= "color: GreenYellow;">Home Page</span>
 
-### Courses
 
 > [!multi-column]
 >
->> [!tip] Courses
->>> [!important]# [[CS50X]]
+>> ## Courses
+>>> [!important]+ [[CS50X]]
 >>> - [[01 - Projects/CS50X/Week 0 - Scratch|Week 0 - Scratch]]
 >>> - [[Week 1 - C]]
->> - [[Week 2 - Arrays]]
->> - [[Week 3 - Algorithms]]
->> - [[Week 4 - Memory]]
->> - [[Week 5 - Data Structures]]
->> - [[Week 6 - Python]]
->> - [[Week 7 - SQL]]
->> - [[Week 8 - HTML, CSS, JavaScript]]
->> - [[Week 9 - Flask]]
->> - [[Week 10 Cybersecurity]]
+>>> - [[Week 2 - Arrays]]
+>>> - [[Week 3 - Algorithms]]
+>>> - [[Week 4 - Memory]]
+>>> - [[Week 5 - Data Structures]]
+>>> - [[Week 6 - Python]]
+>>> - [[Week 7 - SQL]]
+>>> - [[Week 8 - HTML, CSS, JavaScript]]
+>>> - [[Week 9 - Flask]]
+>>> - [[Week 10 Cybersecurity]]
+>>
 >
->> [!question] Books
+>> ## Books
 >> #### Requirement
 >> - Lorem ipsum dolor sit amet
 >> - Vitae nunc sed velit dignissim sodales.
 >> - In cursus turpis massa tincidunt dui ut ornare lectus.
 >
->> [!example] Movies
+>> ## Movies
 >> - [x] Define Use Case
 >> - [ ] Craft User Story
 >> - [ ] Develop draft sketches
