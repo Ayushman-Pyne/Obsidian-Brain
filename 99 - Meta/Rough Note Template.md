@@ -1,7 +1,6 @@
 ---
 Date: "{{date}} {{time}}"
-Type: Rough
-Status: 
+Status: Not Started
 tags: 
 cssclasses:
   - center-titles

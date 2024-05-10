@@ -81,6 +81,8 @@ turns
 try
 text
 talking
+thought
+think
 Switch
 Some
 Scratch
@@ -91,6 +93,7 @@ Similarly
 Searching
 So
 Science
+Started
 EXCALIDRAW
 Elements
 Example
@@ -122,6 +125,7 @@ introductory
 introduce
 important
 installed
+inefficient
 MORE
 My
 OPTIONS
@@ -152,6 +156,8 @@ me
 my
 mess
 myself
+mixture
+meant
 of
 on
 ornare
@@ -168,6 +174,7 @@ online
 offline
 own
 obsidian
+organization
 document
 dot
 different
@@ -205,6 +212,7 @@ To
 There
 They
 Then
+Title
 game
 grid
 get
@@ -214,6 +222,7 @@ girl
 games
 goes
 gain
+going
 hello
 here
 homework
@@ -228,6 +237,8 @@ half
 halves
 holder
 head
+he
+his
 loorem
 lecture
 level
@@ -250,6 +261,8 @@ learning
 linking
 like
 living
+lot
+linked
 cssclasses
 center
 costumes
@@ -288,6 +301,7 @@ courses
 course
 continue
 company
+complete
 Important
 In
 It
@@ -339,6 +353,7 @@ Algorithmic
 An
 Ayushman
 Arceus
+About
 are
 and
 amet
@@ -425,6 +440,12 @@ stored
 should
 span
 storing
+saw
+showcased
+setup
+sense
+surface
+sorting
 background
 backdrops
 border
@@ -444,6 +465,8 @@ boy
 book
 bother
 basic
+better
+before
 features
 file
 for
@@ -460,6 +483,8 @@ folder
 follow
 formal
 finally
+folders
+fork
 References
 Resources
 Requirement
@@ -487,6 +512,7 @@ usually
 unicode
 until
 understand
+uses
 Use
 User
 Unicode
@@ -495,9 +521,11 @@ FB
 Feel
 Free
 Full
+Fleeting
 Just
 Journey
 Job
+Joker
 represent
 representing
 repeated
@@ -515,6 +543,7 @@ reader
 re
 refer
 really
+random
 Base
 But
 Bit
@@ -527,6 +556,7 @@ yet
 Pictures
 Problem
 Pyne
+Permanent
 just
 journey
 Green
@@ -534,7 +564,9 @@ Ground
 Now
 Note
 Notes
+Not
 keep
 known
 kind
 You
+Zettelkasten

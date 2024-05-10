@@ -11,7 +11,7 @@ This will continue until I gain a Job that I like or I finally understand enough
 
 - I saw this video of [CyanVoxel](https://www.youtube.com/@cyanvoxel) where he showcased his setup and the organization made sense to me. So I'll use it here. In the [Video](https://www.youtube.com/watch?v=rAkerV8rlow), he uses a mixture of 
 	- Zettelkasten folders 
-		- Fleeting (random thought notes and )
+		- Fleeting (random thought notes and are meant to be more surface level)
 		- Permanent
 		- Resources
 

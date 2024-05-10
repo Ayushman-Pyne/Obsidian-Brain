@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "811e1aa8cd6c9238",
+        "id": "e9f11b5da8690573",
         "type": "tabs",
         "children": [
           {
-            "id": "4a5484c2abecc9df",
+            "id": "32e5580a308eb92e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "05 - Fleeting/0 - First Official note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e9a4b878cf70035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +63,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -181,30 +194,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
+      "templates:Insert template": true,
+      "zk-prefixer:Create new unique note": false,
+      "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "homepage:Open homepage": false
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "switcher:Open quick switcher": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "audio-recorder:Start/stop recording": true,
+      "markdown-importer:Open format converter": true,
+      "workspaces:Manage workspace layouts": true,
+      "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "0155e84e638cc8a7",
+  "active": "32e5580a308eb92e",
   "lastOpenFiles": [
-    "00 - Maps Of Contents/Home.md",
-    "05 - Fleeting/0 - First Official note.md",
     "Readme.md",
+    "05 - Fleeting/0 - First Official note.md",
     "00 - Maps Of Contents/CS50X.md",
+    "00 - Maps Of Contents/Home.md",
+    "01 - Projects/CS50X/Week 0 - Scratch.md",
+    "99 - Meta/Full Note Template.md",
+    "99 - Meta/Rough Note Template.md",
+    "001911052024 s.md",
+    "Untitled.md",
     "07 - Archives/Week 0 - Scratch.md",
     "01 - Projects/CS50X/Week 1 - C.md",
-    "01 - Projects/CS50X/Week 0 - Scratch.md",
     "01 - Projects/CS50X/Week 5 - Data Structures.md",
     "01 - Projects/CS50X/Week 10 Cybersecurity.md",
     "01 - Projects/CS50X/Week 9 - Flask.md",
@@ -228,14 +246,10 @@
     "03 - Exacalidraw",
     "07 - Presentations",
     "07 - Archives/Test.md",
-    "99 - Meta/Rough Note Template.md",
-    "99 - Meta/Full Note Template.md",
     "03 - Resources/06 - Attachments/Pasted image 20240510201303.png",
     "03 - Resources/06 - Attachments/Pasted image 20240510201145.png",
     "01 - Projects/CS50X/Week 2 - Arrays.md",
     "04 - Permanent/0 - Here Stands the first official full note.md",
-    "1 - Rough Notes/Week 1 - C.md",
-    "04 - Tags/C.md",
     "03 - Resources/06 - Attachments/Pasted image 20240507112315.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507111613.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507111510.png",

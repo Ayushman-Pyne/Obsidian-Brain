@@ -5,10 +5,6 @@
       "path": "05 - Fleeting/0 - First Official note.md"
     },
     {
-      "basename": "Home",
-      "path": "00 - Maps Of Contents/Home.md"
-    },
-    {
       "basename": "Readme",
       "path": "Readme.md"
     },
@@ -17,16 +13,28 @@
       "path": "00 - Maps Of Contents/CS50X.md"
     },
     {
+      "basename": "Home",
+      "path": "00 - Maps Of Contents/Home.md"
+    },
+    {
+      "basename": "Week 0 - Scratch",
+      "path": "01 - Projects/CS50X/Week 0 - Scratch.md"
+    },
+    {
+      "basename": "Full Note Template",
+      "path": "99 - Meta/Full Note Template.md"
+    },
+    {
+      "basename": "Rough Note Template",
+      "path": "99 - Meta/Rough Note Template.md"
+    },
+    {
       "basename": "Week 0 - Scratch",
       "path": "07 - Archives/Week 0 - Scratch.md"
     },
     {
       "basename": "Week 1 - C",
       "path": "01 - Projects/CS50X/Week 1 - C.md"
-    },
-    {
-      "basename": "Week 0 - Scratch",
-      "path": "01 - Projects/CS50X/Week 0 - Scratch.md"
     },
     {
       "basename": "Test Slides",
