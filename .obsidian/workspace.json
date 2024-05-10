@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md",
+                "file": "04 - Rough Notes complete/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md",
+                "file": "04 - Rough Notes complete/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md",
+                "file": "04 - Rough Notes complete/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Full Notes/Week 0 - Scratch.md"
+                "file": "04 - Rough Notes complete/Test.md"
               }
             }
           },
@@ -140,9 +140,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "d9131cd132638708",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,14 +172,15 @@
   },
   "active": "5231ab9c5a64a43f",
   "lastOpenFiles": [
+    "05 - Templates/Full Note Template.md",
+    "05 - Templates/Rough Note Template.md",
+    "04 - Rough Notes complete/Test.md",
+    "04 - Rough Notes complete/Week 0 - Scratch.md",
     "02 - Full Notes/Week 1 - C.md",
     "02 - Full Notes/Week 0 - Scratch.md",
     "02 - Full Notes/Week 2 - Arrays.md",
     "00 - Indexes/CS50X.md",
-    "05 - Templates/Full Note Template.md",
-    "05 - Templates/Rough Note Template.md",
     "02 - Full Notes/0 - Here Stands the first official full note.md",
-    "04 - Rough Notes complete/Week 0 - Scratch.md",
     "01 - Rough Notes/0 - First Official note.md",
     "1 - Rough Notes/Week 1 - C.md",
     "04 - Tags/C.md",
@@ -201,7 +210,6 @@
     "02 - Full Notes/Week 5 - Data Structures.md",
     "02 - Full Notes/Week 4 - Memory.md",
     "02 - Full Notes/Week 3 - Algorithms.md",
-    "3 - Tags/Untitled 1.md",
     "00 - Indexes",
     "02 - Full Notes",
     "04 - Tags",

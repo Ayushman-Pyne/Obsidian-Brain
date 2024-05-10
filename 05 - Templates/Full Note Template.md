@@ -1,8 +1,9 @@
 ---
 Date: "{{date}} {{time}}"
-Status: 
+Status: Ongoing
 tags: 
-cssclasses: []
+cssclasses:
+  - center-titles
 ---
 # {{Title}}
 

@@ -4,11 +4,6 @@ Status:
 tags: 
 cssclasses:
 ---
-{{date}} {{time}}
-
-Tags: 
-
-
 # {{Title}}
 
 
