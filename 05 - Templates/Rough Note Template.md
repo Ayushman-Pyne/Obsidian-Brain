@@ -1,5 +1,8 @@
 ---
 Type: Rough
+Status: 
+tags: 
+cssclasses:
 ---
 {{date}} {{time}}
 

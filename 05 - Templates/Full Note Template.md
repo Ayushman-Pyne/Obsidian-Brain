@@ -2,10 +2,9 @@
 Date: "{{date}} {{time}}"
 Status: 
 tags: 
-cssclasses:
+cssclasses: []
 ---
 # {{Title}}
-
 
 
 

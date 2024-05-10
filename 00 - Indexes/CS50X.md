@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - center-titles
+---
 # Some Important Links
 
 [Learner Home (edx.org)](https://home.edx.org/)

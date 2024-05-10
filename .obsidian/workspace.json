@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Templates/Full Note Template.md",
+                "file": "02 - Full Notes/Week 0 - Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Templates/Full Note Template.md",
+                "file": "02 - Full Notes/Week 0 - Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Templates/Full Note Template.md",
+                "file": "02 - Full Notes/Week 0 - Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Templates/Full Note Template.md"
+                "file": "02 - Full Notes/Week 0 - Scratch.md"
               }
             }
           },
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,12 +164,12 @@
   },
   "active": "5231ab9c5a64a43f",
   "lastOpenFiles": [
-    "02 - Full Notes/Week 0 - Scratch.md",
-    "05 - Templates/Full Note Template.md",
-    "00 - Indexes/CS50X.md",
-    "02 - Full Notes/Week 2 - Arrays.md",
-    "05 - Templates/Rough Note Template.md",
     "02 - Full Notes/Week 1 - C.md",
+    "02 - Full Notes/Week 0 - Scratch.md",
+    "02 - Full Notes/Week 2 - Arrays.md",
+    "00 - Indexes/CS50X.md",
+    "05 - Templates/Full Note Template.md",
+    "05 - Templates/Rough Note Template.md",
     "02 - Full Notes/0 - Here Stands the first official full note.md",
     "04 - Rough Notes complete/Week 0 - Scratch.md",
     "01 - Rough Notes/0 - First Official note.md",

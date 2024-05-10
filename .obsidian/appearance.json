@@ -9,6 +9,6 @@
   ],
   "theme": "system",
   "interfaceFontFamily": "JetBrains Mono NL",
-  "textFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono NL",
   "baseFontSizeAction": false
 }
