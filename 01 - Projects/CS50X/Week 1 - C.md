@@ -1,19 +1,20 @@
 ---
 Date: 2024-05-10 20:04
 Status: Ongoing
-tags: 
-cssclasses: []
+tags:
+  - CS50X
+  - C
+cssclasses:
+  - center-titles
+  - dot-grid
 ---
 # Week 1 - C
 
-
-
-
-
-## References# Week 1 - C
-
 👇🏻All the lecture notes are present here 
 [Lecture 1 - CS50x 2024 (harvard.edu)](https://cs50.harvard.edu/x/2024/notes/1/)
+
+
+## Homework
 
 
 
