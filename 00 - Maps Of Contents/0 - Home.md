@@ -8,7 +8,7 @@ cssclasses:
 > [!multi-column]
 >
 >> ## Courses
->> ### [[CS50X]]
+>> #### [[CS50X]]
 >> - [[01 - Projects/CS50X/Week 0 - Scratch|Week 0 - Scratch]]
 >> - [[Week 1 - C]]
 >> - [[Week 2 - Arrays]]
@@ -25,15 +25,14 @@ cssclasses:
 >
 >
 >> ## [[Books]]
->> #### Requirement
->> - Lorem ipsum dolor sit amet
->> - Vitae nunc sed velit dignissim sodales.
->> - In cursus turpis massa tincidunt dui ut ornare lectus.
+>> #### Self Help
+>> - [[The Psychology Of Money - Morgan Housel]]
+>> - [[Ikigai - Hector Gracia and Francesc Miralles]]
+>> - [[48 Laws of Power - Robert Greene]]
+>> - 
 >
 >> ## Movies
->> - [x] Define Use Case
->> - [ ] Craft User Story
->> - [ ] Develop draft sketches
+>> - 
 
 
 
