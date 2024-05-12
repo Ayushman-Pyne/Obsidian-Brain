@@ -3,7 +3,15 @@ cssclasses:
   - center-titles
   - image-borders
   - no-embed-border
-  - center-images
+  - pen-white
+  - pen-blue
+  - pen-red
+  - pen-green
+  - pen-black
+  - pen-grey
+  - pen-purple
+  - embed-manila
+  -  center-images
 Status: Not Started
 ---
 # Sample H1

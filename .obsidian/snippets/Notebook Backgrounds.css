@@ -150,7 +150,7 @@ https://angel-rs.github.io/css-color-filter-generator
 }
 /* Adds a dot grid on page background */
 .dot-grid{
-  --dot-bg: black;
+  --dot-bg: var(--page-color);
   --dot-color: var(--pen-gray);
   --dot-size: 1px;
   --dot-space: 22px;
