@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/Books.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.51103591918945
+    "width": 228.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "a370b92b12670430",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/Books.md"
+                "file": "00 - Maps Of Contents/0 - Home.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/Books.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/Books.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +201,10 @@
   },
   "active": "85300657e4d17641",
   "lastOpenFiles": [
+    "00 - Maps Of Contents/Books.md",
     "07 - Archives/Test.md",
     "06 - Daily/11005512052024 - Test page color.md",
     "07 - Archives/test excalidraw.md",
-    "00 - Maps Of Contents/Books.md",
     "00 - Maps Of Contents/0 - Home.md",
     "00 - Maps Of Contents/CS50X.md",
     "07 - Archives/0 - First Official note.md",

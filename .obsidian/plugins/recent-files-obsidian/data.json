@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "test excalidraw",
       "path": "07 - Archives/test excalidraw.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "CS50X",
