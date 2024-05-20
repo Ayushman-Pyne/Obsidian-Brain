@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Movies",
+      "path": "00 - Maps Of Contents/Movies.md"
+    },
+    {
+      "basename": "CS50X",
+      "path": "00 - Maps Of Contents/CS50X.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -21,10 +29,6 @@
       "path": "07 - Archives/test excalidraw.md"
     },
     {
-      "basename": "CS50X",
-      "path": "00 - Maps Of Contents/CS50X.md"
-    },
-    {
       "basename": "0 - First Official note",
       "path": "07 - Archives/0 - First Official note.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Week 1 - C",
       "path": "01 - Projects/CS50X/Week 1 - C.md"
-    },
-    {
-      "basename": "Movies",
-      "path": "00 - Maps Of Contents/Movies.md"
     },
     {
       "basename": "Week 0 - Scratch",

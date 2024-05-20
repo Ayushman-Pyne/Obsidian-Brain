@@ -54,6 +54,7 @@ pyne
 prefer
 post
 paper
+preview
 tags
 to
 the
@@ -213,6 +214,7 @@ obsidian
 organization
 organized
 over
+obsidianUImode
 document
 dot
 different
@@ -537,6 +539,7 @@ shortening
 scope
 strong
 subject
+source
 background
 backdrops
 border
