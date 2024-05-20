@@ -1,6 +1,8 @@
 ---
 cssclasses:
   - no-embed-border
+  - page-white
+  - dot-grid
 ---
 [Learner Home (edx.org)](https://home.edx.org/)
 [CS50 Manual Pages](https://manual.cs50.io/)
