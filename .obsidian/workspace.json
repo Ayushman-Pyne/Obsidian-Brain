@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44bbf86f4caa60a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps Of Contents/Movies.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,12 +212,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "85300657e4d17641",
+  "active": "44bbf86f4caa60a0",
   "lastOpenFiles": [
     "00 - Maps Of Contents/CS50X.md",
     "00 - Maps Of Contents/0 - Home.md",
-    "02 - Areas/Books/48 Laws of Power - Robert Greene.md",
     "00 - Maps Of Contents/Movies.md",
+    "02 - Areas/Books/48 Laws of Power - Robert Greene.md",
     "00 - Maps Of Contents/Books.md",
     "07 - Archives/Test.md",
     "06 - Daily/11005512052024 - Test page color.md",

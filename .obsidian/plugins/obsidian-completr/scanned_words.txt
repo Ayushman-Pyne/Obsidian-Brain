@@ -492,6 +492,7 @@ want
 while
 working
 white
+watching
 scratch
 soothing
 some
@@ -570,6 +571,7 @@ books
 borders
 blue
 blueprint
+black
 features
 file
 for
