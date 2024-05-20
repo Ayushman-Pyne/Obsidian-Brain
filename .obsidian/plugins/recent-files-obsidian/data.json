@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Movies",
+      "path": "00 - Maps Of Contents/Movies.md"
+    },
+    {
       "basename": "CS50X",
       "path": "00 - Maps Of Contents/CS50X.md"
     },
@@ -9,8 +13,8 @@
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
-      "basename": "Movies",
-      "path": "00 - Maps Of Contents/Movies.md"
+      "basename": "48 Laws of Power - Robert Greene",
+      "path": "02 - Areas/Books/48 Laws of Power - Robert Greene.md"
     },
     {
       "basename": "Books",
@@ -39,10 +43,6 @@
     {
       "basename": "Ikigai - Hector Gracia and Francesc Miralles",
       "path": "02 - Areas/Books/Ikigai - Hector Gracia and Francesc Miralles.md"
-    },
-    {
-      "basename": "48 Laws of Power - Robert Greene",
-      "path": "02 - Areas/Books/48 Laws of Power - Robert Greene.md"
     },
     {
       "basename": "Week 1 - C",
