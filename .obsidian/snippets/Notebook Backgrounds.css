@@ -32,6 +32,7 @@ https://angel-rs.github.io/css-color-filter-generator
   --page-manila: #f3deaf;
   --page-blue: #3f76ed;
 
+  --page-color: var(--pen-black);
   --grid-size: 32px;
 }
 
@@ -91,7 +92,7 @@ https://angel-rs.github.io/css-color-filter-generator
 /* ----------------------- Manila/Tan Page Background ----------------------- */
 /* Defaults to Black Pen */
 .page-manila {
-  --page-color: var(--page-manila);
+  --page-color: var(--page-manila) !important;
   --accent-color: var(--pen-black);
   --accent-color-trans: color-mix(
     in srgb,
@@ -109,7 +110,7 @@ https://angel-rs.github.io/css-color-filter-generator
 /* --------------------------- White Page Background ------------------------ */
 /* Defaults to Black Pen */
 .page-white {
-  --page-color: var(--page-white);
+  --page-color: var(--page-white) !important;
   --accent-color: var(--neutral-pen-black);
   --accent-color-trans: color-mix(
     in srgb,
@@ -127,7 +128,7 @@ https://angel-rs.github.io/css-color-filter-generator
 /* -------------------------- Blueprint Styled Page ------------------------- */
 /* Defaults to White Pen */
 .page-blueprint {
-  --page-color: var(--page-blue);
+  --page-color: var(--page-blue) !important ;
   --accent-color: var(--pen-white);
   --accent-color-trans: color-mix(
     in srgb,
@@ -151,10 +152,11 @@ https://angel-rs.github.io/css-color-filter-generator
 /* Adds a dot grid on page background */
 .dot-grid{
   --page-color: var(--pen-black);
+  --accent-color: var(--pen-gray);
   --dot-bg: var(--page-color);
-  --dot-color: var(--pen-white);
+  --dot-color: var(--accent-color);
   --dot-size: 1px;
-  --dot-space: 32px;
+  --dot-space: 22px;
   background:
     linear-gradient(90deg, 
     var(--dot-bg) calc(var(--dot-space) - var(--dot-size)), transparent 1%) center / var(--dot-space) var(--dot-space),

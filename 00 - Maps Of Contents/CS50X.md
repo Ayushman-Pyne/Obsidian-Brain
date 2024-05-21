@@ -3,6 +3,7 @@ cssclasses:
   - no-embed-border
   - page-white
   - dot-grid
+  - pen-green
 ---
 [Learner Home (edx.org)](https://home.edx.org/)
 [CS50 Manual Pages](https://manual.cs50.io/)

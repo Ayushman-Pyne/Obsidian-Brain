@@ -159,6 +159,8 @@ MORE
 My
 Movie
 Movies
+Monkey
+Man
 OPTIONS
 Ongoing
 OFF
