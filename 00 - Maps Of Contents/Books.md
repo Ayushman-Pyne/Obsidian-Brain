@@ -2,7 +2,7 @@
 cssclasses:
   - page-manila
   - dot-grid
-  - pen-blue
+  - pen-purple
 ---
 # Self Help books
 - [[The Psychology Of Money - Morgan Housel]]

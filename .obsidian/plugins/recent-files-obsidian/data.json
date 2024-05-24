@@ -9,12 +9,16 @@
       "path": "00 - Maps Of Contents/Movies.md"
     },
     {
+      "basename": "CS50X",
+      "path": "00 - Maps Of Contents/CS50X.md"
+    },
+    {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
     },
     {
-      "basename": "CS50X",
-      "path": "00 - Maps Of Contents/CS50X.md"
+      "basename": "Readme",
+      "path": "Readme.md"
     },
     {
       "basename": "48 Laws of Power - Robert Greene",
@@ -55,10 +59,6 @@
     {
       "basename": "Test column",
       "path": "07 - Archives/Test column.md"
-    },
-    {
-      "basename": "Readme",
-      "path": "Readme.md"
     },
     {
       "basename": "0 - Here Stands the first official full note",
