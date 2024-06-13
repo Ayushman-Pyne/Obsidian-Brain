@@ -453,6 +453,11 @@ This was the longest thinking i had to until now. Many steps to check... Let's t
 		- 13 or 16 digits starts with 4
 It will follow a path of checks. 1st check will be the number of digits if they will be 13, 15, or 16. Then check for the checksum. Then check the type of card.
 Checksum follows the Luhn’s Algorithm. The algorithm is explained in the 1st condition.
+```terminal
+$ mkdir credit
+$ cd credit
+credit/ $ code credit.c
+```
 
 ```C
 #include <cs50.h>
@@ -461,175 +466,90 @@ Checksum follows the Luhn’s Algorithm. The algorithm is explained in the 1st c
 int sod(int s);
  
 int main(void)
-
 {
-
     long cn;
-
     do
-
     {
-
         cn = get_long("Number: ");
-
     }
-
     while (cn < 0);
-
     int d = 0;
-
     long cp = cn;
-
     do
-
     {
-
         d++;
-
         cp = cp / 10;
-
     }
-
     while (cp > 0);
-
     if (d == 13 || d == 15 || d == 16)
-
     {
-
     }
-
     else
-
     {
-
         printf("%i INVALID\n", d);
-
         return 0;
-
     }
-
-  
-
+ 
     int l;
-
     int c = 0;
-
     long n = cn;
-
     int sum = 0;
-
     while (n > 0)
-
     {
-
         c++;
-
         l = n % 10;
-
         if (c % 2 == 0)
-
         {
-
             sum += sod(l * 2);
-
         }
-
         else
-
         {
-
             sum += l;
-
         }
-
         n = n / 10;
-
     }
-
     if (sum % 10 == 0)
-
     {
-
     }
-
     else
-
     {
-
         printf("INVALID\n");
-
         return 0;
-
     }
-
   
-
     long st = cn;
-
     while (st > 100)
-
     {
-
         st = st / 10;
-
     }
-
     if (d == 15 && (st == 34 || st == 37))
-
     {
-
         printf("AMEX\n");
-
     }
-
     else if (d == 16 && (50 < st && st < 56))
-
     {
-
         printf("MASTERCARD\n");
-
     }
-
     else if ((d == 13 || d == 16) && (st / 10 == 4))
-
     {
-
         printf("VISA\n");
-
     }
-
     else
-
     {
-
         printf("INVALID\n");
-
     }
-
 }
-
   
-
 int sod(int s)
-
 {
-
     if (s / 10 == 0)
-
     {
-
         return s;
-
     }
-
     else
-
     {
-
         return (s / 10 + s % 10);
-
     }
-
 }
 ```
 
