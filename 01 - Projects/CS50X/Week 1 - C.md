@@ -89,9 +89,22 @@ Now i think it's time to explain the `#include <stdio.h>`. The `stdio.h` is a he
 
 For more about the functions in `stdio.h` check out its [Documentation](https://manual.cs50.io/#stdio.h).
 
-There is this another header file `cs50.h` that we will use in the future for talking input. It's a header file provided by the course and can be accessed. Check out their [Documentation](https://manual.cs50.io/#cs50.h) for the function names.
+##### Input commands
 
+There is this another header file `cs50.h` that we will use for talking inputs now. It's a header file provided by the course and can be accessed. Check out their [Documentation](https://manual.cs50.io/#cs50.h) for the function names.
 
+The Functions with their use are listed here:
+- `get_char` - prompts user for a line of text from stdin and returns...
+- `get_double` - prompts user for a line of text from stdin and returns...
+- `get_float` - prompts user for a line of text from stdin and returns...
+- `get_int` - prompts user for a line of text from stdin and returns...
+- `get_long` - prompts user for a line of text from stdin and returns...
+- `get_long_long` - prompts user for a line of text from stdin and returns...
+- `get_string` - prompts user for a line of text from stdin and returns...
+
+Let's make a sample file that 
+
+In case you want to include the `cs50.h` in offline Projects. [Check This Out](https://stackoverflow.com/questions/76893704/how-can-i-include-the-cs50-h-file) 
 
 
 👇🏻All the lecture notes are present here 
