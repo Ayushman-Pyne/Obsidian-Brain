@@ -432,18 +432,16 @@ Checking and submitting commands
 This was the longest thinking i had to until now. Many steps to check... Let's take this from the top
 
 1. 1st condition is the checksum
-		That’s kind of confusing, so let’s try an example with David’s Visa: 4003600000000014.
-	
 	- For the sake of discussion, let’s first underline every other digit, starting with the number’s second-to-last digit:
 	    4003600000000014
 	    Okay, let’s multiply each of the underlined digits by 2:
 	    1•2 + 0•2 + 0•2 + 0•2 + 0•2 + 6•2 + 0•2 + 4•2
 	    That gives us:
-	    2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8
+	    2 + 0 + 0 + 0 + 0 + 12 + 0 + 8
 	    Now let’s add those products’ digits (i.e., not the products themselves) together:
-	    2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8 = 22
+	    2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8 = 13
 	- Now let’s add that sum (13) to the sum of the digits that weren’t multiplied by 2 (starting from the end):
-	    13 + 5 + 0 + 0 + 0 + 0 + 0 + 3 + 0 = 30
+	    13 + 4 + 0 + 0 + 0 + 0 + 0 + 3 + 0 = 20
 	- Yup, the last digit in that sum (20) is a 0, so David’s card is legit!
 
 2. 2nd condition type of Credit Cards
@@ -454,7 +452,196 @@ This was the longest thinking i had to until now. Many steps to check... Let's t
 	- VISA
 		- 13 or 16 digits starts with 4
 It will follow a path of checks. 1st check will be the number of digits if they will be 13, 15, or 16. Then check for the checksum. Then check the type of card.
+Checksum follows the Luhn’s Algorithm. The algorithm is explained in the 1st condition.
 
+```C
+#include <cs50.h>
+#include <stdio.h>
+  
+int sod(int s);
+ 
+int main(void)
+
+{
+
+    long cn;
+
+    do
+
+    {
+
+        cn = get_long("Number: ");
+
+    }
+
+    while (cn < 0);
+
+    int d = 0;
+
+    long cp = cn;
+
+    do
+
+    {
+
+        d++;
+
+        cp = cp / 10;
+
+    }
+
+    while (cp > 0);
+
+    if (d == 13 || d == 15 || d == 16)
+
+    {
+
+    }
+
+    else
+
+    {
+
+        printf("%i INVALID\n", d);
+
+        return 0;
+
+    }
+
+  
+
+    int l;
+
+    int c = 0;
+
+    long n = cn;
+
+    int sum = 0;
+
+    while (n > 0)
+
+    {
+
+        c++;
+
+        l = n % 10;
+
+        if (c % 2 == 0)
+
+        {
+
+            sum += sod(l * 2);
+
+        }
+
+        else
+
+        {
+
+            sum += l;
+
+        }
+
+        n = n / 10;
+
+    }
+
+    if (sum % 10 == 0)
+
+    {
+
+    }
+
+    else
+
+    {
+
+        printf("INVALID\n");
+
+        return 0;
+
+    }
+
+  
+
+    long st = cn;
+
+    while (st > 100)
+
+    {
+
+        st = st / 10;
+
+    }
+
+    if (d == 15 && (st == 34 || st == 37))
+
+    {
+
+        printf("AMEX\n");
+
+    }
+
+    else if (d == 16 && (50 < st && st < 56))
+
+    {
+
+        printf("MASTERCARD\n");
+
+    }
+
+    else if ((d == 13 || d == 16) && (st / 10 == 4))
+
+    {
+
+        printf("VISA\n");
+
+    }
+
+    else
+
+    {
+
+        printf("INVALID\n");
+
+    }
+
+}
+
+  
+
+int sod(int s)
+
+{
+
+    if (s / 10 == 0)
+
+    {
+
+        return s;
+
+    }
+
+    else
+
+    {
+
+        return (s / 10 + s % 10);
+
+    }
+
+}
+```
+
+Output
+```terminal
+credit/ $ make credit
+credit/ $ ./credit
+Number: iuvyrgfdi
+Number: 4003600000000014
+VISA
+credit/ $ 
+```
 
 
 ## References
