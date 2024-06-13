@@ -73,6 +73,9 @@ List Of Placeholders and the variable type they refer to:
 - `%i` - int
 - `%li` - long
 - `%s` - string
+##### Conditionals
+- `&&` - and
+- `||` - or
 
 ##### Command Line commands
 Some common Command Line Commands:
