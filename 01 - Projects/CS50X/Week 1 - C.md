@@ -341,15 +341,89 @@ Checking and submitting commands
 
 #### 4_1. Cash
 
-This was kind of a curveball to what i had done before. The concept is kinda easy to explain. There are 4 types of change: quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). And we have to make a program that tells the least number of coins needed to give the change back.
+This was kind of a curveball to what i had done before. The concept is kinda easy to explain. There are 4 types of change: quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). And we have to make a program that tells the least number of coins needed to give the change back. Sample Output
 ```terminal
 $ make cash
 $ ./cash
 Change owed: 25
-
+1
+$ ./cash
+Change owed: 70
+4
+$ ./cash
+Change owed: 113
+8
 ```
 
 
+The Program uses only the operators and just keeps deducting from change it is divisible by each of the values of change.
+```terminal
+$mkdir cash
+$cd cash
+me/ $code cash.c
+```
+
+```C
+#include <cs50.h>
+#include <stdio.h>
+ 
+int main(void)
+{
+    const int quarter = 25;
+    const int dime = 10;
+    const int nickel = 5;
+    int cents;
+    do
+    {
+        cents = get_int("Change Owed: ");
+    }
+    while (cents < 0);
+    int change = 0;
+    while (cents > 0)
+    {
+        int l = cents / quarter; //number of possible quarters
+        cents = cents % quarter; // money left after taking quarters out
+        change += l;
+        l = cents / dime; //number of possible dimes
+        cents = cents % dime; // money left after taking dimes out
+        change += l;
+        l = cents / nickel; //number of possible nickels
+        cents = cents % nickel; //money left after taking nickels out
+        change += l;
+        l = cents; //number of possible pennies
+        cents = cents - l; //money left after taking pennies out ideally here cents should always come to an end
+        change += l;
+    }
+    printf("%i \n", change);
+}
+```
+
+Output
+```terminal
+cash/ $ make cash
+cash/ $ ./cash
+Change Owed: 113
+8 
+cash/ $ 
+```
+
+Test inputs
+
+- If you input `-1`, does your program prompt you again?
+- If you input `0`, does your program output `0`?
+- If you input `1`, does your program output `1` (i.e., one penny)?
+- If you input `4`, does your program output `4` (i.e., four pennies)?
+- If you input `5`, does your program output `1` (i.e., one nickel)?
+- If you input `24`, does your program output `6` (i.e., two dimes and four pennies)?
+- If you input `25`, does your program output `1` (i.e., one quarter)?
+- If you input `26`, does your program output `2` (i.e., one quarter and one penny)?
+- If you input `99`, does your program output `9` (i.e., three quarters, two dimes, and four pennies)?
+
+Checking and submitting commands
+
+- `check50 cs50/problems/2024/x/cash - Test the program
+- `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
+- `submit50 cs50/problems/2024/x/cash` - Submit the program
 #### 4_2. Credit
 
 ## References
