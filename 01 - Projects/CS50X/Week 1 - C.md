@@ -77,10 +77,12 @@ List Of Placeholders and the variable type they refer to:
 ##### Command Line commands
 Some common Command Line Commands:
 - `cd` - Change Directory
-- `cp` - Copy a file to a directory. Syntax `cp SRC_FILE1 SRC_FILE2 DESTNATION_DIRECTORY`
+- `cp` - Copy a file to a directory. Syntax `cp [options(s)] [source_file_name(s)] [Destination_file_name]`
 - `ls` - List the items in the current directory
 - `mkdir` - Make Directory in the current directory
 - `mv` - Move files to a directory. Syntax `mv [options(s)] [source_file_name(s)] [Destination_file_name]`
+- `rm` - Remove file
+- `rmdir` - Remove Directory
 
 
 
@@ -89,8 +91,50 @@ Some common Command Line Commands:
 
 
 ## Homework
+Well, This week there were many parts to the homework.
+
+1. Complete [Hello, World](https://cs50.harvard.edu/x/2024/psets/1/world/).
+2. Submit [Hello, It’s Me](https://cs50.harvard.edu/x/2024/psets/1/me/).
+3. Submit one of:
+    - [this version of Mario](https://cs50.harvard.edu/x/2024/psets/1/mario/less/), if feeling less comfortable
+    - [this version of Mario](https://cs50.harvard.edu/x/2024/psets/1/mario/more/), if feeling more comfortable
+4. Submit one of:
+    - [Cash](https://cs50.harvard.edu/x/2024/psets/1/cash/), if feeling less comfortable
+    - [Credit](https://cs50.harvard.edu/x/2024/psets/1/credit/), if feeling more comfortable
+#### 1. Hello, World
+This was a Very Easy intro program.
+```terminal
+$mkdir world
+$cd world
+$code hello.c
+```
+
+```C
+#include <stdio.h>
+
+int main(void) 
+{ 
+	printf("hello, world\n");
+}
+```
+
+Output
+```terminal
+$make hello.c
+$./hello
+hello, world 
+$
+```
+#### 2. Hello, It's Me
 
 
+#### 3_1. Mario-less
+
+#### 3_2. Mario-more
+
+#### 4_1. Cash
+
+#### 4_2. Credit
 
 ## References
 
