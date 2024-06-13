@@ -563,7 +563,7 @@ VISA
 credit/ $ 
 ```
 
-
+Input 
 ## References
 
 [CS50x 2024 - Lecture 1 - C (youtube.com)](https://www.youtube.com/watch?v=cwtpLIWylAw)
