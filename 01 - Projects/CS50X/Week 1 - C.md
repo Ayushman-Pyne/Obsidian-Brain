@@ -246,7 +246,7 @@ Test inputs
 Checking and submitting commands
 
 - `check50 cs50/problems/2024/x/mario/less` - Test the program
-- `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
+- `style50 mario.c` - stylize the file to make it look more aesthetically pleasing.
 - `submit50 cs50/problems/2024/x/mario/less` - Submit the program
 
 #### 3_2. Mario-more
@@ -336,7 +336,7 @@ Test inputs
 Checking and submitting commands
 
 - `check50 cs50/problems/2024/x/mario/more` - Test the program
-- `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
+- `style50 mario.c` - stylize the file to make it look more aesthetically pleasing.
 - `submit50 cs50/problems/2024/x/mario/more` - Submit the program
 
 #### 4_1. Cash
@@ -422,9 +422,37 @@ Test inputs
 Checking and submitting commands
 
 - `check50 cs50/problems/2024/x/cash - Test the program
-- `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
+- `style50 cash.c` - stylize the file to make it look more aesthetically pleasing.
 - `submit50 cs50/problems/2024/x/cash` - Submit the program
 #### 4_2. Credit
+This was the longest thinking i had to until now. Many steps to check... Let's take this from the top
+
+1. 1st condition is the checksum
+		That’s kind of confusing, so let’s try an example with David’s Visa: 4003600000000014.
+	
+	- For the sake of discussion, let’s first underline every other digit, starting with the number’s second-to-last digit:
+	    4003600000000014
+	    Okay, let’s multiply each of the underlined digits by 2:
+	    1•2 + 0•2 + 0•2 + 0•2 + 0•2 + 6•2 + 0•2 + 4•2
+	    That gives us:
+	    2 + 0 + 0 + 0 + 0 + 12 + 0 + 8
+	    Now let’s add those products’ digits (i.e., not the products themselves) together:
+	    2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8 = 13
+	- Now let’s add that sum (13) to the sum of the digits that weren’t multiplied by 2 (starting from the end):
+	    13 + 4 + 0 + 0 + 0 + 0 + 0 + 3 + 0 = 20
+	- Yup, the last digit in that sum (20) is a 0, so David’s card is legit!
+
+2. 2nd condition type of Credit Cards
+	- American express
+		- 15 digits starts with 34 or 37
+	- MasterCard
+		- 16 digits starts with 51,52,53,54, or 55
+	- VISA
+		- 13 or 16 digits starts with 4
+
+I will use 2 functions to have a clean main.
+
+
 
 ## References
 
