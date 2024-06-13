@@ -563,7 +563,16 @@ VISA
 credit/ $ 
 ```
 
-Input 
+Test Input
+- 4003600000000014 will yield VISA as output.
+
+
+Checking and submitting commands
+
+- `check50 cs50/problems/2024/x/credit` - Test the program
+- `style50 reddit.c` - stylize the file to make it look more aesthetically pleasing.
+- `submit50 cs50/problems/2024/x/credit` - Submit the program
+
 ## References
 
 [CS50x 2024 - Lecture 1 - C (youtube.com)](https://www.youtube.com/watch?v=cwtpLIWylAw)
