@@ -76,6 +76,7 @@ List Of Placeholders and the variable type they refer to:
 ##### Conditionals
 - `&&` - and
 - `||` - or
+- `!` - not
 
 ##### Command Line commands
 Some common Command Line Commands:
@@ -438,11 +439,11 @@ This was the longest thinking i had to until now. Many steps to check... Let's t
 	    Okay, let’s multiply each of the underlined digits by 2:
 	    1•2 + 0•2 + 0•2 + 0•2 + 0•2 + 6•2 + 0•2 + 4•2
 	    That gives us:
-	    2 + 0 + 0 + 0 + 0 + 12 + 0 + 8
+	    2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8
 	    Now let’s add those products’ digits (i.e., not the products themselves) together:
-	    2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8 = 13
+	    2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8 = 22
 	- Now let’s add that sum (13) to the sum of the digits that weren’t multiplied by 2 (starting from the end):
-	    13 + 4 + 0 + 0 + 0 + 0 + 0 + 3 + 0 = 20
+	    13 + 5 + 0 + 0 + 0 + 0 + 0 + 3 + 0 = 30
 	- Yup, the last digit in that sum (20) is a 0, so David’s card is legit!
 
 2. 2nd condition type of Credit Cards
