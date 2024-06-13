@@ -34,60 +34,9 @@ int main(void)
 To display something on the terminal when a code is run we use the `printf();` function. the syntax is very simple. Just add the String within "double quotes". For example, `printf("Hello, World\n")` will give output `Hello, World`.
 
 ##### Escape sequence
-
-The `\n` in the print string doesn't get printed in the output. This is a escape sequence. The common format is usually a backslash (`\`) followed by one or more characters. These tell the computer to print th8ings that are not easily represented on a keyboard. For example, Let's take a file named `hello.c` and print a the line "Hello, World".
-
-Start on the terminal
-```Terminal
-code hello.c
-```
-This will create a file named `hello.c` and u can edit this file now in the editor.
-
-In the file let's input the following:
-```c
-#include <stdio.h>
-int main(void){
-	printf("Hello, World");
-}
-```
-
-Now in the terminal,
-```Terminal
-make hello
-./hello
-```
-This will convert the source code to machine code and run it.
-
-The terminal looks something like this now
-```Terminal
-$make hello
-$./hello
-Hello, World$
-```
-Notice that the `$` looks a bit odd at the end of the printed statement. That is because the line didn't mention the cursor to go to the next line. So, the cursor being in that line only the program ended. Which isn't wrong per say, but it doesn't looks "aesthetic". Let's fix that.
-
-By adding a `/n` at the end of our print string we tell the computer to put the cursor to the next line.
-The code looks like this,
-```c
-#include <stdio.h>
-int main(void){
-	printf("Hello, World\n");
-}
-```
-
-Now if we convert the source code again to machine code and run it, we get this in the terminal;
-```Terminal
-$make hello
-$./hello
-Hello, World
-$
-```
-
-##### Header files
-
-Now i think it's time to explain the `#include <stdio.h>`. The `stdio.h` is a header file and it contains the necessary explanation of functions that help us code easier. The `printf()` is a function of the header file `stdio.h`. We are able to use this function in our program only because we included the header file. The `#include` tells the machine that the file `stdio.h` functions will be used in our file.
-
-For more about the functions in `stdio.h` check out its [Documentation](https://manual.cs50.io/#stdio.h).
+Some commonly used escape sequences:
+-  - Next line
+- `\"` - 
 
 ##### Input commands
 
@@ -102,10 +51,10 @@ The Functions with their use are listed here:
 - `get_long_long` - prompts user for a line of text from stdin and returns...
 - `get_string` - prompts user for a line of text from stdin and returns...
 
-Let's make a sample file that 
-
 In case you want to include the `cs50.h` in offline Projects. [Check This Out](https://stackoverflow.com/questions/76893704/how-can-i-include-the-cs50-h-file) 
 
+##### Print variables
+Variable explained in [[01 - Projects/CS50X/Week 0 - Scratch|Week 0 - Scratch]]
 
 👇🏻All the lecture notes are present here 
 [Lecture 1 - CS50x 2024 (harvard.edu)](https://cs50.harvard.edu/x/2024/notes/1/)
