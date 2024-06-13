@@ -245,9 +245,9 @@ Test inputs
 
 Checking and submitting commands
 
-- `check50 cs50/problems/2024/x/me` - Test the program
+- `check50 cs50/problems/2024/x/mario/less` - Test the program
 - `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
-- `submit50 cs50/problems/2024/x/me` - Submit the program
+- `submit50 cs50/problems/2024/x/mario/less` - Submit the program
 
 #### 3_2. Mario-more
 
@@ -335,11 +335,20 @@ Test inputs
 
 Checking and submitting commands
 
-- `check50 cs50/problems/2024/x/me` - Test the program
+- `check50 cs50/problems/2024/x/mario/more` - Test the program
 - `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
-- `submit50 cs50/problems/2024/x/me` - Submit the program
+- `submit50 cs50/problems/2024/x/mario/more` - Submit the program
 
 #### 4_1. Cash
+
+This was kind of a curveball to what i had done before. The concept is kinda easy to explain. There are 4 types of change: quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). And we have to make a program that tells the least number of coins needed to give the change back.
+```terminal
+$ make cash
+$ ./cash
+Change owed: 25
+
+```
+
 
 #### 4_2. Credit
 
