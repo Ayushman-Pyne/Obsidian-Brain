@@ -453,8 +453,7 @@ This was the longest thinking i had to until now. Many steps to check... Let's t
 		- 16 digits starts with 51,52,53,54, or 55
 	- VISA
 		- 13 or 16 digits starts with 4
-
-I will use 2 functions to have a clean main.
+It will follow a path of checks. 1st check will be the number of digits if they will be 13, 15, or 16. Then check for the checksum. Then check the type of card.
 
 
 
