@@ -26,8 +26,8 @@ int main(void)
 ##### Basic first time use terminal commands:
 
 - `code hello.c` used to make the C source code file and enter it to write code. Here it creates `hello.c` file and opens it in the editor.
-- `make hello` used to turn the source code into machine code(which is in binary) and store it in the same path as the `hello.c` but with a different file extension.
-- `./hello` is used to run the machine code by opening it in the terminal.
+- `make hello` used to turn the source code into machine code(which is in binary) and store it in the same path as the `hello.c` but with a different file extension. Here the source code `hello.c` is being converted to machine code `hello`.
+- `./hello` is used to run the machine code by opening it in the terminal. Here the machine code `hello` is being run.
 
 ##### The Print function
 
@@ -38,7 +38,32 @@ To display something on the terminal when a code is run we use the `printf();` f
 The `\n` in the print string doesn't get printed in the output. This is a escape sequence. The common format is usually a backslash (`\`) followed by one or more characters. These tell the computer to print th8ings that are not easily represented on a keyboard. For example, Let's take a file named `hello.c` and print a the line "Hello, World".
 
 Start on the terminal
+```Terminal
+code hello.c
+```
+This will create a file named `hello.c` and u can edit this file now in the editor.
 
+In the file let's input the following:
+```c
+#include <stdio.h>
+int main(void){
+	printf("Hello, World");
+}
+```
+
+Now in the terminal,
+```Terminal
+make hello
+./hello
+```
+This will convert the source code to machine code and run it.
+
+The terminal looks something like this now
+```Terminal
+$make hello
+$./hello
+Hello, World$
+```
 
 
 👇🏻All the lecture notes are present here 
