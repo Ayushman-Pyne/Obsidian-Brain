@@ -64,6 +64,28 @@ $make hello
 $./hello
 Hello, World$
 ```
+Notice that the `$` looks a bit odd at the end of the printed statement. That is because the line didn't mention the cursor to go to the next line. So, the cursor being in that line only the program ended. Which isn't wrong per say, but it doesn't looks "aesthetic". Let's fix that.
+
+By adding a `/n` at the end of our print string we tell the computer to put the cursor to the next line.
+The code looks like this,
+```c
+#include <stdio.h>
+int main(void){
+	printf("Hello, World\n");
+}
+```
+
+Now if we convert the source code again to machine code and run it, we get this in the terminal;
+```Terminal
+$make hello
+$./hello
+Hello, World
+$
+```
+
+##### Header files
+
+Now i think it's time to explain the `#include <stdio.h>`. The `stdio.h` is a header file and it contains the necessary
 
 
 👇🏻All the lecture notes are present here 
