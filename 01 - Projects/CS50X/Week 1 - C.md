@@ -50,7 +50,17 @@ The Functions with their use are listed here:
 
 In case you want to include the `cs50.h` in offline Projects. [Check This Out](https://stackoverflow.com/questions/76893704/how-can-i-include-the-cs50-h-file) 
 
+##### Variable Types
+Some common variable types
+- bool
+- char
+- double
+- float
+- int
+- long
+- string
 ##### Print variables
+
 We use placeholders in the String of the `printf` function. The Syntax follows:
 ```C
 printf("%s Sample text", variable);
@@ -61,7 +71,17 @@ List Of Placeholders and the variable type they refer to:
 - `%c` - char
 - `%f` - float
 - `%i` - int
-- `%li` - 
+- `%li` - long
+- `%s` - string
+
+##### Command Line commands
+Some common Command Line Commands:
+- `cd` - Change Directory
+- `cp` - Copy a file to a directory. Syntax `cp SRC_FILE1 SRC_FILE2 DESTNATION_DIRECTORY`
+- `ls` - List the items in the current directory
+- `mkdir` - Make Directory in the current directory
+- `mv` - Move files to a directory. Syntax `mv [options(s)] [source_file_name(s)] [Destination_file_name]`
+
 
 
 👇🏻All the lecture notes are present here 
