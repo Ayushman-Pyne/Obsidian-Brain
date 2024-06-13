@@ -29,14 +29,11 @@ int main(void)
 - `make hello` used to turn the source code into machine code(which is in binary) and store it in the same path as the `hello.c` but with a different file extension. Here the source code `hello.c` is being converted to machine code `hello`.
 - `./hello` is used to run the machine code by opening it in the terminal. Here the machine code `hello` is being run.
 
-##### The Print function
-
-To display something on the terminal when a code is run we use the `printf();` function. the syntax is very simple. Just add the String within "double quotes". For example, `printf("Hello, World\n")` will give output `Hello, World`.
-
 ##### Escape sequence
 Some commonly used escape sequences:
--  - Next line
-- `\"` - 
+- <span style= "color:Yellow"> \n </span> - Next line
+- <span style= "color:Yellow"> \' </span> - '
+- <span style= "color:Yellow"> \"  </span> - "
 
 ##### Input commands
 
@@ -54,7 +51,18 @@ The Functions with their use are listed here:
 In case you want to include the `cs50.h` in offline Projects. [Check This Out](https://stackoverflow.com/questions/76893704/how-can-i-include-the-cs50-h-file) 
 
 ##### Print variables
-Variable explained in [[01 - Projects/CS50X/Week 0 - Scratch|Week 0 - Scratch]]
+We use placeholders in the String of the `printf` function. The Syntax follows:
+```C
+printf("%s Sample text", variable);
+```
+Here `%s` is the placeholder that tells the function that there is a string supposed to he here which is a `variable` mentioned later.
+
+List Of Placeholders and the variable type they refer to:
+- `%c` - char
+- `%f` - float
+- `%i` - int
+- `%li` - 
+
 
 👇🏻All the lecture notes are present here 
 [Lecture 1 - CS50x 2024 (harvard.edu)](https://cs50.harvard.edu/x/2024/notes/1/)
