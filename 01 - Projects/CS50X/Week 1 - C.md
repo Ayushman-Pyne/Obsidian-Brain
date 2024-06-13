@@ -102,6 +102,7 @@ Well, This week there were many parts to the homework.
     - [Cash](https://cs50.harvard.edu/x/2024/psets/1/cash/), if feeling less comfortable
     - [Credit](https://cs50.harvard.edu/x/2024/psets/1/credit/), if feeling more comfortable
 #### 1. Hello, World
+
 This was a Very Easy intro program.
 ```terminal
 $mkdir world
@@ -127,7 +128,39 @@ $
 ```
 #### 2. Hello, It's Me
 
+Still an easy task of taking input and displaying the same.
 
+```terminal
+$mkdir me
+$cd me
+me/ $code hello.c
+```
+
+```C
+#include <cs50.h>
+#include <stdio.h>
+  
+int main(void)
+{
+    string name = get_string("What's your name? ");
+    printf("hello, %s\n", name);
+}
+```
+
+Output
+```terminal
+me/ $ make hello
+me/ $ ./hello
+What's your name? Ayushman
+hello, Ayushman
+me/ $
+```
+
+Checking and submitting commands
+
+- `check50 cs50/problems/2024/x/me` - Test the program
+- `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
+- `submit50 cs50/problems/2024/x/me` - Submit
 #### 3_1. Mario-less
 
 #### 3_2. Mario-more
