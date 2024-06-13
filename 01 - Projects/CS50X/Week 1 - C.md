@@ -181,6 +181,7 @@ $
 
 The program is fairly simple. Just a reverse pyramid of " " and a pyramid of "#" printed together.
 ```terminal
+$ mkdir mario-less
 $ cd mario-less
 mario-less/ $ code mario.c
 ```
@@ -242,7 +243,101 @@ Test inputs
 - letters or words?
 - no input at all, when you only hit Enter?
 
+Checking and submitting commands
+
+- `check50 cs50/problems/2024/x/me` - Test the program
+- `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
+- `submit50 cs50/problems/2024/x/me` - Submit the program
+
 #### 3_2. Mario-more
+
+This was the same code basically like the Mario-less just had a small change that there was 2 spaces in each row and another left aligned triangle. Sample output
+```terminal
+$make mario
+$./mario
+$Height: -1
+$Height: 6
+$     #  #
+$    ##  ##
+$   ###  ###
+$  ####  ####
+$ #####  #####
+$######  ######
+$
+```
+It is the same program as mario-less. with the addition of another for loop to display another triangle.
+```terminal
+$ mkdir mario-more
+$ cd mario-more
+mario-more/ $ code mario.c
+```
+
+```C
+#include <cs50.h>
+#include <stdio.h>
+
+void print_row(int l);
+  
+int main(void)
+{
+    int n;
+    do
+    {
+        n = get_int("Height: ");
+    }
+    while (n < 1 | n > 8);
+ 
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = i; j < n - 1; j++)
+        {
+            printf(" ");
+        }
+        print_row(i + 1);
+        printf("\n");
+    }
+}
+void print_row(int l)
+{
+    for (int k = 0; k < l; k++)
+    {
+        printf("#");
+    }
+    printf("  ");
+    for (int k = 0; k < l; k++)
+    {
+        printf("#");
+    }
+}
+```
+
+Output
+```terminal
+mario-more/ $ make mario
+mario-more/ $ ./mario
+Height: 6
+     #  #
+    ##  ##
+   ###  ###
+  ####  ####
+ #####  #####
+######  ######
+mario-more/ $ 
+```
+
+Test inputs
+- `-1` (or other negative numbers)?
+- `0`?
+- `1` through `8`?
+- `9` or other positive numbers?
+- letters or words?
+- no input at all, when you only hit Enter?
+
+Checking and submitting commands
+
+- `check50 cs50/problems/2024/x/me` - Test the program
+- `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
+- `submit50 cs50/problems/2024/x/me` - Submit the program
 
 #### 4_1. Cash
 
