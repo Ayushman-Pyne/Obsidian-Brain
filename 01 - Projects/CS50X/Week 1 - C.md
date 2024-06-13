@@ -101,6 +101,7 @@ Well, This week there were many parts to the homework.
 4. Submit one of:
     - [Cash](https://cs50.harvard.edu/x/2024/psets/1/cash/), if feeling less comfortable
     - [Credit](https://cs50.harvard.edu/x/2024/psets/1/credit/), if feeling more comfortable
+For the full questions click on the links.
 #### 1. Hello, World
 
 This was a Very Easy intro program.
@@ -160,8 +161,86 @@ Checking and submitting commands
 
 - `check50 cs50/problems/2024/x/me` - Test the program
 - `style50 hello.c` - stylize the file to make it look more aesthetically pleasing.
-- `submit50 cs50/problems/2024/x/me` - Submit
+- `submit50 cs50/problems/2024/x/me` - Submit the program
 #### 3_1. Mario-less
+A loop question to display a right aligned pyramid whose height will be taken from the user. Sample output
+```terminal
+$make mario
+$./mario
+$Height: -1
+$Height: 6
+$     #
+$    ##
+$   ###
+$  ####
+$ #####
+$######
+$
+```
+
+
+The program is fairly simple. Just a reverse pyramid of " " and a pyramid of "#" printed together.
+```terminal
+$ cd mario-less
+mario-less/ $ code mario.c
+```
+
+```C
+#include <cs50.h>
+#include <stdio.h>
+
+void print_row(int l);
+
+int main(void)
+{
+    int n;
+    do
+    {
+        n = get_int("Height: ");
+    }
+    while (n < 1 | n > 8);
+ 
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = i; j < n - 1; j++)
+        {
+            printf(" ");
+        }
+        print_row(i + 1);
+        printf("\n");
+    }
+}
+void print_row(int l)
+{
+    for (int k = 0; k < l; k++)
+    {
+        printf("#");
+    }
+}
+```
+
+Output
+```terminal
+mario-less/ $ make mario
+mario-less/ $ ./mario
+Height: -1
+Height: 7
+      #
+     ##
+    ###
+   ####
+  #####
+ ######
+#######
+mario-less/ $ 
+```
+
+Test inputs
+- `-1` or other negative numbers?
+- `0`?
+- `1` or other positive numbers?
+- letters or words?
+- no input at all, when you only hit Enter?
 
 #### 3_2. Mario-more
 
