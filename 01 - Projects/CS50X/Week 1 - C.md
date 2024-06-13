@@ -85,7 +85,13 @@ $
 
 ##### Header files
 
-Now i think it's time to explain the `#include <stdio.h>`. The `stdio.h` is a header file and it contains the necessary
+Now i think it's time to explain the `#include <stdio.h>`. The `stdio.h` is a header file and it contains the necessary explanation of functions that help us code easier. The `printf()` is a function of the header file `stdio.h`. We are able to use this function in our program only because we included the header file. The `#include` tells the machine that the file `stdio.h` functions will be used in our file.
+
+For more about the functions in `stdio.h` check out its [Documentation](https://manual.cs50.io/#stdio.h).
+
+There is this another header file `cs50.h` that we will use in the future for talking input. It's a header file provided by the course and can be accessed. Check out their [Documentation](https://manual.cs50.io/#cs50.h) for the function names.
+
+
 
 
 👇🏻All the lecture notes are present here 
