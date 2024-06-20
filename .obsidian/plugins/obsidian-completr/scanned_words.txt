@@ -332,6 +332,7 @@ establish
 exposed
 entailed
 espouse
+execution
 plugin
 parsed
 present
@@ -1918,6 +1919,8 @@ internet
 insurance
 implementing
 integral
+issuing
+instrumental
 MORE
 My
 Movie
@@ -4706,6 +4709,7 @@ contemporary
 conveniences
 contactless
 characteristics
+cards
 Important
 In
 It
@@ -6381,6 +6385,7 @@ aims
 accessible
 advocacy
 analyzing
+accepting
 Homework
 Here
 HOME
