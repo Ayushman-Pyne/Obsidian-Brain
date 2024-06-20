@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "104cd68849faa8fe",
+            "id": "e43825baca3f6a4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/CS50X/Week 2 - Arrays.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95800b9e7634ce2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc5d464042c868e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/CS50X/Week 1 - C.md",
+                "file": "01 - Projects/Proj 1/Commercial Banks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "01 - Projects/Proj 1/Commercial Banks.md"
               }
             }
           },
@@ -146,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "01 - Projects/Proj 1/Commercial Banks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "01 - Projects/Proj 1/Commercial Banks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,10 +198,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "95800b9e7634ce2b",
+  "active": "e43825baca3f6a4f",
   "lastOpenFiles": [
-    "01 - Projects/CS50X/Week 1 - C.md",
     "00 - Maps Of Contents/0 - Home.md",
+    "01 - Projects/Proj 1/Commercial Banks.md",
+    "01 - Projects/Proj 1",
+    "01 - Projects/CS50X/Week 1 - C.md",
     "01 - Projects/CS50X/Week 2 - Arrays.md",
     "00 - Maps Of Contents/CS50X.md",
     "99 - Meta/Full Note Template.md",
@@ -258,12 +233,10 @@
     "001911052024 s.md",
     "01 - Projects/CS50X/Week 5 - Data Structures.md",
     "01 - Projects/CS50X/Week 10 Cybersecurity.md",
-    "01 - Projects/CS50X/Week 9 - Flask.md",
     "01 - Projects/CS50X",
     "00 - Map Of Contents/Home Page.canvas",
     "06 - Daily",
     "07 - Archives",
-    "03 - Resources",
     "03 - Resources/06 - Attachments/Pasted image 20240510201303.png",
     "03 - Resources/06 - Attachments/Pasted image 20240510201145.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507112315.png",
