@@ -20,7 +20,8 @@ Here are six quotations on various aspects of business and technology:
 
 ## Concept of E-Business of India
 
- - **Initiation Point:**
+- **Initiation Point:**
+  
 	- The inception of e-business in India can be dated back to the late 1990s and early 2000s coinciding with the rise in internet usage and businesses venturing into online platforms for commercial activities.
 	
 	- The establishment of e-commerce platforms like Rediff Shopping, IndiaMART, and later Flipkart and Amazon.in laid the groundwork for the growth of online retail and e-business operations in India.
