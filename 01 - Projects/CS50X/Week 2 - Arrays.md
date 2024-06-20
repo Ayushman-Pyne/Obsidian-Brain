@@ -14,3 +14,5 @@ cssclasses:
 
 
 ## References
+
+[CS50x 2024 - Lecture 2 - Arrays (youtube.com)](https://www.youtube.com/watch?v=4vU4aEFmTSo)
