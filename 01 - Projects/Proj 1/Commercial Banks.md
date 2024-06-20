@@ -4,7 +4,7 @@ cssclasses:
   - dot-grid
   - page-white
 ---
-# <span style= "color:">Definition of Commercial banks
+# <span style= "color:purple">Definition of Commercial banks</span>
 
 Commercial banks, as financial entities, provide an array of services to individuals, businesses, and entities, encompassing activities like deposit-taking, loan provision, fund transfers, credit card issuance, and a range of financial products like savings accounts, checking accounts, and certificates of deposits. Serving as pivotal players in the economy, commercial banks facilitate the movement of funds from savers to borrowers and offer vital financial solutions that support economic transactions and operations.
 
