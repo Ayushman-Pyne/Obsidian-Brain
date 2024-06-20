@@ -29,6 +29,7 @@ Commercial banks, as financial entities, provide an array of services to individ
 2. Diverse Banking Solutions: Providing an extensive suite of financial services such as savings accounts, loans, credit options, and investment opportunities, commercial banks cater to the varied requirements of both individuals and enterprises.
 
 3. Economic Resilience: A cornerstone of economic stability, commercial banks bolster the economy by offering liquidity, credit facilities, and essential financial services vital for sustainable economic progress.
+   
 4. Payment System Facilitation: By facilitating efficient domestic and international money transfers, commercial banks facilitate seamless and secure transactions for customers and businesses.
 
 5. Risk Oversight: Employing meticulous risk evaluation, asset diversification, and sound lending strategies, commercial banks play a vital role in managing and reducing financial risks.

@@ -37,3 +37,15 @@ These are the seven merits of commercial banks:
 6. Through funding support for businesses and backing entrepreneurial endeavors, commercial banks foster job creation and contribute significantly to economic expansion.
 
 7. Commercial banks promote financial inclusivity by offering banking services to a broad spectrum of society, thereby encouraging broader economic participation and progress.
+
+## Demerits Of Commercial banks
+
+1. Some customers perceive the fees imposed by commercial banks for their services as a significant financial burden.
+
+2. Accessing banking services can be challenging for residents and businesses in remote or underserved areas, primarily due to the uneven distribution of bank branches.
+
+3. The volatility in interest rates can affect the profitability of deposits and the cost of loans, thereby influencing the financial circumstances of clients and businesses alike.
+
+4. Customers may experience delays or inconveniences during transactions or when accessing services due to the bureaucratic procedures inherent in certain commercial banking processes.
+
+## KYC

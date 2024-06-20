@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Proj 1/Commerce Rewrite 1.md"
+                "file": "Commerce Rewrite 2.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Proj 1/Commerce Rewrite 1.md",
+                "file": "Commerce Rewrite 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Proj 1/Commerce Rewrite 1.md",
+                "file": "Commerce Rewrite 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,10 +228,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "03de9ba8a05536ee",
+  "active": "be941694b2e0425f",
   "lastOpenFiles": [
-    "01 - Projects/Proj 1/Commerce.md",
     "01 - Projects/Proj 1/Commerce Rewrite 1.md",
+    "01 - Projects/Proj 1/Commerce.md",
     "Commerce Rewrite 2.md",
     "01 - Projects/Proj 1/SWOT Analysis.md",
     "01 - Projects/Proj 1/Commercial Banks.md",
