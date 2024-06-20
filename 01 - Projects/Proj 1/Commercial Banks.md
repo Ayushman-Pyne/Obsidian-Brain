@@ -108,9 +108,9 @@ The KYC process is not only important for meeting regulatory obligations but als
 ## Bank of Baroda
 
 1. Bank of Baroda's Background:
-   - Founded on July 20, 1908, by Maharaja Sayajirao Gaekwad III in the princely state of Baroda, Bank of Baroda (Bank Of Baroda) stands as a prominent public sector bank in India.
-   - Bank Of Baroda boasts a rich legacy spanning over a century, contributing significantly to the growth and enhancement of banking and financial services within India.
-   - Expanding its footprint globally, Bank of Baroda has established an extensive network of branches and offices across various countries.
+	- Founded on July 20, 1908, by Maharaja Sayajirao Gaekwad III in the princely state of Baroda, Bank of Baroda (Bank Of Baroda) stands as a prominent public sector bank in India.
+	- Bank Of Baroda boasts a rich legacy spanning over a century, contributing significantly to the growth and enhancement of banking and financial services within India.
+	- Expanding its footprint globally, Bank of Baroda has established an extensive network of branches and offices across various countries.
 
 2. Assortment of Schemes by Bank of Baroda:
 	- Bank of Baroda presents a diverse portfolio of schemes tailored to meet the multifaceted financial requirements of its clientele, encompassing savings accounts, current accounts, fixed deposits, recurring deposits, home loans, personal loans, car loans, and more.
