@@ -1,16 +1,12 @@
 ---
-Date: 2024-05-10 19:39
+Date: 2024-06-13 20:34
 tags:
   - CS50X
   - Arrays
-cssclasses: []
+cssclasses:
+  - center-titles
+  - dot-grid
 ---
-
-Status: 
-
-Tags: 
-
-
 # Week 2 - Arrays
 
 
