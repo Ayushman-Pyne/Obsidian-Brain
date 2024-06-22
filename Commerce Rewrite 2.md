@@ -52,4 +52,38 @@ These are the seven merits of commercial banks:
 
 Know Your Customer (KYC) is an essential procedure employed by commercial banks and financial institutions to authenticate the identities of their clients and evaluate their appropriateness in accordance with regulatory and anti-money laundering (AML) guidelines. The implementation of KYC protocols is of utmost importance in mitigating the potential risks associated with financial misconduct, upholding the integrity of the financial system, and deterring illicit activities such as money laundering, terrorist financing, and fraudulent practices.
 
+### Core components of KYC
 
+1. **Risk Assessment:** Banks evaluate the risks associated with each customer, considering factors like their financial background, sources of funds, business activities, and overall risk profile. This assessment helps identify potential risks and implement appropriate risk management measures.
+
+2. **Customer Due Diligence (CDD):** Banks gather detailed information to understand the nature of the customer's activities, the purpose of their account, and expected transaction patterns. Enhanced due diligence is conducted for higher-risk customers, such as politically exposed persons (PEPs) or those involved in complex transactions, ensuring a thorough assessment of potential risks.
+
+3. **Ongoing Monitoring:** Once onboarded, banks continuously monitor customer transactions and activities. They investigate any deviations or suspicious activities, seeking additional information from the customer as needed to clarify the nature of their transactions.
+
+4. **Customer Identification:** Banks verify the identity of customers by collecting official documents like government-issued IDs, passports, or driver's licenses. These documents confirm critical information such as the customer's name, address, date of birth, ensuring the authenticity of their identity.
+
+5. **Record-Keeping:** Banks are required to maintain accurate records of customer identification details, account opening information, and transaction records for a specified period. This compliance with regulatory requirements facilitates audits and investigations, ensuring transparency and integrity within the banking sector.
+
+The KYC process is essential not only for regulatory compliance but also for building trust, safeguarding the institution's reputation, and protecting the interests of legitimate customers. It promotes transparency, integrity, and security in financial transactions.
+### Utilities of KYC
+
+
+## Steps to open savings accounts in India
+## Bank of Baroda
+## Conclusion
+
+
+
+## Introduction To SWOT Analysis
+
+## Definition Of SWOT Analysis
+## Quotations Of SWOT Analysis
+## Expansion Of SWOT Analysis
+## Utility Of SWOT Analysis
+## Tata Steel
+### History
+### Famous products Of tata steel
+### Swot Analysis Of Tata Steel
+## Merits Of SWOT Analysis
+## Demerits of SWOT Analysis
+## Conclusion

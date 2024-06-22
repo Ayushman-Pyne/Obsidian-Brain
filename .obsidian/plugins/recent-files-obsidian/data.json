@@ -5,12 +5,12 @@
       "path": "01 - Projects/Proj 1/Commerce.md"
     },
     {
-      "basename": "Commerce Rewrite 1",
-      "path": "01 - Projects/Proj 1/Commerce Rewrite 1.md"
-    },
-    {
       "basename": "Commerce Rewrite 2",
       "path": "Commerce Rewrite 2.md"
+    },
+    {
+      "basename": "Commerce Rewrite 1",
+      "path": "01 - Projects/Proj 1/Commerce Rewrite 1.md"
     },
     {
       "basename": "0 - Home",
