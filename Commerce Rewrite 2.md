@@ -49,3 +49,7 @@ These are the seven merits of commercial banks:
 4. Bureaucratic procedures inherent in commercial banking processes may lead to delays or inconveniences for customers during transactions or when accessing services.
 
 ## KYC
+
+Know Your Customer (KYC) is an essential procedure employed by commercial banks and financial institutions to authenticate the identities of their clients and evaluate their appropriateness in accordance with regulatory and anti-money laundering (AML) guidelines. The implementation of KYC protocols is of utmost importance in mitigating the potential risks associated with financial misconduct, upholding the integrity of the financial system, and deterring illicit activities such as money laundering, terrorist financing, and fraudulent practices.
+
+

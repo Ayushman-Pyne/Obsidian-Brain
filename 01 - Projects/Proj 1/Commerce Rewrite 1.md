@@ -49,3 +49,36 @@ These are the seven merits of commercial banks:
 4. Customers may experience delays or inconveniences during transactions or when accessing services due to the bureaucratic procedures inherent in certain commercial banking processes.
 
 ## KYC
+
+Know Your Customer (KYC) is a critical process utilized by commercial banks and financial institutions to verify client identities and assess their suitability while complying with regulatory and anti-money laundering (AML) standards. Implementing KYC procedures is crucial for mitigating the risks of financial misconduct, maintaining the integrity of the financial system, and preventing illegal activities such as money laundering, terrorist funding, and fraudulent behaviors.
+
+### Core components of KYC
+
+1. **Risk Assessment:** Banks evaluate the risks of engaging with each customer by considering factors like the customer's financial background, sources of funds, business operations, and overall risk profile. This assessment helps in identifying potential risks and implementing appropriate risk management measures.
+
+2. **Customer Identification:** Banks must verify the identity of their customers by collecting official documents, such as government-issued IDs, passports, or driver's licenses. These documents confirm the customer's name, address, date of birth, and other critical information, ensuring the legitimacy of their identity.
+
+3. **Ongoing Monitoring:** After onboarding, banks continuously monitor customer transactions and activities. Any unusual or suspicious behavior triggers a detailed investigation, potentially requiring additional information from the customer to clarify the nature of their activities.
+
+4. **Customer Due Diligence (CDD):** This involves collecting detailed information to understand the customer's activities, the purpose of their account, and expected transaction patterns. For higher-risk customers, such as politically exposed persons (PEPs) or those involved in complex transactions, enhanced due diligence is performed to ensure a thorough understanding of potential risks.
+
+5. **Record-Keeping:** Banks are obligated to maintain comprehensive records of customer identification details, account opening documentation, and transaction histories. These records must be preserved for a specified period to comply with regulatory requirements and facilitate any necessary audits or investigations.
+
+The KYC process is crucial for regulatory compliance, fostering trust, and protecting the financial institution's reputation. It safeguards the interests of legitimate customers and promotes transparency, integrity, and security within the banking sector.
+
+### Utilities of KYC
+
+1. Regulatory Compliance: Ensuring adherence to laws and regulations aimed at combating financial crimes, KYC promotes trust and maintains the integrity of the financial system.
+
+2. Risk Mitigation: KYC helps banks assess and mitigate potential financial crimes, including money laundering, terrorist financing, and fraud.
+
+3. Enhanced Due Diligence: For high-risk customers, KYC enables banks to gather additional information and implement stricter monitoring measures.
+
+4. Operational Efficiency: Despite initial resource and time requirements, KYC enhances operational efficiency, facilitating smoother account opening, transactions, and compliance management.
+
+5. Fraud Prevention: By monitoring customer accounts and conducting ongoing due diligence, KYC assists in identifying and preventing fraudulent behavior.
+
+6. Trust and Reputation: Robust KYC processes help banks maintain trust, credibility, and a positive reputation with stakeholders by demonstrating a commitment to integrity and compliance.
+
+7. Customer Protection: KYC safeguards customers' identities and financial transactions, reducing the risk of identity theft and unauthorized account access.
+
