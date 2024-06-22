@@ -4,57 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cff38f97c1d8faa",
+        "id": "27b8a551dcf2d94f",
         "type": "tabs",
         "children": [
           {
-            "id": "03de9ba8a05536ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Proj 1/Commerce Rewrite 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be941694b2e0425f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commerce Rewrite 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "13f47dfca4927b97",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c6b157ac21bfa06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Proj 1/Commerce.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b8bdf8af9a79f02",
+            "id": "a89efb8004da8497",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.51103591918945,
-    "collapsed": true
+    "width": 228.51103591918945
   },
   "right": {
     "id": "a370b92b12670430",
@@ -156,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commerce Rewrite 2.md"
+                "file": "00 - Maps Of Contents/0 - Home.md"
               }
             }
           },
@@ -166,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commerce Rewrite 2.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commerce Rewrite 2.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,11 +199,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "be941694b2e0425f",
+  "active": "a89efb8004da8497",
   "lastOpenFiles": [
-    "01 - Projects/Proj 1/Commerce.md",
     "Commerce Rewrite 2.md",
     "01 - Projects/Proj 1/Commerce Rewrite 1.md",
+    "01 - Projects/Proj 1/Commerce.md",
     "00 - Maps Of Contents/0 - Home.md",
     "01 - Projects/Proj 1/SWOT Analysis.md",
     "01 - Projects/Proj 1/Commercial Banks.md",
