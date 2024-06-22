@@ -379,6 +379,11 @@ expeditious
 execute
 evolved
 entails
+entailing
+excluding
+equitable
+employs
+expansive
 plugin
 parsed
 present
@@ -758,6 +763,14 @@ pitfalls
 prevent
 participating
 particularly
+priorities
+prioritizes
+patrons
+paradigm
+predetermined
+possibilities
+pinpoint
+precedes
 tags
 to
 the
@@ -1071,6 +1084,8 @@ trend
 transcend
 temporal
 targeted
+top
+transcends
 Switch
 Some
 Scratch
@@ -1315,6 +1330,7 @@ Security
 Sachin
 Scale
 SuperCoin
+Safeguarding
 EXCALIDRAW
 Elements
 Example
@@ -2099,6 +2115,7 @@ interaction
 includes
 innovations
 imperative
+inventive
 MORE
 My
 Movie
@@ -2492,6 +2509,7 @@ Offering
 Objectives
 Occurs
 Operations
+Operating
 menu
 made
 music
@@ -2797,6 +2815,9 @@ mortar
 models
 major
 maximizing
+molding
+milieu
+match
 of
 on
 ornare
@@ -3025,6 +3046,7 @@ operated
 offerings
 originating
 origins
+occur
 document
 dot
 different
@@ -3364,6 +3386,10 @@ distinguishes
 domain
 deeper
 disparities
+disparity
+deter
+distinctive
+defined
 Drawing
 Date
 Define
@@ -4046,6 +4072,7 @@ groundwork
 governmental
 gateways
 genesis
+governing
 hello
 here
 homework
@@ -5056,6 +5083,11 @@ connections
 capability
 collectively
 concerning
+challenge
+constant
+choose
+contexts
+comparative
 Important
 In
 It
@@ -5786,6 +5818,8 @@ national
 navigation
 noticeable
 noted
+necessitates
+nationwide
 CS
 Completed
 Courses
@@ -6824,6 +6858,9 @@ amplify
 around
 agility
 avoid
+arrays
+applied
+aim
 Homework
 Here
 HOME
@@ -7284,6 +7321,7 @@ witness
 worldwide
 whether
 warehousing
+wherein
 scratch
 soothing
 some
@@ -7724,6 +7762,11 @@ smartphones
 systems
 scalability
 sensitive
+susceptibility
+sizable
+simplifies
+spans
+spheres
 background
 backdrops
 border
@@ -8038,6 +8081,9 @@ beauty
 brands
 boasting
 boundaries
+began
+backgrounds
+biological
 features
 file
 for
@@ -8362,6 +8408,9 @@ fashion
 furnishes
 firms
 fewer
+frameworks
+frontrunners
+functionalities
 References
 Resources
 Requirement
@@ -9081,6 +9130,7 @@ usage
 undergone
 users
 uphold
+underscores
 Use
 User
 Unicode
@@ -10051,6 +10101,13 @@ rapidly
 reduce
 restrictions
 reaching
+reward
+ranges
+reshaping
+revolutionizing
+reconceptualizing
+requisites
+realms
 Base
 But
 Bit
@@ -10270,6 +10327,7 @@ Bansal
 Binny
 Below
 Building
+Beyond
 your
 yellow
 you
