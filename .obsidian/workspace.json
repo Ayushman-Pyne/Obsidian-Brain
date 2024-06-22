@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Proj 1/Commerce Rewrite 1.md"
+                "file": "01 - Projects/Proj 1/Commerce.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Proj 1/Commerce Rewrite 1.md",
+                "file": "01 - Projects/Proj 1/Commerce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Proj 1/Commerce Rewrite 1.md",
+                "file": "01 - Projects/Proj 1/Commerce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,10 +245,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "03de9ba8a05536ee",
+  "active": "0c6b157ac21bfa06",
   "lastOpenFiles": [
-    "01 - Projects/Proj 1/Commerce.md",
     "01 - Projects/Proj 1/Commerce Rewrite 1.md",
+    "01 - Projects/Proj 1/Commerce.md",
     "Commerce Rewrite 2.md",
     "00 - Maps Of Contents/0 - Home.md",
     "01 - Projects/Proj 1/SWOT Analysis.md",
