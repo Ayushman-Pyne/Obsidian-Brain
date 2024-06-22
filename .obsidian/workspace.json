@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a89efb8004da8497",
+            "id": "defa037a2e645c11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "01 - Projects/Proj 1/Business Studies.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c14d1f0cb834535c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Studies Rewrite 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "Business Studies Rewrite 1.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "Business Studies Rewrite 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "Business Studies Rewrite 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,18 +213,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a89efb8004da8497",
+  "active": "c14d1f0cb834535c",
   "lastOpenFiles": [
-    "Commerce Rewrite 2.md",
+    "Readme.md",
+    "Business Studies Rewrite 1.md",
+    "Business Studies Rewrite 2.md",
+    "Business Studies Rewrite 1 - Copy.md",
+    "01 - Projects/Proj 1/Business Studies.md",
+    "01 - Projects/Proj 1/E-Business.md",
+    "01 - Projects/Proj 1/Selection.md",
+    "01 - Projects/Proj 1/SWOT Analysis.md",
+    "00 - Maps Of Contents/0 - Home.md",
+    "01 - Projects/Proj 1/Commerce Rewrite 2.md",
     "01 - Projects/Proj 1/Commerce Rewrite 1.md",
     "01 - Projects/Proj 1/Commerce.md",
-    "00 - Maps Of Contents/0 - Home.md",
-    "01 - Projects/Proj 1/SWOT Analysis.md",
     "01 - Projects/Proj 1/Commercial Banks.md",
     "01 - Projects/CS50X/Week 2 - Arrays.md",
     "01 - Projects/CS50X/Week 1 - C.md",
     "00 - Maps Of Contents/CS50X.md",
-    "01 - Projects/Proj 1/Selection.md",
     "07 - Archives/archived Week 0 - Scratch.md",
     "03 - Resources/06 - Attachments/Pasted image 20240507082121.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507082403.png",
@@ -222,12 +242,10 @@
     "03 - Resources/06 - Attachments/Pasted image 20240507111510.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507111613.png",
     "03 - Resources/06 - Attachments/Pasted image 20240507112315.png",
-    "01 - Projects/Proj 1/E-Business.md",
     "01 - Projects/Proj 1",
     "99 - Meta/Full Note Template.md",
     "00 - Maps Of Contents/Movies.md",
     "00 - Maps Of Contents/Books.md",
-    "Readme.md",
     "02 - Areas/Books/48 Laws of Power - Robert Greene.md",
     "07 - Archives/Test.md",
     "06 - Daily/11005512052024 - Test page color.md",
@@ -238,12 +256,8 @@
     "07 - Archives/Areas/Books",
     "07 - Archives/Areas",
     "07 - Archives/Projects",
-    "02 - Areas/Books/Ikigai - Hector Gracia and Francesc Miralles.md",
-    "01 - Projects/CS50X/Week 0 - Scratch.md",
     "02 - Areas/Books",
     "02 - Areas/Movies",
-    "07 - Archives/Test column.md",
-    "ayushman.pyne@gmail.com.md",
     "01 - Projects/CS50X",
     "00 - Map Of Contents/Home Page.canvas",
     "06 - Daily",
