@@ -77,6 +77,7 @@ The KYC process is not only important for meeting regulatory obligations but als
 4. Fraud Prevention: It assists in identifying and preventing fraudulent behaviour by monitoring customer accounts and conducting ongoing due diligence.
 
 5. Enhanced Due Diligence: For high-risk customers, KYC enables banks to gather additional information and implement stricter monitoring measures.
+   
 6. Operational Efficiency: Despite initial resource and time requirements, KYC enhances operational efficiency, facilitating smoother account opening, transactions, and compliance management.
 
 7. Trust and Reputation: By demonstrating a commitment to integrity and compliance, robust KYC processes help banks maintain trust, credibility, and a positive reputation with stakeholders.
