@@ -147,7 +147,6 @@ Bank of Baroda, as an example of a commercial bank, demonstrates the significanc
 
 SWOT analysis serves as a valuable strategic planning tool utilized by individuals, businesses, and organizations to assess and comprehend their internal strengths and weaknesses, along with external opportunities and threats. This structured analysis aids in gaining a holistic view of the current state, facilitating informed decision-making and the formulation of effective strategies. Strengths and weaknesses focus on internal aspects like resources, capabilities, and constraints under the entity's purview. Conversely, opportunities and threats encompass external factors stemming from the competitive landscape, market dynamics, regulatory shifts, or other external influences that may impact the entity.
 
-
 ## Definition Of SWOT Analysis
 
 SWOT analysis, a strategic planning tool, is an acronym representing Strengths, Weaknesses, Opportunities, and Threats. Its purpose is to identify and evaluate these key aspects of a business, project, or scenario, aiding individuals or organizations in making well-informed decisions regarding strategy and planning. Strengths and Weaknesses are internal factors under the entity's influence, while Opportunities and Threats are external factors that may require adaptation or mitigation. Widely utilized by businesses, SWOT analysis enables the assessment of their present market position and the development of strategies for future growth and success.
