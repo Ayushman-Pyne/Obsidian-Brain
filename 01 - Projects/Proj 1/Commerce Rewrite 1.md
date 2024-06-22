@@ -166,3 +166,22 @@ SWOT analysis, an acronym for Strengths, Weaknesses, Opportunities, and Threats,
 
 ## Expansion Of SWOT analysis
 
+- Strength: Within the scope of a SWOT analysis, strengths encompass internal attributes and resources that furnish an organization with a competitive edge. These may include elements such as a robust brand reputation, proprietary technology, a skilled workforce, efficient processes, a loyal customer base, and other internal capabilities that differentiate the organization from competitors. Recognizing and leveraging strengths enables organizations to capitalize on these positive attributes, driving growth and achieving competitive success in their respective markets.
+
+- Weakness: In the context of a SWOT analysis, weaknesses refer to internal factors that hinder an organization's performance or competitive position. These could include limitations such as insufficient financial resources, outdated technology, skill gaps, inadequate infrastructure, inefficient processes, or other internal constraints that impede the organization's ability to achieve its strategic objectives. Addressing weaknesses through strategic planning and resource allocation is essential for organizations seeking to enhance overall performance and sustainable growth.
+
+- Opportunity: Opportunities, as identified in a SWOT analysis, denote external factors or conditions that present favorable prospects for an organization. These opportunities encompass aspects such as emerging market trends, new technologies, unexplored market segments, evolving consumer preferences, potential partnerships, and other external circumstances that offer advantageous opportunities for the organization's expansion and success. Identifying and seizing opportunities allows organizations to expand their market presence, increase revenue streams, and maintain a competitive advantage.
+
+- Threat: Within a SWOT analysis, threats represent external factors that pose risks or challenges to an organization's performance and competitive position. These threats may include factors such as intense market competition, economic fluctuations, regulatory changes, shifts in consumer behavior, technological disruptions, supply chain vulnerabilities, or other external pressures that can impact the organization's operational efficiency and profitability. Proactively identifying and managing threats enables organizations to develop contingency plans, mitigate risks, and safeguard their business operations against potential adverse impacts.
+
+## Utility Of SWOT analysis
+
+- SWOT Analysis serves as a cornerstone in strategic planning by offering a comprehensive assessment.
+- It effectively identifies and helps mitigate potential threats.
+- Its adaptability makes it suitable for application across diverse business enterprises.
+- Provides a thorough overview encompassing all facets of the business environment.
+- Enables understanding of both internal and external factors impacting business operations.
+
+## Tata Steel
+### History
+
