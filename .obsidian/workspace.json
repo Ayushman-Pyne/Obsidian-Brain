@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "33e62e0eddff90bb",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Proj 1/Business Studies Rewrite 2.md"
+                "file": "01 - Projects/Proj 1/Business Studies Rewrite 1.md"
               }
             }
           },
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Proj 1/Business Studies Rewrite 2.md",
+                "file": "01 - Projects/Proj 1/Business Studies Rewrite 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Proj 1/Business Studies Rewrite 2.md",
+                "file": "01 - Projects/Proj 1/Business Studies Rewrite 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,11 +232,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c14d1f0cb834535c",
+  "active": "6bdaa84121f36bdc",
   "lastOpenFiles": [
+    "01 - Projects/Proj 1/Business Studies.md",
     "01 - Projects/Proj 1/Business Studies Rewrite 1.md",
     "01 - Projects/Proj 1/Business Studies Rewrite 2.md",
-    "01 - Projects/Proj 1/Business Studies.md",
     "Readme.md",
     "Business Studies Rewrite 1 - Copy.md",
     "01 - Projects/Proj 1/E-Business.md",
