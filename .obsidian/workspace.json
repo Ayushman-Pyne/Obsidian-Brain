@@ -35,25 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "33e62e0eddff90bb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "defa037a2e645c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Proj 1/Business Studies.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -235,9 +216,9 @@
   },
   "active": "c14d1f0cb834535c",
   "lastOpenFiles": [
-    "01 - Projects/Proj 1/Business Studies.md",
     "01 - Projects/Proj 1/Business Studies Rewrite 1.md",
     "01 - Projects/Proj 1/Business Studies Rewrite 2.md",
+    "01 - Projects/Proj 1/Business Studies.md",
     "Readme.md",
     "Business Studies Rewrite 1 - Copy.md",
     "01 - Projects/Proj 1/E-Business.md",
