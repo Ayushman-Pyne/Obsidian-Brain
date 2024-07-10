@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "27b8a551dcf2d94f",
+        "id": "e66cfc81a9426d4e",
         "type": "tabs",
         "children": [
           {
-            "id": "6bdaa84121f36bdc",
+            "id": "757b906fdf97f4a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Proj 1/Business Studies Rewrite 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c14d1f0cb834535c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Proj 1/Business Studies Rewrite 2.md",
+                "file": "01 - Projects/CS50X/Week 1 - C.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.51103591918945,
-    "collapsed": true
+    "width": 228.51103591918945
   },
   "right": {
     "id": "a370b92b12670430",
@@ -124,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Proj 1/Business Studies Rewrite 2.md"
+                "file": "01 - Projects/CS50X/Week 1 - C.md"
               }
             }
           },
@@ -134,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Proj 1/Business Studies Rewrite 2.md",
+                "file": "01 - Projects/CS50X/Week 1 - C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Proj 1/Business Studies Rewrite 2.md",
+                "file": "01 - Projects/CS50X/Week 1 - C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,17 +199,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c14d1f0cb834535c",
+  "active": "757b906fdf97f4a0",
   "lastOpenFiles": [
-    "01 - Projects/Proj 1/Business Studies Rewrite 1.md",
+    "00 - Maps Of Contents/0 - Home.md",
+    "06 - Daily/09575423062024.md",
+    "01 - Projects/CS50X/Week 0 - Scratch.md",
     "01 - Projects/Proj 1/Business Studies Rewrite 2.md",
+    "01 - Projects/Proj 1/Business Studies Rewrite 1.md",
     "01 - Projects/Proj 1/Business Studies.md",
     "Readme.md",
     "Business Studies Rewrite 1 - Copy.md",
     "01 - Projects/Proj 1/E-Business.md",
     "01 - Projects/Proj 1/Selection.md",
     "01 - Projects/Proj 1/SWOT Analysis.md",
-    "00 - Maps Of Contents/0 - Home.md",
     "01 - Projects/Proj 1/Commerce Rewrite 2.md",
     "01 - Projects/Proj 1/Commerce Rewrite 1.md",
     "01 - Projects/Proj 1/Commerce.md",
@@ -251,9 +238,7 @@
     "07 - Archives/Test.md",
     "06 - Daily/11005512052024 - Test page color.md",
     "07 - Archives/test excalidraw.md",
-    "07 - Archives/0 - First Official note.md",
     "07 - Archives/Areas/Movies",
-    "02 - Areas/Books/The Psychology Of Money - Morgan Housel.md",
     "07 - Archives/Areas/Books",
     "07 - Archives/Areas",
     "07 - Archives/Projects",
