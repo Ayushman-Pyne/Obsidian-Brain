@@ -5,6 +5,10 @@
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
+      "basename": "Book Template",
+      "path": "99 - Meta/Book Template.md"
+    },
+    {
       "basename": "Week 1 - C",
       "path": "01 - Projects/CS50X/Week 1 - C.md"
     },
@@ -74,55 +78,55 @@
     },
     {
       "basename": "Pasted image 20240507082121",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507082121.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507082121.png"
     },
     {
       "basename": "Pasted image 20240507082403",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507082403.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507082403.png"
     },
     {
       "basename": "Pasted image 20240507082607",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507082607.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507082607.png"
     },
     {
       "basename": "Pasted image 20240507083549",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507083549.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507083549.png"
     },
     {
       "basename": "Pasted image 20240507084332",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507084332.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507084332.png"
     },
     {
       "basename": "Pasted image 20240507093333",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507093333.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507093333.png"
     },
     {
       "basename": "Pasted image 20240507093650",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507093650.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507093650.png"
     },
     {
       "basename": "Pasted image 20240507111510",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507111510.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507111510.png"
     },
     {
       "basename": "Pasted image 20240507111613",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507111613.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507111613.png"
     },
     {
       "basename": "Pasted image 20240507112315",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240507112315.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240507112315.png"
     },
     {
       "basename": "Pasted image 20240510201145",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240510201145.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240510201145.png"
     },
     {
       "basename": "Pasted image 20240510201303",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240510201303.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240510201303.png"
     },
     {
       "basename": "Pasted image 20240505143309",
-      "path": "03 - Resources/06 - Attachments/Pasted image 20240505143309.png"
+      "path": "03 - Resources/Attachments/Pasted image 20240505143309.png"
     },
     {
       "basename": "Full Note Template",
@@ -182,7 +186,7 @@
     },
     {
       "basename": "Drawing 2024-05-10 22.01.25.excalidraw",
-      "path": "03 - Resources/03 - Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md"
+      "path": "03 - Resources/Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md"
     }
   ],
   "omittedPaths": [],

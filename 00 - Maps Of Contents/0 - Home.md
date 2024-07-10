@@ -2,20 +2,20 @@
 cssclasses:
   - no-embed-border
   - center-h1
+  - cards
 ---
 # <span style= "color: GreenYellow;">Home Page</span>
 
 
-> [!multi-column]
->
 >> ## Courses
 >> #### ![[CS50X]]
->
->> ## Books 
->> ![[Books]]
->
->> ## Movies
->> ![[Movies]]
 
+# Books
 
+```dataview 
+Table without ID ("![|100](" + cover + ")") as Cover, file.link as Title, author as Author, "Pages: "+ pages, category as genre, rating From "Books" 
+
+Where contains(status, "complete") 
+
+```
 
