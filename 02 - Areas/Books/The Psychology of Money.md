@@ -15,12 +15,12 @@ cover:
   "{ coverUrl }": 
 rating: 
 date read: 
-status: 
+status: complete
 cssclasses:
   - center-h1
 ---
 
 
-# {{title}}
+# The Psychology of Money
 
 about the book

@@ -3,10 +3,11 @@ cssclasses:
   - page-manila
   - dot-grid
   - pen-purple
+  - cards
 ---
-# Self Help books
-- [[The Psychology Of Money - Morgan Housel]]
-- [[Ikigai - Hector Gracia and Francesc Miralles]]
-- [[48 Laws of Power - Robert Greene]]
+```dataview
+Table without ID ("![|100](" + cover + ")") as Cover, file.link as Title, author as Author, "Pages: "+ pages, category as genre, rating From "02 - Areas/Books/" 
 
-# Fiction
+Where contains(status, "complete") 
+
+```

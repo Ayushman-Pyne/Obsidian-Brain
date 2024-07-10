@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Book Template",
-      "path": "99 - Meta/Book Template.md"
+      "basename": "The Psychology of Money",
+      "path": "02 - Areas/Books/The Psychology of Money.md"
     },
     {
-      "basename": "Ikigai",
-      "path": "02 - Areas/Books/Ikigai.md"
-    },
-    {
-      "basename": "Week 1 - C",
-      "path": "01 - Projects/CS50X/Week 1 - C.md"
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Book Template",
+      "path": "99 - Meta/Book Template.md"
+    },
+    {
+      "basename": "Week 1 - C",
+      "path": "01 - Projects/CS50X/Week 1 - C.md"
     },
     {
       "basename": "09575423062024",
@@ -139,10 +143,6 @@
     {
       "basename": "Movies",
       "path": "00 - Maps Of Contents/Movies.md"
-    },
-    {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "Test",
