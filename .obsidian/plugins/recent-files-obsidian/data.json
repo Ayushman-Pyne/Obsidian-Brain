@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Test book",
+      "path": "07 - Archives/Test book.md"
+    },
+    {
       "basename": "Book Template",
       "path": "99 - Meta/Book Template.md"
     },
     {
-      "basename": "The 48 Laws of Power",
-      "path": "02 - Areas/Books/The 48 Laws of Power.md"
+      "basename": "Test",
+      "path": "07 - Archives/Test.md"
     },
     {
       "basename": "Rough Note Template",
@@ -147,10 +151,6 @@
     {
       "basename": "Movies",
       "path": "00 - Maps Of Contents/Movies.md"
-    },
-    {
-      "basename": "Test",
-      "path": "07 - Archives/Test.md"
     },
     {
       "basename": "11005512052024 - Test page color",
