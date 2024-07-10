@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "The Psychology of Money",
-      "path": "02 - Areas/Books/The Psychology of Money.md"
+      "basename": "Book Template",
+      "path": "99 - Meta/Book Template.md"
+    },
+    {
+      "basename": "The 48 Laws of Power",
+      "path": "02 - Areas/Books/The 48 Laws of Power.md"
+    },
+    {
+      "basename": "Rough Note Template",
+      "path": "99 - Meta/Rough Note Template.md"
     },
     {
       "basename": "Books",
@@ -11,10 +19,6 @@
     {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
-    },
-    {
-      "basename": "Book Template",
-      "path": "99 - Meta/Book Template.md"
     },
     {
       "basename": "Week 1 - C",
@@ -167,10 +171,6 @@
     {
       "basename": "0 - Here Stands the first official full note",
       "path": "07 - Archives/0 - Here Stands the first official full note.md"
-    },
-    {
-      "basename": "Rough Note Template",
-      "path": "99 - Meta/Rough Note Template.md"
     },
     {
       "basename": "Test Slides",
