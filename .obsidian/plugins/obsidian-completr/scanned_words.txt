@@ -1387,6 +1387,7 @@ Schuster
 Stine
 Scholastic
 Scream
+Schwartz
 EXCALIDRAW
 Elements
 Example
@@ -2186,6 +2187,7 @@ improves
 inadvertently
 initiate
 iZm
+iwr
 MORE
 My
 Movie
@@ -2386,6 +2388,8 @@ Money
 MwO
 Monster
 Mask
+Maniac
+Mummy
 OPTIONS
 Ongoing
 OFF
@@ -2590,6 +2594,7 @@ Onboarding
 Optimized
 Our
 OmJ
+OYR
 menu
 made
 music
@@ -5967,6 +5972,7 @@ necessitates
 nationwide
 necessitated
 negatively
+nKy
 CS
 Completed
 Courses
@@ -6390,6 +6396,9 @@ Welcome
 With
 While
 Weakness
+WGx
+WXw
+Who
 All
 Attending
 As
@@ -7024,6 +7033,8 @@ accommodation
 adjustment
 author
 akJ
+akF
+arQ
 Homework
 Here
 HOME
@@ -7251,6 +7262,7 @@ Have
 However
 Highly
 Haunted
+HorrorLand
 was
 with
 website
@@ -7486,6 +7498,7 @@ worldwide
 whether
 warehousing
 wherein
+wxl
 scratch
 soothing
 some
@@ -8262,6 +8275,7 @@ biological
 boosts
 beginning
 bBN
+bexK
 features
 file
 for
@@ -8834,6 +8848,7 @@ ROI
 Rigorous
 Robert
 Revenge
+Robby
 velit
 video
 value
@@ -9322,6 +9337,7 @@ utilizing
 undertakes
 upheld
 unlike
+uqys
 Use
 User
 Unicode
@@ -10320,6 +10336,7 @@ rating
 read
 rKw
 red
+rhT
 Base
 But
 Bit
@@ -10723,6 +10740,7 @@ yFw
 yMh
 yields
 yield
+ylq
 Pictures
 Problem
 Pyne
@@ -10981,6 +10999,7 @@ Psychology
 Power
 Penguin
 Phenomenal
+PjZo
 just
 journey
 jB
@@ -11169,6 +11188,7 @@ jkBo
 jIw
 job
 joining
+jmG
 Green
 Ground
 GreenYellow
@@ -11376,6 +11396,8 @@ Gaekwad
 Gates
 Greene
 GKT
+Goosebumps
+Gsdu
 Now
 Note
 Notes
@@ -11583,6 +11605,7 @@ Nature
 Nonetheless
 Nevertheless
 NwI
+NJV
 keep
 known
 kind
@@ -11793,6 +11816,7 @@ kit
 kiosks
 kxK
 king
+kMN
 You
 Yellow
 Yc
@@ -11979,6 +12003,7 @@ YdB
 Your
 YJJ
 Yun
+YRx
 Zettelkasten
 Zg
 Zx
@@ -12191,6 +12216,7 @@ Zqo
 ZcX
 ZxVtu
 Zomato
+ZTc
 xy
 xq
 xB

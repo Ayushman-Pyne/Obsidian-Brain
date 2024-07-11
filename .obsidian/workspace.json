@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Books/The Scream of the Haunted Mask.md",
+                "file": "00 - Maps Of Contents/Books.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b9647f5e56f2bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Books/Who's Your Mummy (Goosebumps HorrorLand 6).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Books/The Scream of the Haunted Mask.md"
+                "file": "00 - Maps Of Contents/Books.md"
               }
             }
           },
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Books/The Scream of the Haunted Mask.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Books/The Scream of the Haunted Mask.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,14 +223,23 @@
   },
   "active": "7ea176fc3156108f",
   "lastOpenFiles": [
+    "02 - Areas/Books/Revenge of the Living Dummy (Goosebumps HorrorLand 1).md",
+    "02 - Areas/Books/Creep from the Deep (Goosebumps HorrorLand 2).md",
+    "02 - Areas/Books/Monster Blood for Breakfast! (Goosebumps HorrorLand 3).md",
+    "02 - Areas/Books/Dr Maniac vs Robby Schwartz (Goosebumps HorrorLand 5).md",
+    "02 - Areas/Books/The Scream of the Haunted Mask (Goosebumps HorrorLand 4).md",
+    "02 - Areas/Books/Who's Your Mummy (Goosebumps HorrorLand 6).md",
+    "02 - Areas/Books/Dr Maniac vs Robby Schwartz.md",
+    "03 - Resources/BookCovers/Who's Your Mummy (Goosebumps HorrorLand 6).jpg",
+    "00 - Maps Of Contents/Books.md",
+    "03 - Resources/BookCovers/Dr Maniac vs Robby Schwartz.jpg",
+    "02 - Areas/Books/Revenge of the Living Dummy.md",
     "99 - Meta/Book Template.md",
     "02 - Areas/Books/The Scream of the Haunted Mask.md",
     "03 - Resources/BookCovers/The Scream of the Haunted Mask.jpg",
-    "00 - Maps Of Contents/Books.md",
     "02 - Areas/Books/Monster Blood for Breakfast!.md",
     "03 - Resources/BookCovers/Monster Blood for Breakfast!.jpg",
     "02 - Areas/Books/Creep from the Deep.md",
-    "02 - Areas/Books/Revenge of the Living Dummy.md",
     "03 - Resources/BookCovers/Creep from the Deep.jpg",
     "03 - Resources/BookCovers/Revenge of the Living Dummy.jpg",
     "07 - Archives/Test book.md",
@@ -234,19 +256,10 @@
     "02 - Areas/Books/The 48 Laws of Power.md",
     "03 - Resources/BookCovers/The 48 Laws of Power.jpg",
     "02 - Areas/Books/The Psychology of Money.md",
-    "03 - Resources/BookCovers/The Psychology of Money.jpg",
     "01 - Projects/CS50X/Week 1 - C.md",
     "02 - Areas/Books/Ikigai.md",
-    "03 - Resources/BookCovers/Ikigai.jpg",
     "02 - Areas/Books/Ikigai - Hector Gracia and Francesc Miralles.md",
-    "02 - Areas/Books/48 Laws of Power - Robert Greene.md",
     "03 - Resources/BookCovers",
-    "06 - Daily/09575423062024.md",
-    "01 - Projects/CS50X/Week 0 - Scratch.md",
-    "01 - Projects/Proj 1/Business Studies Rewrite 2.md",
-    "01 - Projects/Proj 1/Business Studies Rewrite 1.md",
-    "01 - Projects/Proj 1/Business Studies.md",
-    "Readme.md",
     "01 - Projects/Proj 1",
     "07 - Archives/Areas/Movies",
     "07 - Archives/Areas/Books",
