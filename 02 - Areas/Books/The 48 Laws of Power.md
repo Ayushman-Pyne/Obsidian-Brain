@@ -16,3 +16,8 @@ cssclasses: [center-h1]
 ![[03 - Resources/BookCovers/The 48 Laws of Power.jpg]]
 # The 48 Laws of Power
 # Robert Greene
+
+
+
+
+[[Books]]

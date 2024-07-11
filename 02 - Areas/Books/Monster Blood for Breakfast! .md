@@ -18,3 +18,8 @@ cssclasses:
 ![[03 - Resources/BookCovers/Monster Blood for Breakfast!.jpg]]
 # Monster Blood for Breakfast!
 # R.L. Stine
+
+
+
+
+[[Books]]

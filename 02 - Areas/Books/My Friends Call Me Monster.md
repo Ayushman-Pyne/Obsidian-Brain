@@ -18,3 +18,8 @@ cssclasses:
 ![[03 - Resources/BookCovers/My Friends Call Me Monster.jpg]]
 # My Friends Call Me Monster
 # R. L. Stine
+
+
+
+
+[[Books]]

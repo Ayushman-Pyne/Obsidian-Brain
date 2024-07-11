@@ -18,3 +18,8 @@ cssclasses:
 ![[03 - Resources/BookCovers/The Scream of the Haunted Mask.jpg]]
 # The Scream of the Haunted Mask
 # R.L. Stine
+
+
+
+
+[[Books]]

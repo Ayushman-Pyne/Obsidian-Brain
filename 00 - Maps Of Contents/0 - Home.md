@@ -6,8 +6,12 @@ cssclasses:
 ---
 # <span style= "color: GreenYellow;">Home Page</span>
 
-## Courses
 
-![[CS50X]]
-# Books
-![[Books]]
+> [!multi-column]
+>
+>> [!tip] Courses
+>> ![[CS50X]]
+>> 
+>
+>> [!todo] Books
+>> ![[Books]]

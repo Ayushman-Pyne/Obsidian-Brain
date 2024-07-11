@@ -16,3 +16,11 @@ cssclasses: [center-h1]
 ![[03 - Resources/BookCovers/{{title}}.jpg]]
 # {{title}}
 # {{author}}
+
+
+
+
+
+
+
+[[Books]]

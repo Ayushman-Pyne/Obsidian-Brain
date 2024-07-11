@@ -18,3 +18,8 @@ cssclasses:
 ![[03 - Resources/BookCovers/Heads You Lose!.jpg]]
 # Heads, You Lose!
 # R. L. Stine
+
+
+
+
+[[Books]]

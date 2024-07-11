@@ -5,88 +5,108 @@
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
-      "basename": "Selection",
-      "path": "01 - Projects/Proj 1/Selection.md"
+      "basename": "Test column",
+      "path": "07 - Archives/Test column.md"
     },
     {
-      "basename": "Book Template",
-      "path": "99 - Meta/Book Template.md"
+      "basename": "The Metamorphosis",
+      "path": "02 - Areas/Books/The Metamorphosis.md"
+    },
+    {
+      "basename": "Movies",
+      "path": "00 - Maps Of Contents/Movies.md"
+    },
+    {
+      "basename": "The Psychology of Money",
+      "path": "02 - Areas/Books/The Psychology of Money.md"
     },
     {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
     },
     {
-      "basename": "The 48 Laws of Power",
-      "path": "02 - Areas/Books/The 48 Laws of Power.md"
+      "basename": "Test book",
+      "path": "07 - Archives/Test book.md"
     },
     {
-      "basename": "My Friends Call Me Monster",
-      "path": "02 - Areas/Books/My Friends Call Me Monster.md"
+      "basename": "Book Template",
+      "path": "99 - Meta/Book Template.md"
     },
     {
       "basename": "Who's Your Mummy ",
       "path": "02 - Areas/Books/Who's Your Mummy .md"
     },
     {
-      "basename": "Dr Maniac vs Robby Schwartz ",
-      "path": "02 - Areas/Books/Dr Maniac vs Robby Schwartz .md"
-    },
-    {
-      "basename": "The Scream of the Haunted Mask ",
-      "path": "02 - Areas/Books/The Scream of the Haunted Mask .md"
-    },
-    {
-      "basename": "Monster Blood for Breakfast! ",
-      "path": "02 - Areas/Books/Monster Blood for Breakfast! .md"
-    },
-    {
-      "basename": "Creep from the Deep ",
-      "path": "02 - Areas/Books/Creep from the Deep .md"
-    },
-    {
-      "basename": "Revenge of the Living Dummy ",
-      "path": "02 - Areas/Books/Revenge of the Living Dummy .md"
-    },
-    {
-      "basename": "Heads You Lose!",
-      "path": "02 - Areas/Books/Heads You Lose!.md"
-    },
-    {
-      "basename": "Little Shop of Hamsters",
-      "path": "02 - Areas/Books/Little Shop of Hamsters.md"
-    },
-    {
       "basename": "When the Ghost Dog Howls",
       "path": "02 - Areas/Books/When the Ghost Dog Howls.md"
-    },
-    {
-      "basename": "The Streets of Panic Park",
-      "path": "02 - Areas/Books/The Streets of Panic Park.md"
     },
     {
       "basename": "Welcome to Camp Slither",
       "path": "02 - Areas/Books/Welcome to Camp Slither.md"
     },
     {
-      "basename": "Help! We Have Strange Powers!",
-      "path": "02 - Areas/Books/Help! We Have Strange Powers!.md"
+      "basename": "The Streets of Panic Park",
+      "path": "02 - Areas/Books/The Streets of Panic Park.md"
     },
     {
-      "basename": "Escape from HorrorLand",
-      "path": "02 - Areas/Books/Escape from HorrorLand.md"
+      "basename": "The Scream of the Haunted Mask ",
+      "path": "02 - Areas/Books/The Scream of the Haunted Mask .md"
     },
     {
-      "basename": "Say Cheese - And Die Screaming! ",
-      "path": "03 - Resources/BookCovers/Say Cheese - And Die Screaming! .jpg"
+      "basename": "The 48 Laws of Power",
+      "path": "02 - Areas/Books/The 48 Laws of Power.md"
     },
     {
       "basename": "Say Cheese - And Die Screaming!",
       "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
     },
     {
-      "basename": "Test book",
-      "path": "07 - Archives/Test book.md"
+      "basename": "Revenge of the Living Dummy ",
+      "path": "02 - Areas/Books/Revenge of the Living Dummy .md"
+    },
+    {
+      "basename": "My Friends Call Me Monster",
+      "path": "02 - Areas/Books/My Friends Call Me Monster.md"
+    },
+    {
+      "basename": "Monster Blood for Breakfast! ",
+      "path": "02 - Areas/Books/Monster Blood for Breakfast! .md"
+    },
+    {
+      "basename": "Little Shop of Hamsters",
+      "path": "02 - Areas/Books/Little Shop of Hamsters.md"
+    },
+    {
+      "basename": "It",
+      "path": "02 - Areas/Books/It.md"
+    },
+    {
+      "basename": "Help! We Have Strange Powers!",
+      "path": "02 - Areas/Books/Help! We Have Strange Powers!.md"
+    },
+    {
+      "basename": "Heads You Lose!",
+      "path": "02 - Areas/Books/Heads You Lose!.md"
+    },
+    {
+      "basename": "Escape from HorrorLand",
+      "path": "02 - Areas/Books/Escape from HorrorLand.md"
+    },
+    {
+      "basename": "Dr Maniac vs Robby Schwartz ",
+      "path": "02 - Areas/Books/Dr Maniac vs Robby Schwartz .md"
+    },
+    {
+      "basename": "Creep from the Deep ",
+      "path": "02 - Areas/Books/Creep from the Deep .md"
+    },
+    {
+      "basename": "Selection",
+      "path": "01 - Projects/Proj 1/Selection.md"
+    },
+    {
+      "basename": "Say Cheese - And Die Screaming! ",
+      "path": "03 - Resources/BookCovers/Say Cheese - And Die Screaming! .jpg"
     },
     {
       "basename": "Dr Maniac vs Robby Schwartz",
@@ -95,14 +115,6 @@
     {
       "basename": "Revenge of the Living Dummy",
       "path": "03 - Resources/BookCovers/Revenge of the Living Dummy.jpg"
-    },
-    {
-      "basename": "It",
-      "path": "02 - Areas/Books/It.md"
-    },
-    {
-      "basename": "Test column",
-      "path": "07 - Archives/Test column.md"
     },
     {
       "basename": "test excalidraw",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20240507082121",
       "path": "03 - Resources/Attachments/Pasted image 20240507082121.png"
-    },
-    {
-      "basename": "Pasted image 20240507082403",
-      "path": "03 - Resources/Attachments/Pasted image 20240507082403.png"
-    },
-    {
-      "basename": "Pasted image 20240507082607",
-      "path": "03 - Resources/Attachments/Pasted image 20240507082607.png"
-    },
-    {
-      "basename": "Pasted image 20240507083549",
-      "path": "03 - Resources/Attachments/Pasted image 20240507083549.png"
     }
   ],
   "omittedPaths": [],

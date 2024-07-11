@@ -18,3 +18,8 @@ cssclasses:
 ![[03 - Resources/BookCovers/Help! We Have Strange Powers! .jpg]]
 # Help! We Have Strange Powers!
 # R. L. Stine
+
+
+
+
+[[Books]]

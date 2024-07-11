@@ -18,3 +18,7 @@ cssclasses:
 ![[03 - Resources/BookCovers/Dr Maniac vs Robby Schwartz.jpg]]
 # Dr. Maniac vs. Robby Schwartz
 # R. L. Stine
+
+
+
+[[Books]]

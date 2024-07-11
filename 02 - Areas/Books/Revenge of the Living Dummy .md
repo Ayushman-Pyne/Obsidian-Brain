@@ -21,3 +21,8 @@ cssclasses:
 
 
 It's a must read for all the softcore horror lovers. R L Stine just has a kind of quirky way to match the energy of early teen children.
+
+
+
+
+[[Books]]
