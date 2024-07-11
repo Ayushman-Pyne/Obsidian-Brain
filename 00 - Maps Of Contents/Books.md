@@ -6,19 +6,19 @@ cssclasses:
 ---
 # Ongoing
 ```dataview
-Table without ID ("![|100](" + cover + ")") as Cover, file.link as Title, author as Author, "Pages: "+ pages, category as genre, rating From "02 - Areas/Books" 
+Table without ID ("![|100](" + cover + ")") as Cover, series as Series, bookNo as "No.", file.link as Title, author as Author, "Pages: "+ pages as Pages, category as genre, rating From "02 - Areas/Books" 
 
 Where contains(status, "Ongoing") 
-
+SORT bookNo ASC
 ```
 
 ---
 # Not Started
 ```dataview
-Table without ID ("![|100](" + cover + ")") as Cover, file.link as Title, author as Author, "Pages: "+ pages, category as genre, rating From "02 - Areas/Books" 
+Table without ID ("![|100](" + cover + ")") as Cover, series as Series, bookNo as "No.", file.link as Title, author as Author, "Pages: "+ pages as Pages, category as genre, rating From "02 - Areas/Books" 
 
 Where contains(status, "Not Started") 
-
+SORT bookNo ASC
 ```
 
 

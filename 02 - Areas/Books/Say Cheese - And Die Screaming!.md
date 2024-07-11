@@ -11,10 +11,10 @@ cover: http://books.google.com/books/content?id=nIHCBAAAQBAJ&printsec=frontcover
 rating: 
 date read: 
 status:
-  - Finished
+  - Ongoing
 cssclasses:
   - center-h1
 ---
-![[03 - Resources/BookCovers/Say Cheese - And Die Screaming!d #8).jpg]]
+![[03 - Resources/BookCovers/Say Cheese - And Die Screaming! .jpg]]
 # Say Cheese - And Die Screaming!
 # R. L. Stine
