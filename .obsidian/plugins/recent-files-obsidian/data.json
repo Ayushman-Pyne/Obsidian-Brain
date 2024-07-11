@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Selection",
+      "path": "01 - Projects/Proj 1/Selection.md"
+    },
+    {
+      "basename": "Book Template",
+      "path": "99 - Meta/Book Template.md"
+    },
+    {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
     },
@@ -53,10 +65,6 @@
       "path": "02 - Areas/Books/The Streets of Panic Park.md"
     },
     {
-      "basename": "Book Template",
-      "path": "99 - Meta/Book Template.md"
-    },
-    {
       "basename": "Welcome to Camp Slither",
       "path": "02 - Areas/Books/Welcome to Camp Slither.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "It",
       "path": "02 - Areas/Books/It.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "Test column",
@@ -147,10 +151,6 @@
     {
       "basename": "E-Business",
       "path": "01 - Projects/Proj 1/E-Business.md"
-    },
-    {
-      "basename": "Selection",
-      "path": "01 - Projects/Proj 1/Selection.md"
     },
     {
       "basename": "SWOT Analysis",
