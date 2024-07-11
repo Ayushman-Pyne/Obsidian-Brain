@@ -8,7 +8,7 @@ pages: {{totalPage}}
 cover: {{coverUrl}} 
 rating: 
 date read: 
-status: [Not Started]
+status: [Finished]
 cssclasses: [center-h1]
 ---
 ![[03 - Resources/BookCovers/{{title}}.jpg]]

@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "The Scream of the Haunted Mask",
+      "path": "02 - Areas/Books/The Scream of the Haunted Mask.md"
+    },
+    {
+      "basename": "Book Template",
+      "path": "99 - Meta/Book Template.md"
+    },
+    {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "Monster Blood for Breakfast!",
+      "path": "02 - Areas/Books/Monster Blood for Breakfast!.md"
+    },
+    {
+      "basename": "Creep from the Deep",
+      "path": "02 - Areas/Books/Creep from the Deep.md"
+    },
+    {
+      "basename": "Revenge of the Living Dummy",
+      "path": "02 - Areas/Books/Revenge of the Living Dummy.md"
+    },
+    {
+      "basename": "Revenge of the Living Dummy",
+      "path": "03 - Resources/BookCovers/Revenge of the Living Dummy.jpg"
     },
     {
       "basename": "Test book",
@@ -19,10 +43,6 @@
     {
       "basename": "Test column",
       "path": "07 - Archives/Test column.md"
-    },
-    {
-      "basename": "Book Template",
-      "path": "99 - Meta/Book Template.md"
     },
     {
       "basename": "test excalidraw",
@@ -179,10 +199,6 @@
     {
       "basename": "Test Slides",
       "path": "07 - Archives/Test Slides.md"
-    },
-    {
-      "basename": "Drawing 2024-05-10 22.01.25.excalidraw",
-      "path": "03 - Resources/Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md"
     }
   ],
   "omittedPaths": [],
