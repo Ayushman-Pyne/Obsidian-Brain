@@ -5,6 +5,10 @@
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
+      "basename": "Ikigai",
+      "path": "02 - Areas/Books/Ikigai.md"
+    },
+    {
       "basename": "Test column",
       "path": "07 - Archives/Test column.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "archived Week 0 - Scratch",
       "path": "07 - Archives/archived Week 0 - Scratch.md"
-    },
-    {
-      "basename": "Pasted image 20240507082121",
-      "path": "03 - Resources/Attachments/Pasted image 20240507082121.png"
     }
   ],
   "omittedPaths": [],
