@@ -8,7 +8,7 @@ publisher: Scholastic Inc.
 publishdate: 2008
 pages: 157
 cover: http://books.google.com/books/content?id=Qz7g50b6q-sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-rating: 
+rating: ⭐⭐⭐⭐
 date read: 
 status:
   - Finished
