@@ -1,6 +1,8 @@
 ---
 title: Revenge of the Living Dummy
 author: R. L. Stine
+series: Goosebumps Horrorland
+book no.: 1
 category: Juvenile Fiction
 publisher: Scholastic Inc.
 publishdate: 2008

@@ -1,6 +1,8 @@
 ---
 title: Monster Blood for Breakfast!
 author: R.L. Stine
+series: Goosebumps Horrorland
+book no.: 3
 category: Juvenile Fiction
 publisher: Scholastic Inc.
 publishdate: 2015-02-24

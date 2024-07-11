@@ -1,6 +1,8 @@
 ---
 title: {{title}} 
 author: {{author}} 
+series: 
+book no.: 
 category: {{category}} 
 publisher: {{publisher}} 
 publishdate: {{publishDate}} 

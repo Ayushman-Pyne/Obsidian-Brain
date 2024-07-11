@@ -20,6 +20,8 @@ status:
   - Finished
 cssclasses:
   - center-h1
+series: 
+book no.: 1
 ---
 ![[03 - Resources/BookCovers/Test book.jpg]]
 # Test book
