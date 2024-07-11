@@ -12,10 +12,12 @@ pages:
   "{ totalPage }": 
 cover:
   "{ coverUrl }": 
-rating: 
+rating: ⭐⭐⭐⭐⭐
 date read: 
 status:
   - Not Started
+  - Ongoing
+  - Finished
 cssclasses:
   - center-h1
 ---

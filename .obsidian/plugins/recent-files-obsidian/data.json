@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
       "basename": "Test book",
       "path": "07 - Archives/Test book.md"
     },
     {
+      "basename": "It",
+      "path": "02 - Areas/Books/It.md"
+    },
+    {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Test column",
+      "path": "07 - Archives/Test column.md"
+    },
+    {
       "basename": "Book Template",
       "path": "99 - Meta/Book Template.md"
+    },
+    {
+      "basename": "test excalidraw",
+      "path": "07 - Archives/test excalidraw.md"
+    },
+    {
+      "basename": "Full Note Template",
+      "path": "99 - Meta/Full Note Template.md"
     },
     {
       "basename": "Test",
@@ -15,14 +39,6 @@
     {
       "basename": "Rough Note Template",
       "path": "99 - Meta/Rough Note Template.md"
-    },
-    {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "Week 1 - C",
@@ -145,10 +161,6 @@
       "path": "03 - Resources/Attachments/Pasted image 20240505143309.png"
     },
     {
-      "basename": "Full Note Template",
-      "path": "99 - Meta/Full Note Template.md"
-    },
-    {
       "basename": "Movies",
       "path": "00 - Maps Of Contents/Movies.md"
     },
@@ -157,16 +169,8 @@
       "path": "06 - Daily/11005512052024 - Test page color.md"
     },
     {
-      "basename": "test excalidraw",
-      "path": "07 - Archives/test excalidraw.md"
-    },
-    {
       "basename": "0 - First Official note",
       "path": "07 - Archives/0 - First Official note.md"
-    },
-    {
-      "basename": "Test column",
-      "path": "07 - Archives/Test column.md"
     },
     {
       "basename": "0 - Here Stands the first official full note",
