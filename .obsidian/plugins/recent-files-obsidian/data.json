@@ -1,36 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
-    },
-    {
-      "basename": "Monster Blood for Breakfast! ",
-      "path": "02 - Areas/Books/Monster Blood for Breakfast! .md"
-    },
-    {
-      "basename": "Creep from the Deep ",
-      "path": "02 - Areas/Books/Creep from the Deep .md"
+      "basename": "Say Cheese - And Die Screaming!",
+      "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
     },
     {
       "basename": "Book Template",
       "path": "99 - Meta/Book Template.md"
     },
     {
-      "basename": "Revenge of the Living Dummy ",
-      "path": "02 - Areas/Books/Revenge of the Living Dummy .md"
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
     },
     {
-      "basename": "Dr Maniac vs Robby Schwartz ",
-      "path": "02 - Areas/Books/Dr Maniac vs Robby Schwartz .md"
+      "basename": "My Friends Call Me Monster",
+      "path": "02 - Areas/Books/My Friends Call Me Monster.md"
+    },
+    {
+      "basename": "Creep from the Deep ",
+      "path": "02 - Areas/Books/Creep from the Deep .md"
+    },
+    {
+      "basename": "Who's Your Mummy ",
+      "path": "02 - Areas/Books/Who's Your Mummy .md"
     },
     {
       "basename": "The Scream of the Haunted Mask ",
       "path": "02 - Areas/Books/The Scream of the Haunted Mask .md"
     },
     {
-      "basename": "Who's Your Mummy ",
-      "path": "02 - Areas/Books/Who's Your Mummy .md"
+      "basename": "Revenge of the Living Dummy ",
+      "path": "02 - Areas/Books/Revenge of the Living Dummy .md"
+    },
+    {
+      "basename": "Monster Blood for Breakfast! ",
+      "path": "02 - Areas/Books/Monster Blood for Breakfast! .md"
+    },
+    {
+      "basename": "Dr Maniac vs Robby Schwartz ",
+      "path": "02 - Areas/Books/Dr Maniac vs Robby Schwartz .md"
     },
     {
       "basename": "Test book",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20240505143309",
       "path": "03 - Resources/Attachments/Pasted image 20240505143309.png"
-    },
-    {
-      "basename": "Movies",
-      "path": "00 - Maps Of Contents/Movies.md"
-    },
-    {
-      "basename": "11005512052024 - Test page color",
-      "path": "06 - Daily/11005512052024 - Test page color.md"
     }
   ],
   "omittedPaths": [],

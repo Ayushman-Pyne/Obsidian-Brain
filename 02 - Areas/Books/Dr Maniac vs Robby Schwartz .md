@@ -2,7 +2,7 @@
 title: Dr. Maniac vs. Robby Schwartz
 author: R. L. Stine
 series: Goosebumps Horrorland
-book no.: 5
+bookNo: 5
 category: Juvenile Fiction
 publisher: Scholastic Inc.
 publishdate: 2015-02-24

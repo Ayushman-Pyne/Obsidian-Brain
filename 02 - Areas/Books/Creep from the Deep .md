@@ -2,7 +2,7 @@
 title: Creep from the Deep
 author: R.L. Stine
 series: Goosebumps Horrorland
-book no.: 2
+bookNo: 2
 category: Juvenile Fiction
 publisher: Scholastic Inc.
 publishdate: 2015-02-24

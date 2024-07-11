@@ -2,7 +2,7 @@
 title: {{title}} 
 author: {{author}} 
 series: 
-book no.: 
+bookNo: 
 category: {{category}} 
 publisher: {{publisher}} 
 publishdate: {{publishDate}} 

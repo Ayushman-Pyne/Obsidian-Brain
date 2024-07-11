@@ -2,7 +2,7 @@
 title: Who's Your Mummy?
 author: R. L. Stine
 series: Goosebumps Horrorland
-book no.: 6
+bookNo: 6
 category: Juvenile Fiction
 publisher: Scholastic Inc.
 publishdate: 2015-02-24

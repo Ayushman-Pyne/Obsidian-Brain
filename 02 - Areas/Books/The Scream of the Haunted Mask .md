@@ -2,7 +2,7 @@
 title: The Scream of the Haunted Mask
 author: R.L. Stine
 series: Goosebumps Horrorland
-book no.: 4
+bookNo: 4
 category: Juvenile Fiction
 publisher: Scholastic Inc.
 publishdate: 2015-02-24
