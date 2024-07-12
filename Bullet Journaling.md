@@ -17,6 +17,7 @@ Some must haves before starting bullet journaling and some not so essential but 
 	- Pen-pencil 0.5mm and 0.7 mm
 	- sticky notes
 	- sticky tabs
+	- binder clips small
 	- [FLAIR Pastel 5 Shades Hi-lighter Pouch Pack | Flexible Line Width | Quick Drying & Smudge Proof Pastel Ink | Non-Toxic Ink, Safe For Childrens | 5 Smoothing Colors, Pack of 1 : Amazon.in: Office Products](https://www.amazon.in/FLAIR-Hi-lighter-Non-Toxic-Childrens-Smoothing/dp/B0C7NTPCWQ/ref=sr_1_5?crid=FT3HD0ETLOP3&dib=eyJ2IjoiMSJ9.yG1Qk-2FBKtFU2gIwXwh2GhAFmuZaCYjnOmQyFr2aVGaC-9u0yj9IkUwT9k0bXSxTtLTZWI_053FtkyLEevoUuRJr4uWOx6in84Z_CrKOc47gO7AQDmWPJly7bPwoWsXdm_yv50ZP1RWlE9aUCEoxEU3l3RUq1mAifGLVuQFgv580yxiMIchZA1XJofDMhEiZWeGBczxcMwCDFO2Ctihi8uTBcz1r1AdFW-Z9u4DZYQGEcGTybWjKfv_AY2WLQqMMEnscai2cRbZv9Go_MSE_92-ZEvALTZSuqluA2IS_Yc.-q0CqJ3T4gDPioNO91GZrj60K9az8TE59eQCYHpFXIo&dib_tag=se&keywords=highlighter+pen&qid=1720820057&sprefix=highlighter+pen%2Caps%2C284&sr=8-5)
 
 
@@ -34,5 +35,5 @@ Some must haves before starting bullet journaling and some not so essential but 
 
 
 - #### Notebook Sleeve
-	- Make one from house. there are no good ones on market
+	- DIY one. there are no good ones on market.
 	- 
