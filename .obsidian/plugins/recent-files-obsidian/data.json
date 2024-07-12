@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "Numbercaste",
+      "path": "02 - Areas/Books/Numbercaste.md"
+    },
+    {
+      "basename": "The Object of Your Affections",
+      "path": "02 - Areas/Books/The Object of Your Affections.md"
+    },
+    {
+      "basename": "The 48 Laws of Power",
+      "path": "02 - Areas/Books/The 48 Laws of Power.md"
+    },
+    {
+      "basename": "My Friends Call Me Monster",
+      "path": "02 - Areas/Books/My Friends Call Me Monster.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -23,10 +43,6 @@
     {
       "basename": "The Psychology of Money",
       "path": "02 - Areas/Books/The Psychology of Money.md"
-    },
-    {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "Test book",
@@ -57,20 +73,12 @@
       "path": "02 - Areas/Books/The Scream of the Haunted Mask .md"
     },
     {
-      "basename": "The 48 Laws of Power",
-      "path": "02 - Areas/Books/The 48 Laws of Power.md"
-    },
-    {
       "basename": "Say Cheese - And Die Screaming!",
       "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
     },
     {
       "basename": "Revenge of the Living Dummy ",
       "path": "02 - Areas/Books/Revenge of the Living Dummy .md"
-    },
-    {
-      "basename": "My Friends Call Me Monster",
-      "path": "02 - Areas/Books/My Friends Call Me Monster.md"
     },
     {
       "basename": "Monster Blood for Breakfast! ",
@@ -191,14 +199,6 @@
     {
       "basename": "Week 2 - Arrays",
       "path": "01 - Projects/CS50X/Week 2 - Arrays.md"
-    },
-    {
-      "basename": "CS50X",
-      "path": "00 - Maps Of Contents/CS50X.md"
-    },
-    {
-      "basename": "archived Week 0 - Scratch",
-      "path": "07 - Archives/archived Week 0 - Scratch.md"
     }
   ],
   "omittedPaths": [],
