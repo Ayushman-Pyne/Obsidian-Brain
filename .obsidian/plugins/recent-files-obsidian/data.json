@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Bullet Journaling",
+      "path": "Bullet Journaling.md"
+    },
+    {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "My Friends Call Me Monster",
       "path": "02 - Areas/Books/My Friends Call Me Monster.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "Ikigai",
@@ -195,10 +199,6 @@
     {
       "basename": "Commercial Banks",
       "path": "01 - Projects/Proj 1/Commercial Banks.md"
-    },
-    {
-      "basename": "Week 2 - Arrays",
-      "path": "01 - Projects/CS50X/Week 2 - Arrays.md"
     }
   ],
   "omittedPaths": [],
