@@ -11,6 +11,7 @@ cssclasses:
 >
 >> [!tip] Courses
 >> ![[CS50X]]
+>> ![[B. Tech CSE]]
 >> 
 >
 >> [!todo] Books

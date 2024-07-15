@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "B. Tech CSE",
+      "path": "00 - Maps Of Contents/B. Tech CSE.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
+      "basename": "CS50X",
+      "path": "00 - Maps Of Contents/CS50X.md"
     },
     {
       "basename": "Bullet Journaling",
@@ -173,10 +185,6 @@
       "path": "01 - Projects/Proj 1/Business Studies.md"
     },
     {
-      "basename": "Readme",
-      "path": "Readme.md"
-    },
-    {
       "basename": "E-Business",
       "path": "01 - Projects/Proj 1/E-Business.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Commerce Rewrite 1",
       "path": "01 - Projects/Proj 1/Commerce Rewrite 1.md"
-    },
-    {
-      "basename": "Commerce",
-      "path": "01 - Projects/Proj 1/Commerce.md"
-    },
-    {
-      "basename": "Commercial Banks",
-      "path": "01 - Projects/Proj 1/Commercial Banks.md"
     }
   ],
   "omittedPaths": [],
