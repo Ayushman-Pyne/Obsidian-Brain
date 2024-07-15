@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/B. Tech CSE.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/B. Tech CSE.md"
+                "file": "00 - Maps Of Contents/0 - Home.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/B. Tech CSE.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/B. Tech CSE.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,12 +202,12 @@
   },
   "active": "d2ee3fdb4d19680b",
   "lastOpenFiles": [
-    "00 - Maps Of Contents/0 - Home.md",
     "00 - Maps Of Contents/B. Tech CSE.md",
+    "00 - Maps Of Contents/0 - Home.md",
     "Readme.md",
-    "00 - Maps Of Contents/CS50X.md",
     "00 - Maps Of Contents/Bullet Journaling.md",
     "00 - Maps Of Contents/Books.md",
+    "00 - Maps Of Contents/CS50X.md",
     "02 - Areas/Books/Numbercaste.md",
     "03 - Resources/BookCovers/Numbercaste.jpg",
     "02 - Areas/Books/The Object of Your Affections.md",

@@ -815,6 +815,7 @@ pFV
 pjk
 plan
 prolly
+pencil
 tags
 to
 the
@@ -1141,6 +1142,7 @@ teen
 tiJ
 tech
 taught
+tabs
 Switch
 Some
 Scratch
@@ -1400,6 +1402,8 @@ Slither
 Strange
 Streets
 Shop
+Stationary
+Sleeve
 EXCALIDRAW
 Elements
 Example
@@ -1632,6 +1636,8 @@ Examination
 Extended
 EtV
 Economics
+Essentials
+EDC
 VIEW
 Vitae
 Vault
@@ -2613,6 +2619,7 @@ Our
 OmJ
 OYR
 Object
+Office
 menu
 made
 music
@@ -3753,6 +3760,8 @@ Dummy
 Deep
 Die
 Dog
+Day
+DIY
 Text
 The
 Type
@@ -3966,6 +3975,7 @@ Typically
 Targeted
 Their
 Tyc
+Tape
 game
 grid
 get
@@ -4490,6 +4500,8 @@ harnesses
 hesitancy
 harmonious
 horror
+haves
+highlighter
 loorem
 lecture
 level
@@ -5260,6 +5272,9 @@ cZT
 ctor
 classes
 college
+clips
+corner
+cutter
 Important
 In
 It
@@ -6013,6 +6028,8 @@ necessitated
 negatively
 nKy
 nHoe
+notebook
+notebooks
 CS
 Completed
 Courses
@@ -6265,6 +6282,7 @@ Camp
 CQcr
 Classics
 Collins
+Correction
 Week
 Well
 Wider
@@ -6447,6 +6465,7 @@ WXw
 Who
 Whf
 Wijeratne
+Washi
 All
 Attending
 As
@@ -8020,6 +8039,8 @@ sMo
 sLl
 separate
 semester
+starting
+sticky
 background
 backdrops
 border
@@ -8342,6 +8363,8 @@ beginning
 bBN
 bexK
 bookNo
+bullet
+binder
 features
 file
 for
@@ -8674,6 +8697,8 @@ finalizing
 forecast
 fym
 fans
+fountain
+field
 References
 Resources
 Requirement
@@ -9829,6 +9854,7 @@ FqJ
 Franz
 Francesc
 Falguni
+Fineliner
 Just
 Journey
 Job
@@ -10055,6 +10081,7 @@ JFIF
 Jti
 Juvenile
 Jom
+Journaling
 represent
 representing
 repeated
@@ -10637,6 +10664,8 @@ Beyond
 Book
 Blood
 Breakfast
+BUJO
+Bullet
 your
 yellow
 you
@@ -11081,6 +11110,7 @@ Powers
 Panic
 Park
 Published
+Pen
 just
 journey
 jB
@@ -11271,6 +11301,7 @@ job
 joining
 jmG
 journal
+journaling
 Green
 Ground
 GreenYellow
@@ -11693,6 +11724,7 @@ NwI
 NJV
 NIEQ
 Numbercaste
+Notebook
 keep
 known
 kind
