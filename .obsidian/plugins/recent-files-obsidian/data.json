@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Test",
+      "path": "07 - Archives/Test.md"
+    },
+    {
+      "basename": "test excalidraw",
+      "path": "07 - Archives/test excalidraw.md"
+    },
+    {
+      "basename": "Test column",
+      "path": "07 - Archives/Test column.md"
+    },
+    {
+      "basename": "Test book",
+      "path": "07 - Archives/Test book.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 22.01.25.excalidraw",
+      "path": "03 - Resources/Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md"
+    },
+    {
+      "basename": "Rough Note Template",
+      "path": "99 - Meta/Rough Note Template.md"
+    },
+    {
+      "basename": "Full Note Template",
+      "path": "99 - Meta/Full Note Template.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -45,10 +73,6 @@
       "path": "02 - Areas/Books/Ikigai.md"
     },
     {
-      "basename": "Test column",
-      "path": "07 - Archives/Test column.md"
-    },
-    {
       "basename": "The Metamorphosis",
       "path": "02 - Areas/Books/The Metamorphosis.md"
     },
@@ -59,10 +83,6 @@
     {
       "basename": "The Psychology of Money",
       "path": "02 - Areas/Books/The Psychology of Money.md"
-    },
-    {
-      "basename": "Test book",
-      "path": "07 - Archives/Test book.md"
     },
     {
       "basename": "Book Template",
@@ -145,22 +165,6 @@
       "path": "03 - Resources/BookCovers/Revenge of the Living Dummy.jpg"
     },
     {
-      "basename": "test excalidraw",
-      "path": "07 - Archives/test excalidraw.md"
-    },
-    {
-      "basename": "Full Note Template",
-      "path": "99 - Meta/Full Note Template.md"
-    },
-    {
-      "basename": "Test",
-      "path": "07 - Archives/Test.md"
-    },
-    {
-      "basename": "Rough Note Template",
-      "path": "99 - Meta/Rough Note Template.md"
-    },
-    {
       "basename": "Week 1 - C",
       "path": "01 - Projects/CS50X/Week 1 - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Commerce Rewrite 2",
       "path": "01 - Projects/Proj 1/Commerce Rewrite 2.md"
-    },
-    {
-      "basename": "Commerce Rewrite 1",
-      "path": "01 - Projects/Proj 1/Commerce Rewrite 1.md"
     }
   ],
   "omittedPaths": [],
