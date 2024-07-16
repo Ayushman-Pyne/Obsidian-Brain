@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "02 - Areas/Books/The Triumph of the Sun.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "02 - Areas/Books/The Triumph of the Sun.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "02 - Areas/Books/The Triumph of the Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "02 - Areas/Books/The Triumph of the Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +201,9 @@
   },
   "active": "fa9cd49ad1532028",
   "lastOpenFiles": [
+    "00 - Maps Of Contents/0 - Home.md",
+    "02 - Areas/Books/The Triumph of the Sun.md",
+    "03 - Resources/BookCovers/The Triumph of the Sun.jpg",
     "06 - Daily/04515917072024.md",
     "06 - Daily/09575423062024.md",
     "06 - Daily/11005512052024 - Test page color.md",
@@ -213,7 +216,6 @@
     "02 - Areas/Books/The Psychology of Money.md",
     "02 - Areas/Books/Gilead.md",
     "03 - Resources/BookCovers/Gilead.jpg",
-    "00 - Maps Of Contents/0 - Home.md",
     "02 - Areas/Books/Robinson Crusoe.md",
     "02 - Areas/Books/Twenty Thousand Leagues Under the Sea.md",
     "03 - Resources/BookCovers/Robinson Crusoe.jpg",
@@ -227,7 +229,6 @@
     "03 - Resources/BookCovers/Kidnapped.jpg",
     "03 - Resources/BookCovers/Wuthering Heights.jpg",
     "02 - Areas/Books/The Girl with the Dragon Tattoo.md",
-    "03 - Resources/BookCovers/The Girl with the Dragon Tattoo.jpg",
     "02 - Areas/Books/The Complete Short Stories of Sherlock Holmes.md",
     "02 - Areas/Books/The Call of the Wild.md",
     "02 - Areas/Books/The Prisoner.md",
@@ -236,7 +237,6 @@
     "02 - Areas/Books/New Moon.md",
     "02 - Areas/Books/Eclipse.md",
     "02 - Areas/Books/Breaking Dawn.md",
-    "02 - Areas/Books/Sidney Sheldon’s After the Darkness.md",
     "03 - Resources/BookCovers",
     "01 - Projects/Proj 1",
     "07 - Archives/Areas/Movies",

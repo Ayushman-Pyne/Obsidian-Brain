@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Triumph of the Sun",
+      "path": "02 - Areas/Books/The Triumph of the Sun.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Personal",
       "path": "02 - Areas/Books/Personal.md"
-    },
-    {
-      "basename": "The Lost Symbol",
-      "path": "02 - Areas/Books/The Lost Symbol.md"
     }
   ],
   "omittedPaths": [],

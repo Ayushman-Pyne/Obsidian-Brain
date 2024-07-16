@@ -1423,6 +1423,8 @@ Sir
 Stieg
 Stevenson
 Sea
+Sun
+Smith
 EXCALIDRAW
 Elements
 Example
@@ -4045,6 +4047,7 @@ Three
 Twenty
 Thousand
 Thibaut
+Triumph
 game
 grid
 get
@@ -5860,6 +5863,7 @@ Larsson
 Louis
 Literary
 Leagues
+Ltd
 nodes
 notes
 no
@@ -6567,6 +6571,7 @@ Wijeratne
 Washi
 Wild
 Wuthering
+Wilbur
 All
 Attending
 As
@@ -10809,6 +10814,7 @@ Ben
 Bagshawe
 Breaking
 Bront
+Bonnier
 your
 yellow
 you
