@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "Master Your Emotions",
+      "path": "02 - Areas/Books/Master Your Emotions.md"
+    },
+    {
+      "basename": "Dopamine Detox",
+      "path": "02 - Areas/Books/Dopamine Detox.md"
+    },
+    {
+      "basename": "The Psychology of Money",
+      "path": "02 - Areas/Books/The Psychology of Money.md"
+    },
+    {
+      "basename": "Gilead",
+      "path": "02 - Areas/Books/Gilead.md"
+    },
+    {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Robinson Crusoe",
+      "path": "02 - Areas/Books/Robinson Crusoe.md"
+    },
+    {
+      "basename": "Twenty Thousand Leagues Under the Sea",
+      "path": "02 - Areas/Books/Twenty Thousand Leagues Under the Sea.md"
+    },
+    {
+      "basename": "The Count of Monte Cristo",
+      "path": "02 - Areas/Books/The Count of Monte Cristo.md"
+    },
+    {
       "basename": "The Three Musketeers",
       "path": "02 - Areas/Books/The Three Musketeers.md"
     },
@@ -13,20 +49,12 @@
       "path": "02 - Areas/Books/Wuthering Heights.md"
     },
     {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
-    },
-    {
       "basename": "The Girl with the Dragon Tattoo",
       "path": "02 - Areas/Books/The Girl with the Dragon Tattoo.md"
     },
     {
       "basename": "The Complete Short Stories of Sherlock Holmes",
       "path": "02 - Areas/Books/The Complete Short Stories of Sherlock Holmes.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "The Call of the Wild",
@@ -171,22 +199,6 @@
     {
       "basename": "Test column",
       "path": "07 - Archives/Test column.md"
-    },
-    {
-      "basename": "Test book",
-      "path": "07 - Archives/Test book.md"
-    },
-    {
-      "basename": "Drawing 2024-05-10 22.01.25.excalidraw",
-      "path": "03 - Resources/Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md"
-    },
-    {
-      "basename": "Rough Note Template",
-      "path": "99 - Meta/Rough Note Template.md"
-    },
-    {
-      "basename": "Full Note Template",
-      "path": "99 - Meta/Full Note Template.md"
     }
   ],
   "omittedPaths": [],

@@ -4,7 +4,7 @@ author: Alexandre Dumas
 series: 
 bookNo: 
 category: Fiction
-publisher: 
+publisher: Madhuban
 publishdate: 1878
 pages: 142
 cover: http://books.google.com/books/content?id=KW0YAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api

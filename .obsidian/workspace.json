@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3c2986a17cd7b97c",
+            "id": "fac7dc91ce26e9e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Books/The Three Musketeers.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Books/The Three Musketeers.md"
+                "file": "00 - Maps Of Contents/Books.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Books/The Three Musketeers.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Books/The Three Musketeers.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,44 +214,44 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3c2986a17cd7b97c",
+  "active": "fac7dc91ce26e9e8",
   "lastOpenFiles": [
-    "02 - Areas/Books/Kidnapped.md",
+    "02 - Areas/Books/Master Your Emotions.md",
+    "02 - Areas/Books/Dopamine Detox.md",
+    "03 - Resources/BookCovers/Dopamine Detox.jpg",
+    "00 - Maps Of Contents/Books.md",
+    "03 - Resources/BookCovers/Master Your Emotions.jpg",
+    "02 - Areas/Books/The Psychology of Money.md",
+    "02 - Areas/Books/Gilead.md",
+    "03 - Resources/BookCovers/Gilead.jpg",
+    "00 - Maps Of Contents/0 - Home.md",
+    "02 - Areas/Books/Robinson Crusoe.md",
+    "02 - Areas/Books/Twenty Thousand Leagues Under the Sea.md",
+    "03 - Resources/BookCovers/Robinson Crusoe.jpg",
+    "02 - Areas/Books/The Count of Monte Cristo.md",
+    "03 - Resources/BookCovers/Twenty Thousand Leagues Under the Sea.jpg",
     "02 - Areas/Books/The Three Musketeers.md",
+    "03 - Resources/BookCovers/The Count of Monte Cristo.jpg",
+    "02 - Areas/Books/Kidnapped.md",
     "03 - Resources/BookCovers/The Three Musketeers.jpg",
     "02 - Areas/Books/Wuthering Heights.md",
     "03 - Resources/BookCovers/Kidnapped.jpg",
-    "00 - Maps Of Contents/Books.md",
     "03 - Resources/BookCovers/Wuthering Heights.jpg",
     "02 - Areas/Books/The Girl with the Dragon Tattoo.md",
     "03 - Resources/BookCovers/The Girl with the Dragon Tattoo.jpg",
     "02 - Areas/Books/The Complete Short Stories of Sherlock Holmes.md",
-    "03 - Resources/BookCovers/The Complete Short Stories of Sherlock Holmes.jpg",
-    "00 - Maps Of Contents/0 - Home.md",
     "02 - Areas/Books/The Call of the Wild.md",
-    "03 - Resources/BookCovers/The Call of the Wild.jpg",
     "02 - Areas/Books/The Prisoner.md",
-    "03 - Resources/BookCovers/The Prisoner.jpg",
     "02 - Areas/Books/The Kill Order.md",
     "02 - Areas/Books/Twilight.md",
     "02 - Areas/Books/New Moon.md",
-    "03 - Resources/BookCovers/Twilight.jpg",
     "02 - Areas/Books/Eclipse.md",
-    "03 - Resources/BookCovers/New Moon.jpg",
     "02 - Areas/Books/Breaking Dawn.md",
-    "03 - Resources/BookCovers/Eclipse.jpg",
     "02 - Areas/Books/Sidney Sheldon’s After the Darkness.md",
     "02 - Areas/Books/Demon Slayer Kimetsu no Yaiba Vol 23.md",
     "02 - Areas/Books/Demon Slayer Vol 23.md",
     "02 - Areas/Books/Demon Slayer Vol 22.md",
     "02 - Areas/Books/Demon Slayer Vol 21.md",
-    "02 - Areas/Books/Demon Slayer Vol 20.md",
-    "02 - Areas/Books/Demon Slayer Vol 19.md",
-    "02 - Areas/Books/Demon Slayer Vol 18.md",
-    "02 - Areas/Books/Demon Slayer Vol 17.md",
-    "02 - Areas/Books/Demon Slayer Vol 16.md",
-    "02 - Areas/Books/Demon Slayer Vol 15.md",
-    "02 - Areas/Books/Demon Slayer Vol 14.md",
     "03 - Resources/BookCovers",
     "01 - Projects/Proj 1",
     "07 - Archives/Areas/Movies",
