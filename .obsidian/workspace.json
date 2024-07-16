@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95feb2043a117e90",
+        "id": "217eaf08946e4168",
         "type": "tabs",
         "children": [
           {
-            "id": "abc6dd62d9469cbb",
+            "id": "fa9cd49ad1532028",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fac7dc91ce26e9e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "034817072024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "034817072024.md"
+                "file": "00 - Maps Of Contents/0 - Home.md"
               }
             }
           },
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "034817072024.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "034817072024.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,12 +196,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "fac7dc91ce26e9e8",
+  "active": "fa9cd49ad1532028",
   "lastOpenFiles": [
+    "06 - Daily/04515917072024.md",
+    "06 - Daily/09575423062024.md",
+    "06 - Daily/11005512052024 - Test page color.md",
+    "06 - Daily/034817072024.md",
     "00 - Maps Of Contents/Books.md",
     "02 - Areas/Books/Master Your Emotions.md",
     "02 - Areas/Books/Dopamine Detox.md",
@@ -248,10 +237,6 @@
     "02 - Areas/Books/Eclipse.md",
     "02 - Areas/Books/Breaking Dawn.md",
     "02 - Areas/Books/Sidney Sheldon’s After the Darkness.md",
-    "02 - Areas/Books/Demon Slayer Kimetsu no Yaiba Vol 23.md",
-    "02 - Areas/Books/Demon Slayer Vol 23.md",
-    "02 - Areas/Books/Demon Slayer Vol 22.md",
-    "02 - Areas/Books/Demon Slayer Vol 21.md",
     "03 - Resources/BookCovers",
     "01 - Projects/Proj 1",
     "07 - Archives/Areas/Movies",

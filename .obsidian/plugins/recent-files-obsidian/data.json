@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "04515917072024",
+      "path": "06 - Daily/04515917072024.md"
+    },
+    {
+      "basename": "09575423062024",
+      "path": "06 - Daily/09575423062024.md"
+    },
+    {
+      "basename": "11005512052024 - Test page color",
+      "path": "06 - Daily/11005512052024 - Test page color.md"
+    },
+    {
       "basename": "034817072024",
-      "path": "034817072024.md"
+      "path": "06 - Daily/034817072024.md"
     },
     {
       "basename": "Books",
@@ -23,10 +39,6 @@
     {
       "basename": "Gilead",
       "path": "02 - Areas/Books/Gilead.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "Robinson Crusoe",
@@ -187,18 +199,6 @@
     {
       "basename": "The Lost Symbol",
       "path": "02 - Areas/Books/The Lost Symbol.md"
-    },
-    {
-      "basename": "Test",
-      "path": "07 - Archives/Test.md"
-    },
-    {
-      "basename": "test excalidraw",
-      "path": "07 - Archives/test excalidraw.md"
-    },
-    {
-      "basename": "Test column",
-      "path": "07 - Archives/Test column.md"
     }
   ],
   "omittedPaths": [],
