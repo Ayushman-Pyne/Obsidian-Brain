@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Book Template",
+      "path": "99 - Meta/Book Template.md"
+    },
+    {
+      "basename": "034817072024",
+      "path": "034817072024.md"
+    },
+    {
+      "basename": "Demon Slayer Kimetsu no Yaiba Vol 11",
+      "path": "02 - Areas/Books/Demon Slayer Kimetsu no Yaiba Vol 11.md"
+    },
+    {
+      "basename": "Demon Slayer Kimetsu no Yaiba Vol 10",
+      "path": "02 - Areas/Books/Demon Slayer Kimetsu no Yaiba Vol 10.md"
+    },
+    {
+      "basename": "Demon Slayer Kimetsu no Yaiba Vol 9",
+      "path": "02 - Areas/Books/Demon Slayer Kimetsu no Yaiba Vol 9.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 8",
+      "path": "02 - Areas/Books/Demon Slayer Vol 8.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 7",
+      "path": "02 - Areas/Books/Demon Slayer Vol 7.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 6",
+      "path": "02 - Areas/Books/Demon Slayer Vol 6.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 5",
+      "path": "02 - Areas/Books/Demon Slayer Vol 5.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 4",
+      "path": "02 - Areas/Books/Demon Slayer Vol 4.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 3",
+      "path": "02 - Areas/Books/Demon Slayer Vol 3.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 2",
+      "path": "02 - Areas/Books/Demon Slayer Vol 2.md"
+    },
+    {
       "basename": "Demon Slayer Vol 1",
       "path": "02 - Areas/Books/Demon Slayer Vol 1.md"
     },
@@ -61,20 +117,12 @@
       "path": "02 - Areas/Books/Night School.md"
     },
     {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
-    },
-    {
       "basename": "Personal",
       "path": "02 - Areas/Books/Personal.md"
     },
     {
       "basename": "The Lost Symbol",
       "path": "02 - Areas/Books/The Lost Symbol.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "Test",
@@ -151,54 +199,6 @@
     {
       "basename": "The Psychology of Money",
       "path": "02 - Areas/Books/The Psychology of Money.md"
-    },
-    {
-      "basename": "Book Template",
-      "path": "99 - Meta/Book Template.md"
-    },
-    {
-      "basename": "Who's Your Mummy ",
-      "path": "02 - Areas/Books/Who's Your Mummy .md"
-    },
-    {
-      "basename": "When the Ghost Dog Howls",
-      "path": "02 - Areas/Books/When the Ghost Dog Howls.md"
-    },
-    {
-      "basename": "Welcome to Camp Slither",
-      "path": "02 - Areas/Books/Welcome to Camp Slither.md"
-    },
-    {
-      "basename": "The Streets of Panic Park",
-      "path": "02 - Areas/Books/The Streets of Panic Park.md"
-    },
-    {
-      "basename": "The Scream of the Haunted Mask ",
-      "path": "02 - Areas/Books/The Scream of the Haunted Mask .md"
-    },
-    {
-      "basename": "Say Cheese - And Die Screaming!",
-      "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
-    },
-    {
-      "basename": "Revenge of the Living Dummy ",
-      "path": "02 - Areas/Books/Revenge of the Living Dummy .md"
-    },
-    {
-      "basename": "Monster Blood for Breakfast! ",
-      "path": "02 - Areas/Books/Monster Blood for Breakfast! .md"
-    },
-    {
-      "basename": "Little Shop of Hamsters",
-      "path": "02 - Areas/Books/Little Shop of Hamsters.md"
-    },
-    {
-      "basename": "It",
-      "path": "02 - Areas/Books/It.md"
-    },
-    {
-      "basename": "Help! We Have Strange Powers!",
-      "path": "02 - Areas/Books/Help! We Have Strange Powers!.md"
     }
   ],
   "omittedPaths": [],
