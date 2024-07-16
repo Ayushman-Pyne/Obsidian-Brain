@@ -1414,6 +1414,7 @@ Sidney
 Sheldon
 Secrets
 Slayer
+Stephenie
 EXCALIDRAW
 Elements
 Example
@@ -1649,6 +1650,7 @@ Economics
 Essentials
 EDC
 Eagle
+Eclipse
 VIEW
 Vitae
 Vault
@@ -2433,6 +2435,8 @@ Macmillan
 Michael
 Maze
 Media
+Meyer
+Moon
 OPTIONS
 OFF
 ON
@@ -3792,6 +3796,8 @@ Dashner
 Divergent
 Droon
 Demon
+Darkness
+Dawn
 Text
 The
 Type
@@ -4008,6 +4014,8 @@ Tyc
 Tape
 Trials
 Tony
+Tilly
+Twilight
 game
 grid
 get
@@ -7396,6 +7404,7 @@ Hopefully
 Hour
 HarperCollins
 Hirano
+Hachette
 was
 with
 website
@@ -10736,6 +10745,8 @@ Brown
 Baldacci
 Brisingr
 Ben
+Bagshawe
+Breaking
 your
 yellow
 you
@@ -11804,6 +11815,7 @@ Numbercaste
 Notebook
 Night
 Novels
+New
 keep
 known
 kind

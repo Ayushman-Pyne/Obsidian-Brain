@@ -5,6 +5,30 @@
       "path": "00 - Maps Of Contents/Books.md"
     },
     {
+      "basename": "The Kill Order",
+      "path": "02 - Areas/Books/The Kill Order.md"
+    },
+    {
+      "basename": "Twilight",
+      "path": "02 - Areas/Books/Twilight.md"
+    },
+    {
+      "basename": "New Moon",
+      "path": "02 - Areas/Books/New Moon.md"
+    },
+    {
+      "basename": "Eclipse",
+      "path": "02 - Areas/Books/Eclipse.md"
+    },
+    {
+      "basename": "Breaking Dawn",
+      "path": "02 - Areas/Books/Breaking Dawn.md"
+    },
+    {
+      "basename": "Sidney Sheldon’s After the Darkness",
+      "path": "02 - Areas/Books/Sidney Sheldon’s After the Darkness.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -59,10 +83,6 @@
     {
       "basename": "The Silver Eagle",
       "path": "02 - Areas/Books/The Silver Eagle.md"
-    },
-    {
-      "basename": "The Kill Order",
-      "path": "02 - Areas/Books/The Kill Order.md"
     },
     {
       "basename": "Four A Divergent Collection",
