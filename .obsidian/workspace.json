@@ -4,8 +4,29 @@
     "type": "split",
     "children": [
       {
+        "id": "f1727b914ee3c857",
+        "type": "tabs",
+        "dimension": 42.13893967093236,
+        "children": [
+          {
+            "id": "36bc527b581ce90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps Of Contents/Books.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "c94e291488db4277",
         "type": "tabs",
+        "dimension": 57.86106032906764,
         "children": [
           {
             "id": "cdfe755f69f34b39",
@@ -13,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "02 - Areas/Books/The Scorch Trials.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "02 - Areas/Books/The Scorch Trials.md"
               }
             }
           },
@@ -119,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "02 - Areas/Books/The Scorch Trials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "02 - Areas/Books/The Scorch Trials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +220,31 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cdfe755f69f34b39",
+  "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
+    "02 - Areas/Books/Brisingr.md",
+    "02 - Areas/Books/The Scorch Trials.md",
+    "03 - Resources/BookCovers/The Scorch Trials.jpg",
+    "02 - Areas/Books/As the Crow Flies.md",
+    "03 - Resources/BookCovers/Brisingr.jpg",
+    "02 - Areas/Books/The Inheritance Cycle 4-Book Collection.md",
+    "03 - Resources/BookCovers/The Inheritance Cycle 4-Book Collection.jpg",
+    "02 - Areas/Books/State of Fear.md",
+    "03 - Resources/BookCovers/As the Crow Flies.jpg",
+    "02 - Areas/Books/Origin.md",
+    "03 - Resources/BookCovers/State of Fear.jpg",
+    "02 - Areas/Books/Memory Man.md",
+    "03 - Resources/BookCovers/Origin.jpg",
+    "02 - Areas/Books/11th Hour.md",
+    "03 - Resources/BookCovers/Memory Man.jpg",
+    "02 - Areas/Books/Night School.md",
+    "03 - Resources/BookCovers/11th Hour.jpg",
+    "00 - Maps Of Contents/Books.md",
+    "03 - Resources/BookCovers/Night School.jpg",
+    "02 - Areas/Books/Personal.md",
+    "03 - Resources/BookCovers/Personal.jpg",
+    "02 - Areas/Books/The Lost Symbol.md",
+    "00 - Maps Of Contents/0 - Home.md",
     "07 - Archives/Test.md",
     "07 - Archives/test excalidraw.md",
     "07 - Archives/Test column.md",
@@ -208,35 +252,12 @@
     "03 - Resources/Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md",
     "99 - Meta/Rough Note Template.md",
     "99 - Meta/Full Note Template.md",
-    "00 - Maps Of Contents/0 - Home.md",
     "00 - Maps Of Contents/B. Tech CSE.md",
     "Readme.md",
     "00 - Maps Of Contents/Bullet Journaling.md",
-    "00 - Maps Of Contents/Books.md",
     "00 - Maps Of Contents/CS50X.md",
     "02 - Areas/Books/Numbercaste.md",
-    "03 - Resources/BookCovers/Numbercaste.jpg",
     "02 - Areas/Books/The Object of Your Affections.md",
-    "03 - Resources/BookCovers/The Object of Your Affections.jpg",
-    "02 - Areas/Books/The 48 Laws of Power.md",
-    "02 - Areas/Books/My Friends Call Me Monster.md",
-    "02 - Areas/Books/Ikigai.md",
-    "03 - Resources/BookCovers/Ikigai.jpg",
-    "02 - Areas/Books/The Metamorphosis.md",
-    "00 - Maps Of Contents/Movies.md",
-    "03 - Resources/BookCovers/The Metamorphosis.jpg",
-    "02 - Areas/Books/The Psychology of Money.md",
-    "03 - Resources/BookCovers/The Psychology of Money.jpg",
-    "99 - Meta/Book Template.md",
-    "02 - Areas/Books/Who's Your Mummy .md",
-    "02 - Areas/Books/When the Ghost Dog Howls.md",
-    "02 - Areas/Books/Welcome to Camp Slither.md",
-    "02 - Areas/Books/The Streets of Panic Park.md",
-    "03 - Resources/BookCovers/The 48 Laws of Power.jpg",
-    "03 - Resources/BookCovers/Heads You Lose!.jpg",
-    "03 - Resources/BookCovers/Heads You Lose! (Goosebumps HorrorLand 15).jpg",
-    "03 - Resources/BookCovers/Little Shop of Hamsters.jpg",
-    "03 - Resources/BookCovers/When the Ghost Dog Howls .jpg",
     "03 - Resources/BookCovers",
     "01 - Projects/Proj 1",
     "07 - Archives/Areas/Movies",

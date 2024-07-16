@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "The Scorch Trials",
+      "path": "02 - Areas/Books/The Scorch Trials.md"
+    },
+    {
+      "basename": "Brisingr",
+      "path": "02 - Areas/Books/Brisingr.md"
+    },
+    {
+      "basename": "As the Crow Flies",
+      "path": "02 - Areas/Books/As the Crow Flies.md"
+    },
+    {
+      "basename": "State of Fear",
+      "path": "02 - Areas/Books/State of Fear.md"
+    },
+    {
+      "basename": "Origin",
+      "path": "02 - Areas/Books/Origin.md"
+    },
+    {
+      "basename": "Memory Man",
+      "path": "02 - Areas/Books/Memory Man.md"
+    },
+    {
+      "basename": "11th Hour",
+      "path": "02 - Areas/Books/11th Hour.md"
+    },
+    {
+      "basename": "Night School",
+      "path": "02 - Areas/Books/Night School.md"
+    },
+    {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "Personal",
+      "path": "02 - Areas/Books/Personal.md"
+    },
+    {
+      "basename": "The Lost Symbol",
+      "path": "02 - Areas/Books/The Lost Symbol.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -43,10 +87,6 @@
     {
       "basename": "Bullet Journaling",
       "path": "00 - Maps Of Contents/Bullet Journaling.md"
-    },
-    {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "CS50X",
@@ -159,46 +199,6 @@
     {
       "basename": "Dr Maniac vs Robby Schwartz",
       "path": "03 - Resources/BookCovers/Dr Maniac vs Robby Schwartz.jpg"
-    },
-    {
-      "basename": "Revenge of the Living Dummy",
-      "path": "03 - Resources/BookCovers/Revenge of the Living Dummy.jpg"
-    },
-    {
-      "basename": "Week 1 - C",
-      "path": "01 - Projects/CS50X/Week 1 - C.md"
-    },
-    {
-      "basename": "09575423062024",
-      "path": "06 - Daily/09575423062024.md"
-    },
-    {
-      "basename": "Week 0 - Scratch",
-      "path": "01 - Projects/CS50X/Week 0 - Scratch.md"
-    },
-    {
-      "basename": "Business Studies Rewrite 2",
-      "path": "01 - Projects/Proj 1/Business Studies Rewrite 2.md"
-    },
-    {
-      "basename": "Business Studies Rewrite 1",
-      "path": "01 - Projects/Proj 1/Business Studies Rewrite 1.md"
-    },
-    {
-      "basename": "Business Studies",
-      "path": "01 - Projects/Proj 1/Business Studies.md"
-    },
-    {
-      "basename": "E-Business",
-      "path": "01 - Projects/Proj 1/E-Business.md"
-    },
-    {
-      "basename": "SWOT Analysis",
-      "path": "01 - Projects/Proj 1/SWOT Analysis.md"
-    },
-    {
-      "basename": "Commerce Rewrite 2",
-      "path": "01 - Projects/Proj 1/Commerce Rewrite 2.md"
     }
   ],
   "omittedPaths": [],
