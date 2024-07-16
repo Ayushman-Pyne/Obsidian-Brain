@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Books/The Scorch Trials.md",
+                "file": "02 - Areas/Books/Demon Slayer Vol 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.51103591918945
+    "width": 228.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "a370b92b12670430",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Books/The Scorch Trials.md"
+                "file": "02 - Areas/Books/Demon Slayer Vol 1.md"
               }
             }
           },
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Books/The Scorch Trials.md",
+                "file": "02 - Areas/Books/Demon Slayer Vol 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Books/The Scorch Trials.md",
+                "file": "02 - Areas/Books/Demon Slayer Vol 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,29 +221,36 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0155e84e638cc8a7",
+  "active": "cdfe755f69f34b39",
   "lastOpenFiles": [
-    "02 - Areas/Books/Brisingr.md",
+    "02 - Areas/Books/Escape from Jabar-loo.md",
+    "02 - Areas/Books/Demon Slayer Vol 1.md",
+    "03 - Resources/BookCovers/Demon Slayer Kimetsu no Yaiba Vol 1.jpg",
+    "02 - Areas/Books/The Sky is Falling.md",
+    "03 - Resources/BookCovers/Escape from Jabar-loo (The Secrets of Droon 30).jpg",
+    "02 - Areas/Books/The Silver Eagle.md",
+    "03 - Resources/BookCovers/The Sky is Falling.jpg",
+    "02 - Areas/Books/The Kill Order.md",
+    "03 - Resources/BookCovers/The Silver Eagle.jpg",
+    "02 - Areas/Books/Four A Divergent Collection.md",
+    "03 - Resources/BookCovers/The Kill Order.jpg",
+    "02 - Areas/Books/Love not for sale.md",
+    "03 - Resources/BookCovers/Four A Divergent Collection.jpg",
     "02 - Areas/Books/The Scorch Trials.md",
+    "03 - Resources/BookCovers/Love not for sale.jpg",
+    "02 - Areas/Books/Brisingr.md",
     "03 - Resources/BookCovers/The Scorch Trials.jpg",
     "02 - Areas/Books/As the Crow Flies.md",
     "03 - Resources/BookCovers/Brisingr.jpg",
     "02 - Areas/Books/The Inheritance Cycle 4-Book Collection.md",
     "03 - Resources/BookCovers/The Inheritance Cycle 4-Book Collection.jpg",
     "02 - Areas/Books/State of Fear.md",
-    "03 - Resources/BookCovers/As the Crow Flies.jpg",
     "02 - Areas/Books/Origin.md",
-    "03 - Resources/BookCovers/State of Fear.jpg",
     "02 - Areas/Books/Memory Man.md",
-    "03 - Resources/BookCovers/Origin.jpg",
     "02 - Areas/Books/11th Hour.md",
-    "03 - Resources/BookCovers/Memory Man.jpg",
     "02 - Areas/Books/Night School.md",
-    "03 - Resources/BookCovers/11th Hour.jpg",
     "00 - Maps Of Contents/Books.md",
-    "03 - Resources/BookCovers/Night School.jpg",
     "02 - Areas/Books/Personal.md",
-    "03 - Resources/BookCovers/Personal.jpg",
     "02 - Areas/Books/The Lost Symbol.md",
     "00 - Maps Of Contents/0 - Home.md",
     "07 - Archives/Test.md",
@@ -251,13 +259,6 @@
     "07 - Archives/Test book.md",
     "03 - Resources/Excalidraw/Drawing 2024-05-10 22.01.25.excalidraw.md",
     "99 - Meta/Rough Note Template.md",
-    "99 - Meta/Full Note Template.md",
-    "00 - Maps Of Contents/B. Tech CSE.md",
-    "Readme.md",
-    "00 - Maps Of Contents/Bullet Journaling.md",
-    "00 - Maps Of Contents/CS50X.md",
-    "02 - Areas/Books/Numbercaste.md",
-    "02 - Areas/Books/The Object of Your Affections.md",
     "03 - Resources/BookCovers",
     "01 - Projects/Proj 1",
     "07 - Archives/Areas/Movies",
