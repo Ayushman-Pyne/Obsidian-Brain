@@ -21,24 +21,16 @@
             }
           },
           {
-            "id": "4790e6ef57206f48",
+            "id": "3c2986a17cd7b97c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/Books.md",
+                "file": "02 - Areas/Books/The Three Musketeers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "6931abbc60c8e748",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -132,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/Books.md"
+                "file": "02 - Areas/Books/The Three Musketeers.md"
               }
             }
           },
@@ -142,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/Books.md",
+                "file": "02 - Areas/Books/The Three Musketeers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/Books.md",
+                "file": "02 - Areas/Books/The Three Musketeers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,10 +214,25 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "4790e6ef57206f48",
+  "active": "3c2986a17cd7b97c",
   "lastOpenFiles": [
-    "02 - Areas/Books/The Kill Order.md",
+    "02 - Areas/Books/Kidnapped.md",
+    "02 - Areas/Books/The Three Musketeers.md",
+    "03 - Resources/BookCovers/The Three Musketeers.jpg",
+    "02 - Areas/Books/Wuthering Heights.md",
+    "03 - Resources/BookCovers/Kidnapped.jpg",
     "00 - Maps Of Contents/Books.md",
+    "03 - Resources/BookCovers/Wuthering Heights.jpg",
+    "02 - Areas/Books/The Girl with the Dragon Tattoo.md",
+    "03 - Resources/BookCovers/The Girl with the Dragon Tattoo.jpg",
+    "02 - Areas/Books/The Complete Short Stories of Sherlock Holmes.md",
+    "03 - Resources/BookCovers/The Complete Short Stories of Sherlock Holmes.jpg",
+    "00 - Maps Of Contents/0 - Home.md",
+    "02 - Areas/Books/The Call of the Wild.md",
+    "03 - Resources/BookCovers/The Call of the Wild.jpg",
+    "02 - Areas/Books/The Prisoner.md",
+    "03 - Resources/BookCovers/The Prisoner.jpg",
+    "02 - Areas/Books/The Kill Order.md",
     "02 - Areas/Books/Twilight.md",
     "02 - Areas/Books/New Moon.md",
     "03 - Resources/BookCovers/Twilight.jpg",
@@ -234,9 +241,6 @@
     "02 - Areas/Books/Breaking Dawn.md",
     "03 - Resources/BookCovers/Eclipse.jpg",
     "02 - Areas/Books/Sidney Sheldon’s After the Darkness.md",
-    "03 - Resources/BookCovers/Breaking Dawn.jpg",
-    "03 - Resources/BookCovers/Sidney Sheldon’s After the Darkness.jpg",
-    "00 - Maps Of Contents/0 - Home.md",
     "02 - Areas/Books/Demon Slayer Kimetsu no Yaiba Vol 23.md",
     "02 - Areas/Books/Demon Slayer Vol 23.md",
     "02 - Areas/Books/Demon Slayer Vol 22.md",
@@ -248,18 +252,6 @@
     "02 - Areas/Books/Demon Slayer Vol 16.md",
     "02 - Areas/Books/Demon Slayer Vol 15.md",
     "02 - Areas/Books/Demon Slayer Vol 14.md",
-    "02 - Areas/Books/Demon Slayer Vol 13.md",
-    "02 - Areas/Books/Demon Slayer Vol 12.md",
-    "02 - Areas/Books/Demon Slayer Vol 11.md",
-    "02 - Areas/Books/Demon Slayer Vol 10.md",
-    "02 - Areas/Books/Demon Slayer Vol 9.md",
-    "02 - Areas/Books/Demon Slayer Kimetsu no Yaiba Vol 22.md",
-    "03 - Resources/BookCovers/Demon Slayer Kimetsu no Yaiba Vol 23.jpg",
-    "02 - Areas/Books/Demon Slayer Kimetsu no Yaiba Vol 21.md",
-    "03 - Resources/BookCovers/Demon Slayer Kimetsu no Yaiba Vol 22.jpg",
-    "03 - Resources/BookCovers/Demon Slayer Kimetsu no Yaiba Vol 21.jpg",
-    "03 - Resources/BookCovers/Demon Slayer Kimetsu no Yaiba Vol 20.jpg",
-    "03 - Resources/BookCovers/Demon Slayer Kimetsu no Yaiba Vol 19.jpg",
     "03 - Resources/BookCovers",
     "01 - Projects/Proj 1",
     "07 - Archives/Areas/Movies",
