@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
       "basename": "The Triumph of the Sun",
       "path": "02 - Areas/Books/The Triumph of the Sun.md"
     },
     {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
+      "basename": "You’re the Password to My Life",
+      "path": "02 - Areas/Books/You’re the Password to My Life.md"
     },
     {
       "basename": "04515917072024",
@@ -195,10 +199,6 @@
     {
       "basename": "Night School",
       "path": "02 - Areas/Books/Night School.md"
-    },
-    {
-      "basename": "Personal",
-      "path": "02 - Areas/Books/Personal.md"
     }
   ],
   "omittedPaths": [],
