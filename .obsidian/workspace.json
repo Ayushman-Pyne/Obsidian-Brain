@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "00 - Maps Of Contents/Books.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,16 +201,26 @@
   },
   "active": "0e912f1835c3db5f",
   "lastOpenFiles": [
+    "02 - Areas/Books/Demon Slayer Vol 10.md",
+    "00 - Maps Of Contents/Books.md",
+    "02 - Areas/Books/Demon Slayer Vol 9.md",
+    "02 - Areas/Books/Demon Slayer Vol 8.md",
+    "02 - Areas/Books/Demon Slayer Vol 7.md",
+    "02 - Areas/Books/Demon Slayer Vol 6.md",
+    "02 - Areas/Books/Demon Slayer Vol 5.md",
+    "02 - Areas/Books/Demon Slayer Vol 4.md",
+    "02 - Areas/Books/Demon Slayer Vol 3.md",
+    "02 - Areas/Books/Demon Slayer Vol 2.md",
+    "02 - Areas/Books/Demon Slayer Vol 1.md",
+    "00 - Maps Of Contents/0 - Home.md",
     "02 - Areas/Books/The Triumph of the Sun.md",
     "02 - Areas/Books/You’re the Password to My Life.md",
-    "00 - Maps Of Contents/0 - Home.md",
     "03 - Resources/BookCovers/You’re the Password to My Life.jpg",
     "03 - Resources/BookCovers/The Triumph of the Sun.jpg",
     "06 - Daily/04515917072024.md",
     "06 - Daily/09575423062024.md",
     "06 - Daily/11005512052024 - Test page color.md",
     "06 - Daily/034817072024.md",
-    "00 - Maps Of Contents/Books.md",
     "02 - Areas/Books/Master Your Emotions.md",
     "02 - Areas/Books/Dopamine Detox.md",
     "03 - Resources/BookCovers/Dopamine Detox.jpg",
@@ -225,18 +235,8 @@
     "03 - Resources/BookCovers/Twenty Thousand Leagues Under the Sea.jpg",
     "02 - Areas/Books/The Three Musketeers.md",
     "03 - Resources/BookCovers/The Count of Monte Cristo.jpg",
-    "02 - Areas/Books/Kidnapped.md",
     "03 - Resources/BookCovers/The Three Musketeers.jpg",
-    "02 - Areas/Books/Wuthering Heights.md",
     "03 - Resources/BookCovers/Kidnapped.jpg",
-    "02 - Areas/Books/The Girl with the Dragon Tattoo.md",
-    "02 - Areas/Books/The Complete Short Stories of Sherlock Holmes.md",
-    "02 - Areas/Books/The Call of the Wild.md",
-    "02 - Areas/Books/The Prisoner.md",
-    "02 - Areas/Books/The Kill Order.md",
-    "02 - Areas/Books/Twilight.md",
-    "02 - Areas/Books/New Moon.md",
-    "02 - Areas/Books/Eclipse.md",
     "03 - Resources/BookCovers",
     "01 - Projects/Proj 1",
     "07 - Archives/Areas/Movies",

@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 10",
+      "path": "02 - Areas/Books/Demon Slayer Vol 10.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 9",
+      "path": "02 - Areas/Books/Demon Slayer Vol 9.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 8",
+      "path": "02 - Areas/Books/Demon Slayer Vol 8.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 7",
+      "path": "02 - Areas/Books/Demon Slayer Vol 7.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 6",
+      "path": "02 - Areas/Books/Demon Slayer Vol 6.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 5",
+      "path": "02 - Areas/Books/Demon Slayer Vol 5.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 4",
+      "path": "02 - Areas/Books/Demon Slayer Vol 4.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 3",
+      "path": "02 - Areas/Books/Demon Slayer Vol 3.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 2",
+      "path": "02 - Areas/Books/Demon Slayer Vol 2.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 1",
+      "path": "02 - Areas/Books/Demon Slayer Vol 1.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -27,10 +71,6 @@
     {
       "basename": "034817072024",
       "path": "06 - Daily/034817072024.md"
-    },
-    {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "Master Your Emotions",
@@ -117,38 +157,6 @@
       "path": "99 - Meta/Book Template.md"
     },
     {
-      "basename": "Demon Slayer Vol 8",
-      "path": "02 - Areas/Books/Demon Slayer Vol 8.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 7",
-      "path": "02 - Areas/Books/Demon Slayer Vol 7.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 6",
-      "path": "02 - Areas/Books/Demon Slayer Vol 6.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 5",
-      "path": "02 - Areas/Books/Demon Slayer Vol 5.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 4",
-      "path": "02 - Areas/Books/Demon Slayer Vol 4.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 3",
-      "path": "02 - Areas/Books/Demon Slayer Vol 3.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 2",
-      "path": "02 - Areas/Books/Demon Slayer Vol 2.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 1",
-      "path": "02 - Areas/Books/Demon Slayer Vol 1.md"
-    },
-    {
       "basename": "Escape from Jabar-loo",
       "path": "02 - Areas/Books/Escape from Jabar-loo.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Memory Man",
       "path": "02 - Areas/Books/Memory Man.md"
-    },
-    {
-      "basename": "11th Hour",
-      "path": "02 - Areas/Books/11th Hour.md"
-    },
-    {
-      "basename": "Night School",
-      "path": "02 - Areas/Books/Night School.md"
     }
   ],
   "omittedPaths": [],
