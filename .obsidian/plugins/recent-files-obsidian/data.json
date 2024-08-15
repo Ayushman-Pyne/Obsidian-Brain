@@ -5,12 +5,16 @@
       "path": "00 - Maps Of Contents/Python.md"
     },
     {
-      "basename": "Program Note Template",
-      "path": "99 - Meta/Program Note Template.md"
+      "basename": "question list sem 1",
+      "path": "02 - Areas/Python/question list sem 1.pdf"
     },
     {
       "basename": "01 - WAP to perform arithmetic operations (and average) between two variables",
       "path": "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables.md"
+    },
+    {
+      "basename": "Program Note Template",
+      "path": "99 - Meta/Program Note Template.md"
     },
     {
       "basename": "Book Template",
@@ -27,10 +31,6 @@
     {
       "basename": "CS50X",
       "path": "00 - Maps Of Contents/CS50X.md"
-    },
-    {
-      "basename": "question list sem 1",
-      "path": "02 - Areas/Python/question list sem 1.pdf"
     },
     {
       "basename": "0 - Home",

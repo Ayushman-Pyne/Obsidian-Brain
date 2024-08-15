@@ -58,6 +58,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dd5f0450c6f543b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 - Areas/Python/question list sem 1.pdf"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -110,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.51103591918945
+    "width": 230.5
   },
   "right": {
     "id": "a370b92b12670430",
@@ -241,14 +251,14 @@
   },
   "active": "13f808f3c81e1f41",
   "lastOpenFiles": [
-    "99 - Meta/Program Note Template.md",
-    "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables.md",
+    "02 - Areas/Python/question list sem 1.pdf",
     "00 - Maps Of Contents/Python.md",
+    "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables.md",
+    "99 - Meta/Program Note Template.md",
     "99 - Meta/Book Template.md",
     "00 - Maps Of Contents/Bullet Journaling.md",
     "00 - Maps Of Contents/Books.md",
     "00 - Maps Of Contents/CS50X.md",
-    "02 - Areas/Python/question list sem 1.pdf",
     "00 - Maps Of Contents/0 - Home.md",
     "02 - Areas/Python/Programs/test.py",
     "02 - Areas/Python/Programs/01 - WAP to perform arithmatic operations (and average) between two variables/ExplicitlyPutTheValue.py",
@@ -274,7 +284,6 @@
     "02 - Areas/Books/Demon Slayer Vol 2.md",
     "02 - Areas/Books/Demon Slayer Vol 1.md",
     "02 - Areas/Books/The Triumph of the Sun.md",
-    "02 - Areas/Books/You’re the Password to My Life.md",
     "03 - Resources/BookCovers/You’re the Password to My Life.jpg",
     "03 - Resources/BookCovers/The Triumph of the Sun.jpg",
     "03 - Resources/BookCovers/Dopamine Detox.jpg",

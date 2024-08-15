@@ -1738,6 +1738,7 @@ Ehu
 Ecz
 Eüyt
 EOF
+Explicitly
 VIEW
 Vitae
 Vault
@@ -6148,6 +6149,7 @@ LastChar
 LBl
 LjmH
 LjA
+Language
 nodes
 notes
 no
@@ -6697,6 +6699,7 @@ Chc
 CSP
 CvJ
 Ctl
+Checklist
 Week
 Well
 Wider
@@ -6898,6 +6901,7 @@ WNr
 WXI
 WBO
 WLi
+WAP
 All
 Attending
 As
@@ -7577,6 +7581,8 @@ aNo
 aTX
 aGc
 avy
+arithmetic
+average
 Homework
 Here
 HOME
@@ -11815,6 +11821,7 @@ Pvb
 PGl
 Prev
 Python
+Put
 just
 journey
 jB
