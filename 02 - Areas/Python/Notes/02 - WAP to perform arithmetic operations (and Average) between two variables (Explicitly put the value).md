@@ -15,8 +15,10 @@ Language:
 ## Algorithm
 
 ```Algorithm
-Step 1: 
-Step 2:
+
+Step 1: Start The program
+Step 2: Initialize the variables with the values
+Step 3: 
 
 ```
 
@@ -24,36 +26,34 @@ Step 2:
 
 ```Python
 a = 2
-
 b = 3
-
-  
-
-print(a, " + ", b, " = ", a+b)
-
-print(a, " - ", b, " = ", a-b)
-
-print(a, " * ", b, " = ", a*b)
-
-if b != 0:
-
-    if a>=b:
-
-        print(a, " / ", b, " = ", a/b)
-
-    else:
-
-        print(b, " / ", a, " = ", b/a)
-
-if b != 0:
-
-    if a>=b:
-
-        print(a, " % ", b, " = ", a%b)
-
-    else:
-
-        print(b, " % ", a, " = ", b%a)
-
+sum = a+b
+diff = a-b
+pro = a*b
+avg = (a+b)/2
+print(a, " + ", b, " = ", sum)
+print(a, " - ", b, " = ", diff)
+print(a, " * ", b, " = ", pro)
 print("Average = ", (a+b)/2)
+if b != 0:
+    if a>=b:
+        div = a/b
+        print(a, " / ", b, " = ", div)
+    else:
+        div = b/a
+        print(b, " / ", a, " = ", div)
+else:
+    print("Cannot Divide by 0")
+if b != 0:
+    if a>=b:
+        rem = a%b
+        print(a, " % ", b, " = ", rem)
+    else:
+        rem = b%a
+        print(b, " % ", a, " = ", rem)
+else:
+    print("Cannot find remainder with 0")
 ```
+
+## Output
+
