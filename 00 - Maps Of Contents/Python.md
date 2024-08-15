@@ -17,9 +17,9 @@ SORT Title ASC
 
 ### Checklist 
 
-- [ ] WAP to perform arithmetic operations (and Average) between two variables. (Through the user input)
-- [ ] WAP to perform arithmetic operations (and Average) between two variables. (Explicitly put the value) 
-- [ ] WAP that can print the Area of triangle
+- [ ] [[01 - WAP to perform arithmetic operations (and average) between two variables (Through User input)]]
+- [ ] [[02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value)]]
+- [ ] WAP that can print the Area of Triangle
 - [ ] WAP that can print the Area of Circle
 - [ ] WAP that can print the Area of Rectangle
 - [ ] WAP that can print the Area of Square
@@ -59,8 +59,14 @@ SORT Title ASC
 - [ ] WAP to swap the first and last item in a list. 
 - [ ] WAP to check the frequency of a number in a list and also remove duplicate item(s) from the list.
 - [ ] WAP to perform Linear and Binary Search in a list. 
-- [ ] WAP to perform the sort operations as below 
-- [ ] WAP to perform Bubble Sort, Insertion Sort, Selection Sort. b. Quick Sort, Merge Sort and Heap Sort c. Radix Sort, Bucket Sort. 
+- [ ] WAP to perform Bubble sort
+- [ ] WAP to perform Insertion sort
+- [ ] WAP to perform Selection sort
+- [ ] WAP to perform Quick sort
+- [ ] WAP to perform Merge sort
+- [ ] WAP to perform Heap sort
+- [ ] WAP to perform Radix sort
+- [ ] WAP to perform Bucket Sort. 
 - [ ] WAP that can reverse a string and a list. 
 - [ ] WAP that can convert a list to dictionaries. 
 - [ ] WAP to find the size of a set. 
@@ -74,17 +80,24 @@ SORT Title ASC
 - [ ] WAP that can use “lambda operators”, “map ()”, “filter ()” and “reduce ()” etc. 
 - [ ] WAP that can use different insert () and del () functions in the source code. 
 - [ ] WAP to print factorial of a number using recursive function. 
-19. WAP in file to use the following operations from file management: -- a. Create (), Open () with read, write, append read & write data mode and close (). b. Split (), readlines () method and overwrite it. 
-20. WAP in file to check whether the file is empty or not and also search a record exists in that file or not. 
-21. WAP that can copy the content from one file to another file. 
-22. WAP to count the total number of uppercase and lowercase letters in a file. 
-23. WAP to delay a print line from a file using sleep () function. 
-24. WAP to count the odd and even numbers in a file. 
-25. WAP to count the number of line in an existing file. 
-26. WAP to create and remove a file. 
-27. WAP to move a file from a dictionary to another using os.listdir () and shutil.move () and then rename the file name using os.rename (). 
-28. WAP to move all file from a dictionary. 
-29. WAP that can import the following libraries (as per requirements): -- a. Numpy, Pandas (use 2-D ds as DataFrame), b. Sckit-learn, Tensorflow, Keras, c. Seaborn, Mathplotlib, Pytorch etc. 
-30. WAP that can perform transform and reverse transformation over a 2-d list and then use scaling operations over the existing dataset. 
-31. WAP that can split () the dataset into two subsets. 
-32. WAP to print a string like “LINUX” and count the length of the string and when print the output like “INUX”.
+- [ ] WAP in file to use the following operations from file management:
+	- [ ] WAP File management 1 
+	      Create (), Open () with read, write, append read & write data mode and close (). 
+	- [ ] WAP File management 2 
+	      Split (), readlines () method and overwrite it. 
+- [ ] WAP in file to check whether the file is empty or not and also search a record exists in that file or not. 
+- [ ] WAP that can copy the content from one file to another file. 
+- [ ] WAP to count the total number of uppercase and lowercase letters in a file. 
+- [ ] WAP to delay a print line from a file using sleep () function. 
+- [ ] WAP to count the odd and even numbers in a file. 
+- [ ] WAP to count the number of line in an existing file. 
+- [ ] WAP to create and remove a file. 
+- [ ] WAP to move a file from a dictionary to another using os.listdir () and shutil.move () and then rename the file name using os.rename (). 
+- [ ] WAP to move all file from a dictionary. 
+- [ ] WAP that can import the following libraries (as per requirements): 
+	- [ ] Numpy, Pandas (use 2-D ds as DataFrame),
+	- [ ] Sckit-learn, Tensorflow, Keras
+	- [ ] Seaborn, Mathplotlib, Pytorch etc. 
+- [ ] WAP that can perform transform and reverse transformation over a 2-d list and then use scaling operations over the existing dataset. 
+- [ ] WAP that can split () the dataset into two subsets. 
+- [ ] WAP to print a string like “LINUX” and count the length of the string and when print the output like “INUX”.

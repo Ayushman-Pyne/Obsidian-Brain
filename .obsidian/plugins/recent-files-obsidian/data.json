@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value)",
+      "path": "02 - Areas/Python/Notes/02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value).md"
+    },
+    {
       "basename": "Python",
       "path": "00 - Maps Of Contents/Python.md"
     },
     {
-      "basename": "question list sem 1",
-      "path": "02 - Areas/Python/question list sem 1.pdf"
+      "basename": "01 - WAP to perform arithmetic operations (and average) between two variables (Through User input)",
+      "path": "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables (Through User input).md"
     },
     {
-      "basename": "01 - WAP to perform arithmetic operations (and average) between two variables",
-      "path": "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables.md"
+      "basename": "question list sem 1",
+      "path": "02 - Areas/Python/question list sem 1.pdf"
     },
     {
       "basename": "Program Note Template",
@@ -195,10 +199,6 @@
     {
       "basename": "Eclipse",
       "path": "02 - Areas/Books/Eclipse.md"
-    },
-    {
-      "basename": "Breaking Dawn",
-      "path": "02 - Areas/Books/Breaking Dawn.md"
     }
   ],
   "omittedPaths": [],
