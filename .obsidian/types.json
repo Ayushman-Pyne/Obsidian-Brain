@@ -25,6 +25,7 @@
     "excalidraw-open-md": "checkbox",
     "status": "multitext",
     "rating": "text",
-    "book no.": "number"
+    "book no.": "number",
+    "Language": "multitext"
   }
 }

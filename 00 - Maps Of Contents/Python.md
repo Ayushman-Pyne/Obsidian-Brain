@@ -5,8 +5,9 @@ cssclasses:
 # Python list of notes
 
 ```dataview
-Table without ID (file.link as Title From "02 - Areas/Python/" 
+Table without ID file.link as Title, Status
+From "02 - Areas/Python/Notes" 
 
-Where contains(status, "Ongoing") 
-SORT bookNo ASC
+Where contains(Language, "Ongoing") 
+SORT Title ASC
 ```

@@ -5,16 +5,28 @@
       "path": "00 - Maps Of Contents/Python.md"
     },
     {
+      "basename": "Program Note Template",
+      "path": "99 - Meta/Program Note Template.md"
+    },
+    {
+      "basename": "01 - WAP to perform arithmetic operations (and average) between two variables",
+      "path": "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables.md"
+    },
+    {
+      "basename": "Book Template",
+      "path": "99 - Meta/Book Template.md"
+    },
+    {
+      "basename": "Bullet Journaling",
+      "path": "00 - Maps Of Contents/Bullet Journaling.md"
+    },
+    {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "CS50X",
       "path": "00 - Maps Of Contents/CS50X.md"
-    },
-    {
-      "basename": "Bullet Journaling",
-      "path": "00 - Maps Of Contents/Bullet Journaling.md"
     },
     {
       "basename": "question list sem 1",
@@ -187,18 +199,6 @@
     {
       "basename": "Breaking Dawn",
       "path": "02 - Areas/Books/Breaking Dawn.md"
-    },
-    {
-      "basename": "Sidney Sheldon’s After the Darkness",
-      "path": "02 - Areas/Books/Sidney Sheldon’s After the Darkness.md"
-    },
-    {
-      "basename": "Book Template",
-      "path": "99 - Meta/Book Template.md"
-    },
-    {
-      "basename": "Escape from Jabar-loo",
-      "path": "02 - Areas/Books/Escape from Jabar-loo.md"
     }
   ],
   "omittedPaths": [],
