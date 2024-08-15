@@ -3,7 +3,7 @@ cssclasses:
   - dot-grid
   - no-embed-border
 Status:
-  - Not Started
+  - Completed
 title: 02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value)
 Date: 2024-08-15 22:29
 Language:
