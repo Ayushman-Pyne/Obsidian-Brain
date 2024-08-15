@@ -413,6 +413,9 @@ eie
 ejB
 eVD
 ecn
+equation
+empty
+existing
 plugin
 parsed
 present
@@ -836,6 +839,7 @@ pBn
 pui
 pai
 ptO
+prime
 tags
 to
 the
@@ -1178,6 +1182,9 @@ tbg
 tpNkk
 ttp
 trailer
+temperature
+tuple
+transform
 Switch
 Some
 Scratch
@@ -1482,6 +1489,14 @@ Sok
 Sek
 SrP
 Size
+Square
+Swap
+Simple
+Search
+Sort
+Split
+Sckit
+Seaborn
 EXCALIDRAW
 Elements
 Example
@@ -1739,6 +1754,7 @@ Ecz
 Eüyt
 EOF
 Explicitly
+Even
 VIEW
 Vitae
 Vault
@@ -2335,6 +2351,12 @@ iff
 iJe
 iLn
 iJn
+instructions
+inches
+imaginary
+item
+insert
+import
 MORE
 My
 Movie
@@ -2566,6 +2588,11 @@ MfIfE
 MBO
 MLvag
 MrDh
+MAX
+MIN
+Matrix
+Merge
+Mathplotlib
 OPTIONS
 OFF
 ON
@@ -2792,6 +2819,8 @@ Opo
 OSz
 OjW
 OyV
+Odd
+Open
 menu
 made
 music
@@ -3126,6 +3155,12 @@ mYd
 mTk
 mqs
 mia
+min
+max
+meters
+multiplication
+map
+move
 of
 on
 ornare
@@ -3369,6 +3404,8 @@ oRb
 opW
 owK
 oSo
+operation
+overwrite
 document
 dot
 different
@@ -3738,6 +3775,13 @@ dqZ
 dZIv
 dUn
 dNedN
+duplicate
+dictionaries
+dictionary
+difference
+delete
+del
+dataset
 Drawing
 Date
 Define
@@ -4003,6 +4047,8 @@ Dkl
 Dzgi
 Dsi
 DKU
+Diagonal
+DataFrame
 Text
 The
 Type
@@ -4246,6 +4292,9 @@ Ttep
 TnH
 Trkh
 TMHf
+Triangle
+Twin
+Tensorflow
 game
 grid
 get
@@ -5118,6 +5167,13 @@ lBq
 lMZ
 lSB
 list
+length
+largest
+lambda
+lowercase
+listdir
+libraries
+learn
 cssclasses
 center
 costumes
@@ -5604,6 +5660,8 @@ cZB
 cOd
 cUg
 cGwJ
+consonant
+close
 Important
 In
 It
@@ -5905,6 +5963,9 @@ IWiN
 Ifw
 IDK
 Info
+Insertion
+Intersection
+INUX
 Links
 Lorem
 Learning
@@ -6150,6 +6211,8 @@ LBl
 LjmH
 LjA
 Language
+Linear
+LINUX
 nodes
 notes
 no
@@ -6411,6 +6474,7 @@ nWU
 nPz
 nWCpO
 nOQt
+natural
 CS
 Completed
 Courses
@@ -6700,6 +6764,10 @@ CSP
 CvJ
 Ctl
 Checklist
+Circle
+Compound
+Celsius
+Create
 Week
 Well
 Wider
@@ -6902,6 +6970,7 @@ WXI
 WBO
 WLi
 WAP
+Write
 All
 Attending
 As
@@ -7181,6 +7250,9 @@ AKxN
 APW
 Ama
 Aso
+Average
+Area
+Armstrong
 are
 and
 amet
@@ -7583,6 +7655,7 @@ aGc
 avy
 arithmetic
 average
+append
 Homework
 Here
 HOME
@@ -7841,6 +7914,7 @@ Hwr
 HMDj
 HMu
 Hcz
+Heap
 was
 with
 website
@@ -8557,6 +8631,18 @@ snc
 sxy
 sqc
 startxref
+swap
+sort
+size
+smallest
+sets
+subset
+superset
+sleep
+shutil
+scaling
+split
+subsets
 background
 backdrops
 border
@@ -8894,6 +8980,7 @@ bZy
 bcY
 bap
 bLc
+below
 features
 file
 for
@@ -9242,6 +9329,11 @@ fKCM
 fMu
 fnYp
 fbfrfj
+factorial
+feet
+frequency
+frozen
+filter
 References
 Resources
 Requirement
@@ -9502,6 +9594,9 @@ Ruv
 RdY
 RcS
 Root
+Rectangle
+Rhombus
+Radix
 velit
 video
 value
@@ -9745,6 +9840,9 @@ vlV
 vFm
 vdhB
 vAV
+vice
+versa
+vowel
 ut
 unary
 using
@@ -10020,6 +10118,7 @@ uGE
 uXK
 uNelcl
 uAtu
+uppercase
 Use
 User
 Unicode
@@ -10244,6 +10343,7 @@ UGE
 UfiYr
 UylU
 UDf
+Union
 For
 FB
 Feel
@@ -10485,6 +10585,9 @@ FHi
 FZv
 FOOw
 FGs
+Find
+Fibonacci
+Fahrenheit
 Just
 Journey
 Job
@@ -11100,6 +11203,12 @@ rNY
 reX
 rNG
 rRvav
+root
+remove
+recursive
+readlines
+record
+rename
 Base
 But
 Bit
@@ -11346,6 +11455,9 @@ BWmW
 BKS
 BmV
 ByA
+Binary
+Bubble
+Bucket
 your
 yellow
 you
@@ -11822,6 +11934,11 @@ PGl
 Prev
 Python
 Put
+Parallelogram
+Palindrome
+Prime
+Pandas
+Pytorch
 just
 journey
 jB
@@ -12479,6 +12596,7 @@ NoJ
 NQg
 NuIuO
 NIm
+Numpy
 keep
 known
 kind
@@ -13571,6 +13689,7 @@ qzwk
 qü
 qsB
 qqF
+quadratic
 zG
 zjq
 zw
@@ -13988,6 +14107,7 @@ Qbt
 QgS
 QiL
 QDv
+Quick
 KI
 Ko
 KP
@@ -14226,6 +14346,7 @@ KQFY
 KnT
 KjE
 KQT
+Keras
 XI
 XA
 XJ
