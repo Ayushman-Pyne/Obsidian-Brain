@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4703c26e01e78c33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps Of Contents/Bullet Journaling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13f808f3c81e1f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps Of Contents/Python.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "00 - Maps Of Contents/Python.md"
               }
             }
           },
@@ -119,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "00 - Maps Of Contents/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "00 - Maps Of Contents/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,10 +226,27 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "8014d99050d65d62",
+  "active": "13f808f3c81e1f41",
   "lastOpenFiles": [
     "00 - Maps Of Contents/Books.md",
+    "00 - Maps Of Contents/Python.md",
+    "00 - Maps Of Contents/CS50X.md",
+    "00 - Maps Of Contents/Bullet Journaling.md",
+    "02 - Areas/Python/question list sem 1.pdf",
     "00 - Maps Of Contents/0 - Home.md",
+    "02 - Areas/Python/Programs/test.py",
+    "02 - Areas/Python/Programs/01 - WAP to perform arithmatic operations (and average) between two variables/ExplicitlyPutTheValue.py",
+    "02 - Areas/Python/Programs/01 - WAP to perform arithmatic operations (and average) between two variables/throughUserInput.py",
+    "02 - Areas/Python/Programs/01 - WAP to perform arithmatic operations (and average) between two variables",
+    "02 - Areas/Python/Notes",
+    "02 - Areas/Python/Programs",
+    "02 - Areas/Python",
+    "02 - Areas/Books/Demon Slayer Vol 16.md",
+    "02 - Areas/Books/Demon Slayer Vol 15.md",
+    "02 - Areas/Books/Demon Slayer Vol 13.md",
+    "02 - Areas/Books/Demon Slayer Vol 14.md",
+    "02 - Areas/Books/Demon Slayer Vol 12.md",
+    "02 - Areas/Books/Demon Slayer Vol 11.md",
     "02 - Areas/Books/Demon Slayer Vol 10.md",
     "02 - Areas/Books/Demon Slayer Vol 9.md",
     "02 - Areas/Books/Demon Slayer Vol 8.md",
@@ -220,33 +264,16 @@
     "06 - Daily/04515917072024.md",
     "06 - Daily/09575423062024.md",
     "06 - Daily/11005512052024 - Test page color.md",
-    "06 - Daily/034817072024.md",
-    "02 - Areas/Books/Master Your Emotions.md",
-    "02 - Areas/Books/Dopamine Detox.md",
     "03 - Resources/BookCovers/Dopamine Detox.jpg",
     "03 - Resources/BookCovers/Master Your Emotions.jpg",
-    "02 - Areas/Books/The Psychology of Money.md",
-    "02 - Areas/Books/Gilead.md",
     "03 - Resources/BookCovers/Gilead.jpg",
-    "02 - Areas/Books/Robinson Crusoe.md",
-    "02 - Areas/Books/Twenty Thousand Leagues Under the Sea.md",
     "03 - Resources/BookCovers/Robinson Crusoe.jpg",
-    "02 - Areas/Books/The Count of Monte Cristo.md",
     "03 - Resources/BookCovers/Twenty Thousand Leagues Under the Sea.jpg",
-    "02 - Areas/Books/The Three Musketeers.md",
     "03 - Resources/BookCovers/The Count of Monte Cristo.jpg",
     "03 - Resources/BookCovers/The Three Musketeers.jpg",
     "03 - Resources/BookCovers/Kidnapped.jpg",
     "03 - Resources/BookCovers",
-    "01 - Projects/Proj 1",
-    "07 - Archives/Areas/Movies",
-    "07 - Archives/Areas/Books",
-    "07 - Archives/Areas",
-    "07 - Archives/Projects",
-    "02 - Areas/Books",
-    "02 - Areas/Movies",
-    "01 - Projects/CS50X",
-    "00 - Map Of Contents/Home Page.canvas",
-    "06 - Daily"
+    "04 - Permanent/Proj 1",
+    "00 - Map Of Contents/Home Page.canvas"
   ]
 }
