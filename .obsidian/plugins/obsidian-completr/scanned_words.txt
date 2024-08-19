@@ -1497,6 +1497,8 @@ Sort
 Split
 Sckit
 Seaborn
+Structure
+Syllabus
 EXCALIDRAW
 Elements
 Example
@@ -1755,6 +1757,7 @@ Eüyt
 EOF
 Explicitly
 Even
+Electronics
 VIEW
 Vitae
 Vault
@@ -2593,6 +2596,8 @@ MIN
 Matrix
 Merge
 Mathplotlib
+Mathematics
+Maths
 OPTIONS
 OFF
 ON
@@ -4049,6 +4054,11 @@ Dsi
 DKU
 Diagonal
 DataFrame
+Design
+DBMS
+DEMO
+Detailed
+Discrete
 Text
 The
 Type
@@ -4295,6 +4305,8 @@ TMHf
 Triangle
 Twin
 Tensorflow
+TOC
+Theory
 game
 grid
 get
@@ -6213,6 +6225,8 @@ LjA
 Language
 Linear
 LINUX
+Lecture
+Lan
 nodes
 notes
 no
@@ -6768,6 +6782,11 @@ Circle
 Compound
 Celsius
 Create
+CSE
+Computation
+Compiler
+COA
+Counting
 Week
 Well
 Wider
@@ -7254,6 +7273,8 @@ Average
 Area
 Armstrong
 Algorithm
+Ank
+Aptitude
 are
 and
 amet
@@ -9598,6 +9619,8 @@ Root
 Rectangle
 Rhombus
 Radix
+Recurrence
+Relation
 velit
 video
 value
@@ -11460,6 +11483,7 @@ ByA
 Binary
 Bubble
 Bucket
+Basics
 your
 yellow
 you
@@ -11941,6 +11965,9 @@ Palindrome
 Prime
 Pandas
 Pytorch
+Programming
+Programmi
+Part
 just
 journey
 jB
@@ -12369,6 +12396,8 @@ Gsml
 GCqw
 Gtr
 Gkf
+GATE
+General
 Now
 Note
 Notes
@@ -12599,6 +12628,7 @@ NQg
 NuIuO
 NIm
 Numpy
+Network
 keep
 known
 kind

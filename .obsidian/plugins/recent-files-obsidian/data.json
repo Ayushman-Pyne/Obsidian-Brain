@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GATE",
+      "path": "GATE.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "New Moon",
       "path": "02 - Areas/Books/New Moon.md"
-    },
-    {
-      "basename": "Eclipse",
-      "path": "02 - Areas/Books/Eclipse.md"
     }
   ],
   "omittedPaths": [],
