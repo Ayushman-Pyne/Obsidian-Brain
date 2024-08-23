@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Bullet Journaling",
       "path": "00 - Maps Of Contents/Bullet Journaling.md"
-    },
-    {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "CS50X",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "00 - Maps Of Contents/Books.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "00 - Maps Of Contents/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,8 +227,8 @@
   },
   "active": "8014d99050d65d62",
   "lastOpenFiles": [
-    "GATE.md",
     "00 - Maps Of Contents/0 - Home.md",
+    "GATE.md",
     "00 - Maps Of Contents/Python.md",
     "02 - Areas/Python/Notes/02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value).md",
     "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables (Through User input).md",
