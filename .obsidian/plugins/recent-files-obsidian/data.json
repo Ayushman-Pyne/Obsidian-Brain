@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Say Cheese - And Die Screaming!",
-      "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
-    },
-    {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 19",
+      "path": "02 - Areas/Books/Demon Slayer Vol 19.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 18",
+      "path": "02 - Areas/Books/Demon Slayer Vol 18.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 17",
+      "path": "02 - Areas/Books/Demon Slayer Vol 17.md"
+    },
+    {
+      "basename": "Help! We Have Strange Powers!",
+      "path": "02 - Areas/Books/Help! We Have Strange Powers!.md"
+    },
+    {
+      "basename": "Welcome to Camp Slither",
+      "path": "02 - Areas/Books/Welcome to Camp Slither.md"
+    },
+    {
+      "basename": "Escape from Jabar-loo",
+      "path": "02 - Areas/Books/Escape from Jabar-loo.md"
+    },
+    {
+      "basename": "The Metamorphosis",
+      "path": "02 - Areas/Books/The Metamorphosis.md"
+    },
+    {
+      "basename": "Say Cheese - And Die Screaming!",
+      "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
     },
     {
       "basename": "Python",
@@ -171,34 +199,6 @@
     {
       "basename": "Kidnapped",
       "path": "02 - Areas/Books/Kidnapped.md"
-    },
-    {
-      "basename": "Wuthering Heights",
-      "path": "02 - Areas/Books/Wuthering Heights.md"
-    },
-    {
-      "basename": "The Girl with the Dragon Tattoo",
-      "path": "02 - Areas/Books/The Girl with the Dragon Tattoo.md"
-    },
-    {
-      "basename": "The Complete Short Stories of Sherlock Holmes",
-      "path": "02 - Areas/Books/The Complete Short Stories of Sherlock Holmes.md"
-    },
-    {
-      "basename": "The Call of the Wild",
-      "path": "02 - Areas/Books/The Call of the Wild.md"
-    },
-    {
-      "basename": "The Prisoner",
-      "path": "02 - Areas/Books/The Prisoner.md"
-    },
-    {
-      "basename": "The Kill Order",
-      "path": "02 - Areas/Books/The Kill Order.md"
-    },
-    {
-      "basename": "Twilight",
-      "path": "02 - Areas/Books/Twilight.md"
     }
   ],
   "omittedPaths": [],

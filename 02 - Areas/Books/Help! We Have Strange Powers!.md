@@ -11,7 +11,7 @@ cover: http://books.google.com/books/content?id=wYHCBAAAQBAJ&printsec=frontcover
 rating: 
 date read: 
 status:
-  - Not Started
+  - Ongoing
 cssclasses:
   - center-h1
 ---
