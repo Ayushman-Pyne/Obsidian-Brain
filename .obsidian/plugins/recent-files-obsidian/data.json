@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Say Cheese - And Die Screaming!",
+      "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
+    },
+    {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
     },
     {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
+      "basename": "Python",
+      "path": "00 - Maps Of Contents/Python.md"
     },
     {
       "basename": "GATE",
       "path": "GATE.md"
     },
     {
-      "basename": "Python",
-      "path": "00 - Maps Of Contents/Python.md"
+      "basename": "Demon Slayer Vol 16",
+      "path": "02 - Areas/Books/Demon Slayer Vol 16.md"
+    },
+    {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value)",
@@ -43,10 +51,6 @@
     {
       "basename": "CS50X",
       "path": "00 - Maps Of Contents/CS50X.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 16",
-      "path": "02 - Areas/Books/Demon Slayer Vol 16.md"
     },
     {
       "basename": "Demon Slayer Vol 15",
@@ -195,10 +199,6 @@
     {
       "basename": "Twilight",
       "path": "02 - Areas/Books/Twilight.md"
-    },
-    {
-      "basename": "New Moon",
-      "path": "02 - Areas/Books/New Moon.md"
     }
   ],
   "omittedPaths": [],
