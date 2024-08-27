@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Python",
+      "path": "00 - Maps Of Contents/Python.md"
+    },
+    {
       "basename": "Books",
       "path": "00 - Maps Of Contents/Books.md"
     },
@@ -37,20 +45,12 @@
       "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
     },
     {
-      "basename": "Python",
-      "path": "00 - Maps Of Contents/Python.md"
-    },
-    {
       "basename": "GATE",
       "path": "GATE.md"
     },
     {
       "basename": "Demon Slayer Vol 16",
       "path": "02 - Areas/Books/Demon Slayer Vol 16.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value)",
