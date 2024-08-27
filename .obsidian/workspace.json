@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "13f808f3c81e1f41",
+            "id": "7ef447a90623fbe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/Python.md",
+                "file": "01 - Projects/SiH 2024/00 - SiH map of contents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "right": {
     "id": "a370b92b12670430",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "01 - Projects/SiH 2024/00 - SiH map of contents.md"
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "01 - Projects/SiH 2024/00 - SiH map of contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "01 - Projects/SiH 2024/00 - SiH map of contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,9 +214,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "88723987b3e9a737",
+  "active": "7ef447a90623fbe6",
   "lastOpenFiles": [
+    "00 - Maps Of Contents/0 - Home.md",
+    "01 - Projects/SiH 2024/00 - SiH map of contents.md",
     "00 - Maps Of Contents/Python.md",
+    "01 - Projects/SiH 2024",
     "00 - Maps Of Contents/Books.md",
     "02 - Areas/Books/Demon Slayer Vol 19.md",
     "02 - Areas/Books/Demon Slayer Vol 18.md",
@@ -226,7 +231,6 @@
     "02 - Areas/Books/Say Cheese - And Die Screaming!.md",
     "GATE.md",
     "02 - Areas/Books/Demon Slayer Vol 16.md",
-    "00 - Maps Of Contents/0 - Home.md",
     "02 - Areas/Python/Notes/02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value).md",
     "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables (Through User input).md",
     "03 - Resources/Attachments/Pasted image 20240815224637.png",
@@ -249,7 +253,6 @@
     "02 - Areas/Books/Demon Slayer Vol 14.md",
     "02 - Areas/Books/Demon Slayer Vol 12.md",
     "02 - Areas/Books/Demon Slayer Vol 11.md",
-    "02 - Areas/Books/Demon Slayer Vol 10.md",
     "03 - Resources/BookCovers/You’re the Password to My Life.jpg",
     "03 - Resources/BookCovers/The Triumph of the Sun.jpg",
     "03 - Resources/BookCovers/Dopamine Detox.jpg",
@@ -259,7 +262,6 @@
     "03 - Resources/BookCovers/Twenty Thousand Leagues Under the Sea.jpg",
     "03 - Resources/BookCovers/The Count of Monte Cristo.jpg",
     "03 - Resources/BookCovers",
-    "04 - Permanent/Proj 1",
     "00 - Map Of Contents/Home Page.canvas"
   ]
 }

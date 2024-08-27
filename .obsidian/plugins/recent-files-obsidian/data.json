@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 - SiH map of contents",
+      "path": "01 - Projects/SiH 2024/00 - SiH map of contents.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Three Musketeers",
       "path": "02 - Areas/Books/The Three Musketeers.md"
-    },
-    {
-      "basename": "Kidnapped",
-      "path": "02 - Areas/Books/Kidnapped.md"
     }
   ],
   "omittedPaths": [],
