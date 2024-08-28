@@ -3,6 +3,8 @@
 - [ ] images
 - [ ] flowchart of the methodology part
 - [ ] update references
+	- https://www.youtube.com/playlist?list=PLxYMaKXKMMcMgg4f47WkG7AM0bb3AyjTi
+	- https://nios.ac.in/media/documents/230-ISL/Indian-Sign-Language-230.pdf
 	- 
 ## Introduction
 
