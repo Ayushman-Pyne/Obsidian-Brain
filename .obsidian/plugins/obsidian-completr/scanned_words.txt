@@ -1200,6 +1200,8 @@ tune
 trained
 tutorials
 topics
+translation
+translates
 Switch
 Some
 Scratch
@@ -1521,6 +1523,10 @@ Speech
 Similar
 Schafer
 Specific
+Statement
+Sing
+Social
+Software
 EXCALIDRAW
 Elements
 Example
@@ -1784,6 +1790,7 @@ Extraction
 Engineering
 Each
 Engineer
+Empowerment
 VIEW
 Vitae
 Vault
@@ -2389,6 +2396,7 @@ insert
 import
 interpreter
 interpretation
+interpreting
 MORE
 My
 Movie
@@ -2635,6 +2643,8 @@ Machine
 Mediapipe
 Murtaza
 Methodology
+Ministry
+Miscellaneous
 OPTIONS
 OFF
 ON
@@ -2866,6 +2876,7 @@ Open
 OpenCV
 Optimization
 Optimize
+Organization
 menu
 made
 music
@@ -3841,6 +3852,7 @@ detected
 deploy
 devices
 directly
+deaf
 Drawing
 Date
 Define
@@ -4120,6 +4132,7 @@ Documentation
 Document
 Description
 Dojo
+Department
 Text
 The
 Type
@@ -4644,6 +4657,7 @@ guideline
 grayscale
 guide
 grounding
+gestures
 hello
 here
 homework
@@ -4941,6 +4955,8 @@ hTp
 hZL
 hybrid
 handling
+hard
+hearing
 loorem
 lecture
 level
@@ -5270,6 +5286,7 @@ landmarks
 library
 limited
 local
+languages
 cssclasses
 center
 costumes
@@ -6078,6 +6095,8 @@ Integrate
 Interface
 Interpretation
 Implementation
+ISL
+ISLRTC
 Links
 Lorem
 Learning
@@ -6909,6 +6928,8 @@ Crash
 Codebasics
 Corey
 ChatGPT
+Centre
+Category
 Week
 Well
 Wider
@@ -8311,6 +8332,7 @@ wVI
 wYu
 whvT
 web
+wit
 scratch
 soothing
 some
@@ -8805,6 +8827,7 @@ speech
 similar
 solid
 sentdex
+solution
 background
 backdrops
 border
@@ -11016,6 +11039,7 @@ JuRj
 JAe
 JdW
 JIQ
+Justice
 represent
 representing
 repeated
@@ -12141,6 +12165,7 @@ Preprocessing
 Prediction
 PyQt
 ProgrammingKnowledge
+Persons
 just
 journey
 jB
