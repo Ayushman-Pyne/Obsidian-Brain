@@ -4,6 +4,27 @@ tags:
 cssclasses:
   - center-titles
 ---
+
+Problem Statement ID
+
+1716
+
+Problem Statement Title
+
+Indian Sing Language to Text/Speech translation
+
+Description
+
+Create a solution that translates Indian Sign Language (ISL) into text and speech in real-time, facilitating communication for the deaf and hard-of-hearing community with the hearing world. The application should be capable of recognizing and interpreting a comprehensive library of ISL signs and gestures, and then provide accurate text and speech output in multiple Indian languages.
+
+Organization
+Ministry of Social Justice and Empowerment Department "Indian Sign Language Research and Training Centre (ISLRTC) Department of Empowerment of Persons wit
+Category
+Software
+Theme
+Miscellaneous
+
+
 # 00 - SiH map of contents
 
 Here's a step-by-step guideline to approach building a sign language interpreter using the tools you've mentioned:
