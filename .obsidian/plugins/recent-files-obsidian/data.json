@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "01 - SiH Documentation",
+      "path": "01 - SiH Documentation.md"
+    },
+    {
       "basename": "00 - SiH map of contents",
       "path": "01 - Projects/SiH 2024/00 - SiH map of contents.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Count of Monte Cristo",
       "path": "02 - Areas/Books/The Count of Monte Cristo.md"
-    },
-    {
-      "basename": "The Three Musketeers",
-      "path": "02 - Areas/Books/The Three Musketeers.md"
     }
   ],
   "omittedPaths": [],
