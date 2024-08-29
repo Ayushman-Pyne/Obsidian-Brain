@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/SiH 2024/01 - SiH Documentation.md"
+                "file": "00 - Maps Of Contents/0 - Home.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/SiH 2024/01 - SiH Documentation.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/SiH 2024/01 - SiH Documentation.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,10 +225,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "f809fd62054faa9f",
+  "active": "88723987b3e9a737",
   "lastOpenFiles": [
-    "01 - Projects/SiH 2024/00 - SiH map of contents.md",
     "01 - Projects/SiH 2024/01 - SiH Documentation.md",
+    "01 - Projects/SiH 2024/00 - SiH map of contents.md",
     "00 - Maps Of Contents/0 - Home.md",
     "00 - Maps Of Contents/Python.md",
     "01 - Projects/SiH 2024",
