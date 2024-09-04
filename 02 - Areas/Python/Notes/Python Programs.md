@@ -84,14 +84,24 @@ cssclasses:
 	- OUTPUT: Time in seconds:4326 
 - ![[Pasted image 20240905021334.png]]
 #### 17. WAP to input three integers and find their sum, without using the mathematical operator + 
+- ![[Pasted image 20240905022054.png]]
+#### 18. WAP to enter the perimeter of a square and find its perimeter. 
+- For Example, 
+	- INPUT: Enter the perimeter of a square: 64 
+	- OUTPUT: Area of the square is: 256 
+- ![[Pasted image 20240905022430.png]]
+#### 19. WAP to enter the length and area of a rectangle and find its perimeter. 
+- For Example, 
+	- INPUT: 
+		- Enter the length of the rectangle:12 
+		- Enter the area of the rectangle: 72 
+	- OUTPUT: Perimeter of the rectangle:36.0 
 - 
-2. WAP to enter the perimeter of a square and find its perimeter. For Example, INPUT: Enter the perimeter of a square: 64 OUTPUT: Area of the square is: 256 
-3. WAP to enter the length and area of a rectangle and find its perimeter. For Example, INPUT: Enter the length of the rectangle:12 Enter the area of the rectangle: 72 OUTPUT: Perimeter of the rectangle:36.0 
-4. WAP to input the Basic Pay of an employee and find the gross pay of the employee for the following allowances and deductions. Dearness Allowance = 25% of Basic Pay House Rent Allowance=15% of Basic Pay Provident Fund=8.33% of Basic Pay Net Pay=Basic Pay + Dearness Allowance + House Rent Allowance Gross Pay= Net Pay – Provident Fund 
-5. WAP to input the dimensions of a rectangle and find the area of that square whose perimeter is equal to the perimeter of the rectangle. 
-6. WAP to input an integer and if positive change it to negative and if negative change it to positive. INPUT: Enter an integer: 12 OUTPUT: Sign changed:-12 INPUT: Enter an integer: -14 OUTPUT: Sign changed: 14 
-7. If the marks obtained by a student in five different subjects are input through the keyboard, WAP to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100. 
-8. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
+1. WAP to input the Basic Pay of an employee and find the gross pay of the employee for the following allowances and deductions. Dearness Allowance = 25% of Basic Pay House Rent Allowance=15% of Basic Pay Provident Fund=8.33% of Basic Pay Net Pay=Basic Pay + Dearness Allowance + House Rent Allowance Gross Pay= Net Pay – Provident Fund 
+2. WAP to input the dimensions of a rectangle and find the area of that square whose perimeter is equal to the perimeter of the rectangle. 
+3. WAP to input an integer and if positive change it to negative and if negative change it to positive. INPUT: Enter an integer: 12 OUTPUT: Sign changed:-12 INPUT: Enter an integer: -14 OUTPUT: Sign changed: 14 
+4. If the marks obtained by a student in five different subjects are input through the keyboard, WAP to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100. 
+5. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
 ## MATHEMATICAL METHODS 
 1. WAP to input the area of a square and find its perimeter. 
 2. WAP to input the length and breadth of a rectangle and find its diagonal. 
