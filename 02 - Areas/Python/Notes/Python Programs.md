@@ -5,19 +5,21 @@ tags:
   - BTech
 cssclasses:
   - center-h1
+  -  center-images
 ---
 # Python Programs
 ## INPUT AND OUTPUT
 
-1. WAP to input two integers using Parameters and find their Sum and product
-	- ![[Pasted image 20240905011310.png]]
-	- 
-3. WAP to input five integers and find their average. 
+#### 1. WAP to input two integers using Parameters and find their Sum and product
+- ![[Pasted image 20240905011310.png]]
+#### 2. WAP to input five integers and find their average. 
 - ![[Pasted image 20240905011731.png]]
-5. WAP to input two integers using Scanner and find the product of their sum and difference. 
-   - 
-6. WAP to input three integers and find the difference between their sum and their average. 
-7. WAP to input the Principal, Rate and Time for a certain amount of money and print the Simple Interest. 
+#### 3. WAP to input two integers using Scanner and find the product of their sum and difference. 
+- 
+#### 4. WAP to input three integers and find the difference between their sum and their average. 
+- ![[Pasted image 20240905013040.png]]
+#### 5. WAP to input the Principal, Rate and Time for a certain amount of money and print the Simple Interest. 
+- 
 8. WAP to input the length and breadth of a rectangle and find its area and perimeter. Note: Area of a rectangle=length*breadth Perimeter of a rectangle=2*(length + breadth) 
 9. WAP to input the radius of a circle and find its area and perimeter. Note: Area of a circle=22/7* radius2 Circumference of a circle= 2 * 22/7 * radius 
 10. WAP to input the length, breadth and height of a cuboid and find its Volume and Total Surface Area. Note: Volume of a cuboid= length*breadth*height Total Surface Area=2*(length*breadth +breadth* height + height*length) 
