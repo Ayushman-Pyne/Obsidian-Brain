@@ -103,11 +103,17 @@ cssclasses:
 - Provident Fund=8.33% of Basic Pay 
 - Net Pay=Basic Pay + Dearness Allowance + House Rent Allowance 
 - Gross Pay= Net Pay – Provident Fund 
+- ![[Pasted image 20240905023907.png]]
+#### 21. WAP to input the dimensions of a rectangle and find the area of that square whose perimeter is equal to the perimeter of the rectangle. 
+- ![[Pasted image 20240905024337.png]]
+#### 22. WAP to input an integer and if positive change it to negative and if negative change it to positive. 
+- INPUT: Enter an integer: 12 
+- OUTPUT: Sign changed:-12 
+- INPUT: Enter an integer: -14 
+- OUTPUT: Sign changed: 14 
 - 
-1. WAP to input the dimensions of a rectangle and find the area of that square whose perimeter is equal to the perimeter of the rectangle. 
-2. WAP to input an integer and if positive change it to negative and if negative change it to positive. INPUT: Enter an integer: 12 OUTPUT: Sign changed:-12 INPUT: Enter an integer: -14 OUTPUT: Sign changed: 14 
-3. If the marks obtained by a student in five different subjects are input through the keyboard, WAP to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100. 
-4. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
+1. If the marks obtained by a student in five different subjects are input through the keyboard, WAP to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100. 
+2. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
 ## MATHEMATICAL METHODS 
 1. WAP to input the area of a square and find its perimeter. 
 2. WAP to input the length and breadth of a rectangle and find its diagonal. 
