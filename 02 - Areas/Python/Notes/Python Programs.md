@@ -111,9 +111,11 @@ cssclasses:
 - OUTPUT: Sign changed:-12 
 - INPUT: Enter an integer: -14 
 - OUTPUT: Sign changed: 14 
+- ![[Pasted image 20240905024833.png]]
+#### 23. If the marks obtained by a student in five different subjects are input through the keyboard, WAP to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100.
+- ![[Pasted image 20240905025420.png]]
+#### 24. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
 - 
-1. If the marks obtained by a student in five different subjects are input through the keyboard, WAP to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100. 
-2. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
 ## MATHEMATICAL METHODS 
 1. WAP to input the area of a square and find its perimeter. 
 2. WAP to input the length and breadth of a rectangle and find its diagonal. 
