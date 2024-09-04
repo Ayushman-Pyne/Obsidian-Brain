@@ -74,7 +74,7 @@ cssclasses:
 	- INPUT: Enter two integers: 15 36 
 	- OUTPUT: Before interchange: a=15 and b=36 after interchange: a=36 and b=15 
 	- Please note that you can take just one variable other than a and b for interchanging. 
-- 
+- ![[Pasted image 20240905021334.png]]
 #### 16. WAP to input the time in hours, minutes and seconds and print it in seconds. 
 - For Example: 
 	- INPUT: 
@@ -82,7 +82,7 @@ cssclasses:
 		- Enter time in minutes: 12 
 		- Enter time in seconds: 6 
 	- OUTPUT: Time in seconds:4326 
-- ![[Pasted image 20240905021334.png]]
+- ![[Pasted image 20240905030217.png]]
 #### 17. WAP to input three integers and find their sum, without using the mathematical operator + 
 - ![[Pasted image 20240905022054.png]]
 #### 18. WAP to enter the perimeter of a square and find its perimeter. 
@@ -115,7 +115,7 @@ cssclasses:
 #### 23. If the marks obtained by a student in five different subjects are input through the keyboard, WAP to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100.
 - ![[Pasted image 20240905025420.png]]
 #### 24. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
-- 
+- ![[Pasted image 20240905025844.png]]
 ## MATHEMATICAL METHODS 
 1. WAP to input the area of a square and find its perimeter. 
 2. WAP to input the length and breadth of a rectangle and find its diagonal. 
