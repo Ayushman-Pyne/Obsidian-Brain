@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
+      "basename": "Python Programs",
+      "path": "02 - Areas/Python/Notes/Python Programs.md"
+    },
+    {
+      "basename": "pylist",
+      "path": "02 - Areas/Python/pylist.pdf"
+    },
+    {
+      "basename": "question list sem 1",
+      "path": "02 - Areas/Python/question list sem 1.pdf"
     },
     {
       "basename": "03 - SiH References",
       "path": "01 - Projects/SiH 2024/03 - SiH References.md"
+    },
+    {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "01 - SiH Documentation",
@@ -63,18 +75,6 @@
     {
       "basename": "Demon Slayer Vol 16",
       "path": "02 - Areas/Books/Demon Slayer Vol 16.md"
-    },
-    {
-      "basename": "02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value)",
-      "path": "02 - Areas/Python/Notes/02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value).md"
-    },
-    {
-      "basename": "01 - WAP to perform arithmetic operations (and average) between two variables (Through User input)",
-      "path": "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables (Through User input).md"
-    },
-    {
-      "basename": "question list sem 1",
-      "path": "02 - Areas/Python/question list sem 1.pdf"
     },
     {
       "basename": "Program Note Template",
