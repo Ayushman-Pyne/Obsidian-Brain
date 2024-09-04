@@ -54,19 +54,44 @@ cssclasses:
 		- Time in hours: 1 
 		- Time in minutes: 12 
 		- Time in seconds: 6 
+- ![[Pasted image 20240905020600.png]]
+#### 13. WAP to input a floating point number and round it off to the nearest integer. 
+- For Example: 
+	- INPUT: Enter a floating point number: 12.3 \
+	- OUTPUT: Rounded off to nearest integer:12 
+	- INPUT: Enter a floating point number: 14.5 
+	- OUTPUT: Rounded off to two places of decimal:15 
 - 
-1. WAP to input a floating point number and round it off to the nearest integer. For Example: INPUT: Enter a floating point number: 12.3 OUTPUT: Rounded off to nearest integer:12 INPUT: Enter a floating point number: 14.5 OUTPUT: Rounded off to two places of decimal:15 
-2. WAP to input a floating point number and round it off to two places of decimal. For Example: INPUT: Enter a floating point number: 12.367 OUTPUT: Rounded off to two places of decimal:12.37 INPUT: Enter a floating point number: 14.563 OUTPUT: Rounded off to two places of decimal:14.56 
-3. WAP to input two integers (say a and b) and interchange their values and display the result. For Example: INPUT: Enter two integers: 15 36 OUTPUT: Before interchange: a=15 and b=36 after interchange: a=36 and b=15 Please note that you can take just one variable other than a and b for interchanging. 
-4. WAP to input the time in hours, minutes and seconds and print it in seconds. For Example: INPUT: Enter time in hours: 1 Enter time in minutes: 12 Enter time in seconds: 6 OUTPUT: Time in seconds:4326 
-5. WAP to input three integers and find their sum, without using the mathematical operator + 
-6. WAP to enter the perimeter of a square and find its perimeter. For Example, INPUT: Enter the perimeter of a square: 64 OUTPUT: Area of the square is: 256 
-7. WAP to enter the length and area of a rectangle and find its perimeter. For Example, INPUT: Enter the length of the rectangle:12 Enter the area of the rectangle: 72 OUTPUT: Perimeter of the rectangle:36.0 
-8. WAP to input the Basic Pay of an employee and find the gross pay of the employee for the following allowances and deductions. Dearness Allowance = 25% of Basic Pay House Rent Allowance=15% of Basic Pay Provident Fund=8.33% of Basic Pay Net Pay=Basic Pay + Dearness Allowance + House Rent Allowance Gross Pay= Net Pay – Provident Fund 
-9. WAP to input the dimensions of a rectangle and find the area of that square whose perimeter is equal to the perimeter of the rectangle. 
-10. WAP to input an integer and if positive change it to negative and if negative change it to positive. INPUT: Enter an integer: 12 OUTPUT: Sign changed:-12 INPUT: Enter an integer: -14 OUTPUT: Sign changed: 14 
-11. If the marks obtained by a student in five different subjects are input through the keyboard, WAP to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100. 
-12. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
+#### 14. WAP to input a floating point number and round it off to two places of decimal. 
+- For Example: 
+	- INPUT: Enter a floating point number: 12.367 
+	- OUTPUT: Rounded off to two places of decimal:12.37 
+	- INPUT: Enter a floating point number: 14.563 
+	- OUTPUT: Rounded off to two places of decimal:14.56 
+- 
+#### 15. WAP to input two integers (say a and b) and interchange their values and display the result.(using third variable)
+- For Example: 
+	- INPUT: Enter two integers: 15 36 
+	- OUTPUT: Before interchange: a=15 and b=36 after interchange: a=36 and b=15 
+	- Please note that you can take just one variable other than a and b for interchanging. 
+- 
+#### 16. WAP to input the time in hours, minutes and seconds and print it in seconds. 
+- For Example: 
+	- INPUT: 
+		- Enter time in hours: 1 
+		- Enter time in minutes: 12 
+		- Enter time in seconds: 6 
+	- OUTPUT: Time in seconds:4326 
+- ![[Pasted image 20240905021334.png]]
+#### 17. WAP to input three integers and find their sum, without using the mathematical operator + 
+- 
+2. WAP to enter the perimeter of a square and find its perimeter. For Example, INPUT: Enter the perimeter of a square: 64 OUTPUT: Area of the square is: 256 
+3. WAP to enter the length and area of a rectangle and find its perimeter. For Example, INPUT: Enter the length of the rectangle:12 Enter the area of the rectangle: 72 OUTPUT: Perimeter of the rectangle:36.0 
+4. WAP to input the Basic Pay of an employee and find the gross pay of the employee for the following allowances and deductions. Dearness Allowance = 25% of Basic Pay House Rent Allowance=15% of Basic Pay Provident Fund=8.33% of Basic Pay Net Pay=Basic Pay + Dearness Allowance + House Rent Allowance Gross Pay= Net Pay – Provident Fund 
+5. WAP to input the dimensions of a rectangle and find the area of that square whose perimeter is equal to the perimeter of the rectangle. 
+6. WAP to input an integer and if positive change it to negative and if negative change it to positive. INPUT: Enter an integer: 12 OUTPUT: Sign changed:-12 INPUT: Enter an integer: -14 OUTPUT: Sign changed: 14 
+7. If the marks obtained by a student in five different subjects are input through the keyboard, WAP to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100. 
+8. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
 ## MATHEMATICAL METHODS 
 1. WAP to input the area of a square and find its perimeter. 
 2. WAP to input the length and breadth of a rectangle and find its diagonal. 
