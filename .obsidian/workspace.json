@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "4106027c10d894f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/SiH 2024/03 - SiH References.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7ef447a90623fbe6",
             "type": "leaf",
             "state": {
@@ -227,9 +240,10 @@
   },
   "active": "88723987b3e9a737",
   "lastOpenFiles": [
+    "00 - Maps Of Contents/0 - Home.md",
+    "01 - Projects/SiH 2024/03 - SiH References.md",
     "01 - Projects/SiH 2024/01 - SiH Documentation.md",
     "01 - Projects/SiH 2024/00 - SiH map of contents.md",
-    "00 - Maps Of Contents/0 - Home.md",
     "00 - Maps Of Contents/Python.md",
     "01 - Projects/SiH 2024",
     "00 - Maps Of Contents/Books.md",
@@ -263,7 +277,6 @@
     "02 - Areas/Books/Demon Slayer Vol 15.md",
     "02 - Areas/Books/Demon Slayer Vol 13.md",
     "02 - Areas/Books/Demon Slayer Vol 14.md",
-    "02 - Areas/Books/Demon Slayer Vol 12.md",
     "03 - Resources/BookCovers/You’re the Password to My Life.jpg",
     "03 - Resources/BookCovers/The Triumph of the Sun.jpg",
     "03 - Resources/BookCovers/Dopamine Detox.jpg",

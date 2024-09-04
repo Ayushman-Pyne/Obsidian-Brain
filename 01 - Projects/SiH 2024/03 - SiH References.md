@@ -1,0 +1,6 @@
+- [Real Time Sign Language Detection with Tensorflow Object Detection and Python | Deep Learning SSD - YouTube](https://www.youtube.com/watch?v=pDXdlXlaCco)
+- [Sign language detection with Python and Scikit Learn | Landmark detection | Computer vision tutorial (youtube.com)](https://www.youtube.com/watch?v=MJCSjXepaAM&t=45s)
+- [AI Hand Pose Estimation with MediaPipe and Python - YouTube](https://www.youtube.com/watch?v=vQZ4IvB07ec)
+- [Sign Language to Text Project demo using Convolutional Neural Networks - YouTube](https://www.youtube.com/watch?v=aU5-8XJrxwY&t=2s)
+	- [luvk1412/Sign-Language-to-Text: A python based app which can convert the shown sign language using hand to text in real time (github.com)](https://github.com/luvk1412/Sign-Language-to-Text)
+	- 

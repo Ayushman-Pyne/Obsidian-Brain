@@ -5,6 +5,10 @@
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
+      "basename": "03 - SiH References",
+      "path": "01 - Projects/SiH 2024/03 - SiH References.md"
+    },
+    {
       "basename": "01 - SiH Documentation",
       "path": "01 - Projects/SiH 2024/01 - SiH Documentation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Twenty Thousand Leagues Under the Sea",
       "path": "02 - Areas/Books/Twenty Thousand Leagues Under the Sea.md"
-    },
-    {
-      "basename": "The Count of Monte Cristo",
-      "path": "02 - Areas/Books/The Count of Monte Cristo.md"
     }
   ],
   "omittedPaths": [],
