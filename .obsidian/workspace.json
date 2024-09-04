@@ -6,7 +6,6 @@
       {
         "id": "83b33caada137833",
         "type": "tabs",
-        "dimension": 49.4136460554371,
         "children": [
           {
             "id": "73f0a59ecb7fe53c",
@@ -18,23 +17,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "831cb337bf7fd56d",
-        "type": "tabs",
-        "dimension": 50.5863539445629,
-        "children": [
-          {
-            "id": "14ec798762327677",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Areas/Python/pylist.pdf"
               }
             }
           }
@@ -88,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "a370b92b12670430",
@@ -220,6 +201,9 @@
   },
   "active": "73f0a59ecb7fe53c",
   "lastOpenFiles": [
+    "02 - Areas/Python/Programs/Pasted image 20240905011310.png",
+    "02 - Areas/Python/Programs/Pasted image 20240905011137.png",
+    "02 - Areas/Python/Programs",
     "02 - Areas/Python/pylist.pdf",
     "02 - Areas/Python/Notes/Python Programs.md",
     "02 - Areas/Python/question list sem 1.pdf",
@@ -255,7 +239,6 @@
     "02 - Areas/Python/Programs/01 - WAP to perform arithmatic operations (and average) between two variables",
     "02 - Areas/Python/Notes",
     "02 - Areas/Python/Programs",
-    "02 - Areas/Python",
     "02 - Areas/Books/Demon Slayer Vol 15.md",
     "03 - Resources/BookCovers/You’re the Password to My Life.jpg",
     "03 - Resources/BookCovers/The Triumph of the Sun.jpg",
@@ -264,7 +247,6 @@
     "03 - Resources/BookCovers/Gilead.jpg",
     "03 - Resources/BookCovers/Robinson Crusoe.jpg",
     "03 - Resources/BookCovers/Twenty Thousand Leagues Under the Sea.jpg",
-    "03 - Resources/BookCovers/The Count of Monte Cristo.jpg",
     "00 - Map Of Contents/Home Page.canvas"
   ]
 }
