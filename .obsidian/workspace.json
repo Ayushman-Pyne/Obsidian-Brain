@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73f0a59ecb7fe53c",
+            "id": "12ece14965f754f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/CS50X/Week 1 - C.md",
+                "file": "02 - Areas/Python/Notes/Python Programs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffc9b85570a22737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/CS50X/Week 0 - Scratch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/CS50X/Week 1 - C.md"
+                "file": "01 - Projects/CS50X/Week 0 - Scratch.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/CS50X/Week 1 - C.md",
+                "file": "01 - Projects/CS50X/Week 0 - Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/CS50X/Week 1 - C.md",
+                "file": "01 - Projects/CS50X/Week 0 - Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,13 +213,16 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "73f0a59ecb7fe53c",
+  "active": "ffc9b85570a22737",
   "lastOpenFiles": [
+    "02 - Areas/Python/Notes/Python Programs.md",
+    "02 - Areas/Python/Programs/Pasted image 20240905122714.png",
+    "00 - Maps Of Contents/Python.md",
+    "00 - Maps Of Contents/0 - Home.md",
+    "01 - Projects/CS50X/Week 1 - C.md",
     "01 - Projects/CS50X/Week 0 - Scratch.md",
     "00 - Maps Of Contents/Books.md",
-    "02 - Areas/Python/Notes/Python Programs.md",
     "02 - Areas/Books/Demon Slayer Vol 19.md",
-    "00 - Maps Of Contents/0 - Home.md",
     "02 - Areas/Books/Demon Slayer Vol 20.md",
     "02 - Areas/Books/Eclipse.md",
     "02 - Areas/Books/It.md",
@@ -218,7 +235,6 @@
     "02 - Areas/Python/Programs/Pasted image 20240905023226.png",
     "02 - Areas/Python/Programs/Pasted image 20240905022430.png",
     "02 - Areas/Python/Programs/Pasted image 20240905022054.png",
-    "02 - Areas/Python/Programs/Pasted image 20240905021334.png",
     "02 - Areas/Python/Programs",
     "02 - Areas/Python/pylist.pdf",
     "02 - Areas/Python/question list sem 1.pdf",
@@ -226,7 +242,6 @@
     "02 - Areas/Python/Notes/01 - WAP to perform arithmetic operations (and average) between two variables (Through User input).md",
     "01 - Projects/SiH 2024/01 - SiH Documentation.md",
     "01 - Projects/SiH 2024/00 - SiH map of contents.md",
-    "00 - Maps Of Contents/Python.md",
     "01 - Projects/SiH 2024",
     "02 - Areas/Books/Demon Slayer Vol 18.md",
     "02 - Areas/Books/Demon Slayer Vol 17.md",
@@ -239,8 +254,6 @@
     "02 - Areas/Books/Demon Slayer Vol 16.md",
     "02 - Areas/Python/Notes/02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value).md",
     "01 - WAP to perform arithmetic operations (and average) between two variables (.md",
-    "99 - Meta/Program Note Template.md",
-    "99 - Meta/Book Template.md",
     "02 - Areas/Python/Programs/test.py",
     "02 - Areas/Python/Programs/01 - WAP to perform arithmatic operations (and average) between two variables/ExplicitlyPutTheValue.py",
     "02 - Areas/Python/Programs/01 - WAP to perform arithmatic operations (and average) between two variables/throughUserInput.py",

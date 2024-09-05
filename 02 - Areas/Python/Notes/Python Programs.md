@@ -117,8 +117,10 @@ cssclasses:
 #### 24. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, WAP to find the cost price of one item. 
 - ![[Pasted image 20240905025844.png]]
 ## MATHEMATICAL METHODS 
-1. WAP to input the area of a square and find its perimeter. 
-2. WAP to input the length and breadth of a rectangle and find its diagonal. 
+#### 1. WAP to input the area of a square and find its perimeter. 
+- ![[Pasted image 20240905122714.png]]
+#### 2. WAP to input the length and breadth of a rectangle and find its diagonal. 
+- 
 3. WAP that outputs the results of the following evaluations based on the number entered by the user. i. Cube root of the number ii. Absolute value of the number iii. Square root of the number iv. Random numbers between 0 and 1. 
 4. WAP to input the radius of a circle and find its area and circumference. 
 5. WAP to input the area of a circle and find its circumference. 
