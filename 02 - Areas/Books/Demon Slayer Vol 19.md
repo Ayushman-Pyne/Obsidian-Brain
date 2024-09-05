@@ -2,7 +2,7 @@
 title: Demon Slayer Vol. 19
 author: Koyoharu Gotouge,Ryoji Hirano
 series: Kimetsu no Yaiba
-bookNo: 18
+bookNo: 19
 category: Comics & Graphic Novels
 publisher: VIZ Media LLC
 publishdate: 2020-12-01
@@ -11,7 +11,7 @@ cover: http://books.google.com/books/content?id=uZUJEAAAQBAJ&printsec=frontcover
 rating: 
 date read: 
 status:
-  - Ongoing
+  - Finished
 cssclasses:
   - center-h1
 ---

@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
+      "basename": "Week 1 - C",
+      "path": "01 - Projects/CS50X/Week 1 - C.md"
+    },
+    {
+      "basename": "Week 0 - Scratch",
+      "path": "01 - Projects/CS50X/Week 0 - Scratch.md"
+    },
+    {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "Python Programs",
       "path": "02 - Areas/Python/Notes/Python Programs.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 19",
+      "path": "02 - Areas/Books/Demon Slayer Vol 19.md"
+    },
+    {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 20",
+      "path": "02 - Areas/Books/Demon Slayer Vol 20.md"
+    },
+    {
+      "basename": "Eclipse",
+      "path": "02 - Areas/Books/Eclipse.md"
+    },
+    {
+      "basename": "It",
+      "path": "02 - Areas/Books/It.md"
     },
     {
       "basename": "pylist",
@@ -31,14 +59,6 @@
     {
       "basename": "Python",
       "path": "00 - Maps Of Contents/Python.md"
-    },
-    {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 19",
-      "path": "02 - Areas/Books/Demon Slayer Vol 19.md"
     },
     {
       "basename": "Demon Slayer Vol 18",
@@ -179,26 +199,6 @@
     {
       "basename": "Master Your Emotions",
       "path": "02 - Areas/Books/Master Your Emotions.md"
-    },
-    {
-      "basename": "Dopamine Detox",
-      "path": "02 - Areas/Books/Dopamine Detox.md"
-    },
-    {
-      "basename": "The Psychology of Money",
-      "path": "02 - Areas/Books/The Psychology of Money.md"
-    },
-    {
-      "basename": "Gilead",
-      "path": "02 - Areas/Books/Gilead.md"
-    },
-    {
-      "basename": "Robinson Crusoe",
-      "path": "02 - Areas/Books/Robinson Crusoe.md"
-    },
-    {
-      "basename": "Twenty Thousand Leagues Under the Sea",
-      "path": "02 - Areas/Books/Twenty Thousand Leagues Under the Sea.md"
     }
   ],
   "omittedPaths": [],

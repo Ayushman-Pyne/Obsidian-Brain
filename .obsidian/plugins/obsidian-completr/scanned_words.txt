@@ -1605,6 +1605,7 @@ SLAlE
 Sum
 Scanner
 Seconds
+Saga
 EXCALIDRAW
 Elements
 Example
