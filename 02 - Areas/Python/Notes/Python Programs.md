@@ -120,16 +120,23 @@ cssclasses:
 #### 1. WAP to input the area of a square and find its perimeter. 
 - ![[Pasted image 20240905122714.png]]
 #### 2. WAP to input the length and breadth of a rectangle and find its diagonal. 
+- ![[Pasted image 20240905123515.png]]
+
+#### 3. WAP that outputs the results of the following evaluations based on the number entered by the user. 
+- Cube root of the number 
+- Absolute value of the number 
+- Square root of the number 
+- Random numbers between 0 and 1. 
 - 
-3. WAP that outputs the results of the following evaluations based on the number entered by the user. i. Cube root of the number ii. Absolute value of the number iii. Square root of the number iv. Random numbers between 0 and 1. 
-4. WAP to input the radius of a circle and find its area and circumference. 
-5. WAP to input the area of a circle and find its circumference. 
-6. WAP to input three integers and find the sum of their cube roots. 
-7. WAP to input the principal, rate and time and find the compound interest. 
-8. WAP to input the three sides of a triangle and find the perimeter and area of the triangle. If a, b and c are the 3 sides then, Perimeter=a + b + c 
-9. WAP to input a real number (floating point number) and round it off to 2 places of decimal. For example, Input: 4.3678 Output: 4.37 Input: 24.3123 Output: 24.31 
-10. WAP to input the length and breadth of a rectangle and find the perimeter of that square whose area is same as the area of the rectangle. 
-11. WAP to input three integers and find the sum of the cube roots of their last digits.
+#### 4. WAP to input the radius of a circle and find its area and circumference. 
+- 
+3. WAP to input the area of a circle and find its circumference. 
+4. WAP to input three integers and find the sum of their cube roots. 
+5. WAP to input the principal, rate and time and find the compound interest. 
+6. WAP to input the three sides of a triangle and find the perimeter and area of the triangle. If a, b and c are the 3 sides then, Perimeter=a + b + c 
+7. WAP to input a real number (floating point number) and round it off to 2 places of decimal. For example, Input: 4.3678 Output: 4.37 Input: 24.3123 Output: 24.31 
+8. WAP to input the length and breadth of a rectangle and find the perimeter of that square whose area is same as the area of the rectangle. 
+9. WAP to input three integers and find the sum of the cube roots of their last digits.
 
 ## References
 - [[pylist.pdf]]
