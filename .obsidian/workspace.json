@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "02 - Areas/Python/Notes/Python Programs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "02 - Areas/Python/Notes/Python Programs.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "02 - Areas/Python/Notes/Python Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "02 - Areas/Python/Notes/Python Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +215,9 @@
   },
   "active": "ecde306da2a903e5",
   "lastOpenFiles": [
+    "02 - Areas/Python/Programs/Pasted image 20240910004206.png",
+    "02 - Areas/Python/Programs/Pasted image 20240910004106.png",
+    "00 - Maps Of Contents/0 - Home.md",
     "02 - Areas/Python/Notes/Python Programs.md",
     "02 - Areas/Python/Programs/Pasted image 20240905124335.png",
     "02 - Areas/Python/Programs/Pasted image 20240905124025.png",
@@ -222,7 +225,6 @@
     "01 - Projects/CS50X/Week 0 - Scratch.md",
     "02 - Areas/Python/Programs/Pasted image 20240905122714.png",
     "00 - Maps Of Contents/Python.md",
-    "00 - Maps Of Contents/0 - Home.md",
     "01 - Projects/CS50X/Week 1 - C.md",
     "00 - Maps Of Contents/Books.md",
     "02 - Areas/Books/Demon Slayer Vol 19.md",
@@ -234,7 +236,6 @@
     "02 - Areas/Python/Programs/Pasted image 20240905025420.png",
     "02 - Areas/Python/Programs/Pasted image 20240905024833.png",
     "02 - Areas/Python/Programs/Pasted image 20240905024337.png",
-    "02 - Areas/Python/Programs/Pasted image 20240905023907.png",
     "02 - Areas/Python/Programs",
     "02 - Areas/Python/pylist.pdf",
     "02 - Areas/Python/question list sem 1.pdf",

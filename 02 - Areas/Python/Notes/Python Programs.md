@@ -15,7 +15,7 @@ cssclasses:
 #### 2. WAP to input five integers and find their average. 
 - ![[Pasted image 20240905011731.png]]
 #### 3. WAP to input two integers using Scanner and find the product of their sum and difference. 
-- 
+- question for java not python
 #### 4. WAP to input three integers and find the difference between their sum and their average. 
 - ![[Pasted image 20240905013040.png]]
 #### 5. WAP to input the Principal, Rate and Time for a certain amount of money and print the Simple Interest. 
@@ -61,14 +61,14 @@ cssclasses:
 	- OUTPUT: Rounded off to nearest integer:12 
 	- INPUT: Enter a floating point number: 14.5 
 	- OUTPUT: Rounded off to two places of decimal:15 
-- 
+- ![[Pasted image 20240910004106.png]]
 #### 14. WAP to input a floating point number and round it off to two places of decimal. 
 - For Example: 
 	- INPUT: Enter a floating point number: 12.367 
 	- OUTPUT: Rounded off to two places of decimal:12.37 
 	- INPUT: Enter a floating point number: 14.563 
 	- OUTPUT: Rounded off to two places of decimal:14.56 
-- 
+- ![[Pasted image 20240910004206.png]]
 #### 15. WAP to input two integers (say a and b) and interchange their values and display the result.(using third variable)
 - For Example: 
 	- INPUT: Enter two integers: 15 36 
