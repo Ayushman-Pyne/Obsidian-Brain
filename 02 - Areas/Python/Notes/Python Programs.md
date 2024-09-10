@@ -139,10 +139,17 @@ cssclasses:
 - $$A = P \left(1 + \frac{r}{100}\right)^{t}\ \ \ \ \ \ \ \ \ \ \ \ \ \ CI = A-P $$
 - ![[Pasted image 20240910144745.png]]
 #### 8. WAP to input the three sides of a triangle and find the perimeter and area of the triangle. If a, b and c are the 3 sides then, Perimeter=a + b + c $$A = \sqrt{s(s-a)(s-b)(s-c)}$$
+- ![[Pasted image 20240910202952.png]]
+#### 9. WAP to input a real number (floating point number) and round it off to 2 places of decimal. 
+- For example, 
+	- Input: 4.3678 
+	- Output: 4.37 
+	- Input: 24.3123 
+	- Output: 24.31 
+- ![[Pasted image 20240910203143.png]]
+#### 10. WAP to input the length and breadth of a rectangle and find the perimeter of that square whose area is same as the area of the rectangle. 
 - 
-2. WAP to input a real number (floating point number) and round it off to 2 places of decimal. For example, Input: 4.3678 Output: 4.37 Input: 24.3123 Output: 24.31 
-3. WAP to input the length and breadth of a rectangle and find the perimeter of that square whose area is same as the area of the rectangle. 
-4. WAP to input three integers and find the sum of the cube roots of their last digits.
+2. WAP to input three integers and find the sum of the cube roots of their last digits.
 
 ## References
 - [[pylist.pdf]]
