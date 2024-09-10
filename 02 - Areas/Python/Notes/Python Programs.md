@@ -150,7 +150,7 @@ cssclasses:
 #### 10. WAP to input the length and breadth of a rectangle and find the perimeter of that square whose area is same as the area of the rectangle. 
 - ![[Pasted image 20240910203830.png]]
 #### 11. WAP to input three integers and find the sum of the cube roots of their last digits.
-- 
+- ![[Pasted image 20240910204324.png]]
 
 ## References
 - [[pylist.pdf]]

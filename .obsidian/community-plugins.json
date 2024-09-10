@@ -14,5 +14,6 @@
   "obsidian-qrcode-plugin",
   "obsidian-book-search-plugin",
   "dataview",
-  "quick-latex"
+  "quick-latex",
+  "better-export-pdf"
 ]
