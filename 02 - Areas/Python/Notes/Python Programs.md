@@ -127,7 +127,7 @@ cssclasses:
 - Absolute value of the number 
 - Square root of the number 
 - Random numbers between 0 and 1. 
-- 
+- ![[Pasted image 20240910010749.png|400]]
 #### 4. WAP to input the radius of a circle and find its area and circumference. 
 - ![[Pasted image 20240905124025.png]]
 - 
