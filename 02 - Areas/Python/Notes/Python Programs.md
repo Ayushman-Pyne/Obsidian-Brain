@@ -136,7 +136,7 @@ cssclasses:
 #### 6. WAP to input three integers and find the sum of their cube roots. 
 - ![[Pasted image 20240910144336.png]]
 #### 7. WAP to input the principal, rate and time and find the compound interest. 
-- $$A = $$
+- $$A = P \left(1 + \frac{r}{100}\right)^{t}\ \ \ \ \ \ \ \ \ \ \ \ \ \ CI = A-P $$
 - ![[Pasted image 20240910144745.png]]
 #### 8. WAP to input the three sides of a triangle and find the perimeter and area of the triangle. If a, b and c are the 3 sides then, Perimeter=a + b + c $$A = \sqrt{s(s-a)(s-b)(s-c)}$$
 - 
