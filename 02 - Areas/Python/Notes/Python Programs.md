@@ -134,12 +134,14 @@ cssclasses:
 #### 5. WAP to input the area of a circle and find its circumference. 
 - ![[Pasted image 20240905124335.png]]
 #### 6. WAP to input three integers and find the sum of their cube roots. 
+- ![[Pasted image 20240910144336.png]]
+#### 7. WAP to input the principal, rate and time and find the compound interest. 
+- ![[Pasted image 20240910144745.png]]
+#### 8. WAP to input the three sides of a triangle and find the perimeter and area of the triangle. If a, b and c are the 3 sides then, Perimeter=a + b + c $$A = \sqrt{s(s-a)(s-b)(s-c)}$$
 - 
-3. WAP to input the principal, rate and time and find the compound interest. 
-4. WAP to input the three sides of a triangle and find the perimeter and area of the triangle. If a, b and c are the 3 sides then, Perimeter=a + b + c 
-5. WAP to input a real number (floating point number) and round it off to 2 places of decimal. For example, Input: 4.3678 Output: 4.37 Input: 24.3123 Output: 24.31 
-6. WAP to input the length and breadth of a rectangle and find the perimeter of that square whose area is same as the area of the rectangle. 
-7. WAP to input three integers and find the sum of the cube roots of their last digits.
+2. WAP to input a real number (floating point number) and round it off to 2 places of decimal. For example, Input: 4.3678 Output: 4.37 Input: 24.3123 Output: 24.31 
+3. WAP to input the length and breadth of a rectangle and find the perimeter of that square whose area is same as the area of the rectangle. 
+4. WAP to input three integers and find the sum of the cube roots of their last digits.
 
 ## References
 - [[pylist.pdf]]

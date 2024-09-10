@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5335e333d02113cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Python/Notes/Python Programs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,13 +213,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ecde306da2a903e5",
+  "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
+    "00 - Maps Of Contents/0 - Home.md",
+    "02 - Areas/Python/Programs/Pasted image 20240910144745.png",
+    "02 - Areas/Python/Programs/Pasted image 20240910144336.png",
+    "02 - Areas/Python/Notes/Python Programs.md",
     "02 - Areas/Python/Programs/Pasted image 20240910010749.png",
     "02 - Areas/Python/Programs/Pasted image 20240910004206.png",
     "02 - Areas/Python/Programs/Pasted image 20240910004106.png",
-    "00 - Maps Of Contents/0 - Home.md",
-    "02 - Areas/Python/Notes/Python Programs.md",
     "02 - Areas/Python/Programs/Pasted image 20240905124335.png",
     "02 - Areas/Python/Programs/Pasted image 20240905124025.png",
     "02 - Areas/Python/Programs/Pasted image 20240905123515.png",
@@ -219,9 +235,6 @@
     "02 - Areas/Books/Eclipse.md",
     "02 - Areas/Books/It.md",
     "02 - Areas/Python/Programs/Pasted image 20240905030217.png",
-    "02 - Areas/Python/Programs/Pasted image 20240905025844.png",
-    "02 - Areas/Python/Programs/Pasted image 20240905025420.png",
-    "02 - Areas/Python/Programs/Pasted image 20240905024833.png",
     "02 - Areas/Python/Programs",
     "02 - Areas/Python/pylist.pdf",
     "02 - Areas/Python/question list sem 1.pdf",
