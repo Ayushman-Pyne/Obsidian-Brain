@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Commerce",
+      "path": "04 - Permanent/Proj 1/Commerce.md"
+    },
+    {
+      "basename": "Business Studies",
+      "path": "04 - Permanent/Proj 1/Business Studies.md"
+    },
+    {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "11th Hour",
+      "path": "02 - Areas/Books/11th Hour.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "Week 1 - C",
       "path": "01 - Projects/CS50X/Week 1 - C.md"
-    },
-    {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "Demon Slayer Vol 19",
@@ -187,18 +199,6 @@
     {
       "basename": "09575423062024",
       "path": "06 - Daily/09575423062024.md"
-    },
-    {
-      "basename": "11005512052024 - Test page color",
-      "path": "06 - Daily/11005512052024 - Test page color.md"
-    },
-    {
-      "basename": "034817072024",
-      "path": "06 - Daily/034817072024.md"
-    },
-    {
-      "basename": "Master Your Emotions",
-      "path": "02 - Areas/Books/Master Your Emotions.md"
     }
   ],
   "omittedPaths": [],

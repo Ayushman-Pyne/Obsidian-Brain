@@ -82,30 +82,29 @@ The KYC process is not only important for meeting regulatory obligations but als
 
 7. Trust and Reputation: By demonstrating a commitment to integrity and compliance, robust KYC processes help banks maintain trust, credibility, and a positive reputation with stakeholders.
 
-## Steps to open savings accounts in India
+## Steps to open savings account in India
+### Offline
+1. **Choose a Bank**: Select a bank that fits your needs in services, branches, and accessibility.
+2. **Pick Account Type**: Choose from options like basic, salary, or senior citizen savings accounts.
+3. **Visit a Branch**: Bring required documents (ID, address proof, photos, PAN card) to the nearest branch.
+4. **Fill Account Form**: Complete the account opening form with personal details.
+5. **Submit Documents**: Provide the filled form and documents to the bank representative.
+6. **Initial Deposit**: Make the required deposit to activate your account.
+7. **Optional Services**: Ask about internet banking, mobile banking, and a debit card.
+8. **Receive Welcome Kit**: Get your passbook or debit card after account setup.
+9. **Activate Online Banking**: Set up internet or mobile banking if opted for.
+### Online
 
-1. **Choose a Bank**: Research and select a bank that meets your specific requirements in terms of services, branch network, and accessibility.
-
-2. **Select the Type of Savings Account**: Different banks offer various types of savings accounts catering to different needs, such as basic savings accounts, salary accounts, senior citizen accounts, and specialized accounts. Choose the one that suits your needs.
-
-3. **Visit the Nearest Branch**: Visit the nearest branch of the chosen bank, bringing along the necessary documents:
-
-	- **Identity Proof**: Valid government-issued ID such as Aadhar Card,  Passport,    Voter ID, or Driving License.
-	- **Address Proof**: Documents such as Aadhar Card, Passport, Voter ID, Utility bills, or Rental Agreement.
-	- **Recent Passport-sized Photographs**: Carry a few recent passport-sized photographs as per the bank's requirements.
-	- **PAN Card**: Provide a copy of your Permanent Account Number (PAN) card.
-
-4. **Fill Out the Account Opening Form**: Request the account opening form from the bank and fill it out with accurate personal details, contact information, and nominee details as required.
-
-5. Submit the Documents: Submit the filled account opening form along with the necessary documents mentioned in step 3 to the bank representative.
-
-6. Initial Deposit: Make the initial deposit required by the bank to activate the savings account. This amount varies by bank and by the type of savings account chosen.
-
-7. Set Up Other Services (Optional): If interested, inquire about additional services like internet banking, mobile banking, and debit card issuance.
-
-8. Receive Welcome Kit and Passbook/Debit Card**: Upon successful completion of the account opening process, you will typically receive a welcome kit containing details about your account, as well as a passbook or a debit card, depending on the bank's policies.
-
-9. Activate Internet/Mobile Banking (Optional): If subscribed, carry out the necessary steps to activate internet and mobile banking services associated with the new savings account.
+1. **Choose a Bank**: Research banks for interest rates, features, and eligibility.
+2. **Visit Bank's Website/App**: Go to the “Open Savings Account” section.
+3. **Fill Application Form**: Enter personal, contact, and identity details.
+4. **KYC Verification**: Complete Aadhaar-based e-KYC or Video KYC.
+5. **Upload Documents**: Upload proof of identity, address, and a photograph.
+6. **Initial Deposit**: If required, make an initial deposit online.
+7. **Submit and Review**: Confirm details and submit the application.
+8. **Account Activation**: Receive confirmation and account details via email/SMS.
+9. **Debit Card and PIN**: Activate your debit card and set a PIN (if applicable).
+10. **Start Banking**: Begin using your account for online transactions.
 
 ## Bank of Baroda
 

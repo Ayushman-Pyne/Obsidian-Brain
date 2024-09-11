@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "04 - Permanent/Proj 1/Commerce.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md"
+                "file": "04 - Permanent/Proj 1/Commerce.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "04 - Permanent/Proj 1/Commerce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "04 - Permanent/Proj 1/Commerce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,8 +201,11 @@
   },
   "active": "dee202e61bd1c613",
   "lastOpenFiles": [
-    "02 - Areas/Python/Notes/Python Programs.md",
+    "04 - Permanent/Proj 1/Business Studies.md",
+    "00 - Maps Of Contents/Books.md",
+    "02 - Areas/Books/11th Hour.md",
     "00 - Maps Of Contents/0 - Home.md",
+    "02 - Areas/Python/Notes/Python Programs.md",
     "02 - Areas/Python/Programs/Pasted image 20240910204324.png",
     "02 - Areas/Python/Programs/Pasted image 20240910203830.png",
     "02 - Areas/Python/Programs/Pasted image 20240910203143.png",
@@ -216,7 +219,6 @@
     "01 - Projects/CS50X/Week 0 - Scratch.md",
     "00 - Maps Of Contents/Python.md",
     "01 - Projects/CS50X/Week 1 - C.md",
-    "00 - Maps Of Contents/Books.md",
     "02 - Areas/Books/Demon Slayer Vol 19.md",
     "02 - Areas/Books/Demon Slayer Vol 20.md",
     "02 - Areas/Books/Eclipse.md",
@@ -239,7 +241,6 @@
     "GATE.md",
     "02 - Areas/Books/Demon Slayer Vol 16.md",
     "02 - Areas/Python/Notes/02 - WAP to perform arithmetic operations (and Average) between two variables (Explicitly put the value).md",
-    "01 - WAP to perform arithmetic operations (and average) between two variables (.md",
     "02 - Areas/Python/Programs/test.py",
     "02 - Areas/Python/Programs/01 - WAP to perform arithmatic operations (and average) between two variables/ExplicitlyPutTheValue.py",
     "02 - Areas/Python/Programs/01 - WAP to perform arithmatic operations (and average) between two variables/throughUserInput.py",
