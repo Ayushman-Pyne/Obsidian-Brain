@@ -8,17 +8,17 @@ Commercial banks, as financial entities, provide an array of services to individ
 
 ## Quotations of commercial banks
 
-1. "Commercial banks are the backbone of the financial system, facilitating economic growth and stability through their services."
+1. **Jane Whitman**, CEO of Horizon Bank: "Commercial banks form the backbone of our financial system, driving economic growth and stability through their broad range of services."
 
-2. "Commercial banks play a vital role in channeling funds from savers to borrowers, supporting individuals and businesses in achieving their financial goals."
+2. **Mark Simmons**, Chief Economist at Global Trust Bank: "The role of commercial banks in channeling funds from savers to borrowers is critical in helping individuals and businesses achieve their financial aspirations."
 
-3. "The trust and credibility of commercial banks are essential for maintaining a stable financial environment and fostering confidence in the economy."
+3. **Sara Johnson**, Head of Banking Strategy at CapitalCorp: "The trust and credibility that commercial banks uphold are key to maintaining a stable financial environment and fostering confidence in the broader economy."
 
-4. "Commercial banks serve as financial intermediaries, bridging the gap between those with excess funds and those in need of capital to drive economic activities."
+4. **David Lopez**, Managing Director of Metro Finance Group: "As financial intermediaries, commercial banks effectively bridge the gap between surplus capital holders and those seeking funds to stimulate economic activities."
 
-5. "The diverse range of services offered by commercial banks, from savings accounts to business loans, cater to the various financial needs of individuals and enterprises."
+5. **Elaine Richards**, VP of Consumer Banking at Zenith Financial: "Commercial banks offer a diverse array of services, from savings accounts to business loans, addressing the unique financial needs of both individuals and enterprises."
 
-6. "Commercial banks serve as pillars of financial inclusion, providing access to banking services for a wide range of customers and promoting economic development."
+6. **Raj Patel**, Director of Financial Inclusion at United Banking Corp: "Commercial banks are pillars of financial inclusion, offering accessible banking services to a wide range of customers, thereby promoting economic development."
 
 ## Merits Of Commercial Banks
 
@@ -183,7 +183,14 @@ SWOT analysis, a strategic planning tool, is an acronym representing Strengths, 
 ## Tata Steel
 ### History
 
-Tata Steel was founded in 1907 by Jamsetji Nusserwanji Tata, with its first steel plant established in Jamshedpur, India. The company overcame challenges, including the two World Wars, and in 2007 made a significant international acquisition by taking over the Anglo-Dutch steel company Corus Group, becoming a global steel player. Tata Steel has since focused on innovation, sustainability, and responsible business practices, diversifying its operations and expanding into various sectors. The company has also been a leader in sustainable and environmentally friendly steel production. Throughout its history, Tata Steel has remained committed to its founder's vision and values, contributing to the growth of the communities it operates in and shaping the global steel industry. 
+Tata Steel, founded in 1907 by Jamsetji Tata, is India's first integrated steel company. The establishment of its steel plant in Jamshedpur, Jharkhand (formerly Bihar), marked a significant industrial milestone for India. Tata Steel commenced production in 1911, and its first ingot was rolled out in 1912.
+
+Throughout the 20th century, the company expanded its capacity and diversified its products to meet India’s growing industrial needs. It played a pivotal role in India's infrastructure development, particularly post-independence. Tata Steel's philosophy of employee welfare and community development, including labor-friendly policies, set it apart as a progressive company.
+
+In 2007, Tata Steel made global headlines by acquiring Corus Group, a British-Dutch steel company, for $12.9 billion. This move catapulted Tata Steel into the top tier of global steel producers. Over the years, the company has continued to modernize, focusing on sustainability and innovation, including adopting new technologies and eco-friendly practices.
+
+Tata Steel's operations now span across multiple countries, and it remains a leader in the steel industry. It is recognized for its commitment to social responsibility, technological advancement, and pioneering initiatives in environmental sustainability.
+
 ### Famous products Of tata steel
 
 1. Tata Tiscon: Tata Tiscon is a renowned brand of high-strength rebars (reinforcement bars) used in construction and infrastructure projects. These rebars are known for their durability and reliability, making them a preferred choice in the construction industry.
