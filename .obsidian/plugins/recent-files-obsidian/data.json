@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Demon Slayer Vol 15",
+      "path": "02 - Areas/Books/Demon Slayer Vol 15.md"
+    },
+    {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 19",
+      "path": "02 - Areas/Books/Demon Slayer Vol 19.md"
+    },
+    {
+      "basename": "Ikigai",
+      "path": "02 - Areas/Books/Ikigai.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -9,12 +25,12 @@
       "path": "04 - Permanent/Proj 1/Commerce.md"
     },
     {
-      "basename": "Business Studies",
-      "path": "04 - Permanent/Proj 1/Business Studies.md"
+      "basename": "Uzumaki (3-in-1 Deluxe Edition)",
+      "path": "02 - Areas/Books/Uzumaki (3-in-1 Deluxe Edition).md"
     },
     {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
+      "basename": "Business Studies",
+      "path": "04 - Permanent/Proj 1/Business Studies.md"
     },
     {
       "basename": "11th Hour",
@@ -35,10 +51,6 @@
     {
       "basename": "Week 1 - C",
       "path": "01 - Projects/CS50X/Week 1 - C.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 19",
-      "path": "02 - Areas/Books/Demon Slayer Vol 19.md"
     },
     {
       "basename": "Demon Slayer Vol 20",
@@ -125,10 +137,6 @@
       "path": "00 - Maps Of Contents/CS50X.md"
     },
     {
-      "basename": "Demon Slayer Vol 15",
-      "path": "02 - Areas/Books/Demon Slayer Vol 15.md"
-    },
-    {
       "basename": "Demon Slayer Vol 13",
       "path": "02 - Areas/Books/Demon Slayer Vol 13.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "You’re the Password to My Life",
       "path": "02 - Areas/Books/You’re the Password to My Life.md"
-    },
-    {
-      "basename": "04515917072024",
-      "path": "06 - Daily/04515917072024.md"
-    },
-    {
-      "basename": "09575423062024",
-      "path": "06 - Daily/09575423062024.md"
     }
   ],
   "omittedPaths": [],

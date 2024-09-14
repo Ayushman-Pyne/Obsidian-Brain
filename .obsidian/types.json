@@ -26,6 +26,7 @@
     "status": "multitext",
     "rating": "text",
     "book no.": "number",
-    "Language": "multitext"
+    "Language": "multitext",
+    "bookNo": "number"
   }
 }
