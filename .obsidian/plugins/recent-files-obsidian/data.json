@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
+      "basename": "Python Programs",
+      "path": "02 - Areas/Python/Notes/Python Programs.md"
+    },
+    {
+      "basename": "Clip",
+      "path": "Clip.md"
     },
     {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "Demon Slayer Vol 15",
@@ -35,10 +43,6 @@
     {
       "basename": "11th Hour",
       "path": "02 - Areas/Books/11th Hour.md"
-    },
-    {
-      "basename": "Python Programs",
-      "path": "02 - Areas/Python/Notes/Python Programs.md"
     },
     {
       "basename": "Week 0 - Scratch",
@@ -195,10 +199,6 @@
     {
       "basename": "The Triumph of the Sun",
       "path": "02 - Areas/Books/The Triumph of the Sun.md"
-    },
-    {
-      "basename": "You’re the Password to My Life",
-      "path": "02 - Areas/Books/You’re the Password to My Life.md"
     }
   ],
   "omittedPaths": [],
