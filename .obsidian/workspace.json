@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clip.md"
+                "file": "02 - Areas/Python/Notes/Python Programs.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clip.md",
+                "file": "02 - Areas/Python/Notes/Python Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clip.md",
+                "file": "02 - Areas/Python/Notes/Python Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,10 +212,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "261106aebfeb1de7",
+  "active": "1837ce901c78e99e",
   "lastOpenFiles": [
-    "02 - Areas/Python/Notes/Python Programs.md",
     "Clip.md",
+    "02 - Areas/Python/Notes/Python Programs.md",
     "00 - Maps Of Contents/0 - Home.md",
     "00 - Maps Of Contents/Books.md",
     "02 - Areas/Books/Demon Slayer Vol 15.md",

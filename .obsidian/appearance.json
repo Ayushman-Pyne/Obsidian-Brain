@@ -10,7 +10,7 @@
     "Cards"
   ],
   "theme": "obsidian",
-  "interfaceFontFamily": "JetBrains Mono NL",
-  "textFontFamily": "JetBrains Mono NL",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
   "baseFontSizeAction": false
 }
