@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "GSOC",
+      "path": "GSOC.md"
+    },
+    {
+      "basename": "GATE",
+      "path": "GATE.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -117,10 +125,6 @@
       "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
     },
     {
-      "basename": "GATE",
-      "path": "GATE.md"
-    },
-    {
       "basename": "Demon Slayer Vol 16",
       "path": "02 - Areas/Books/Demon Slayer Vol 16.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Demon Slayer Vol 1",
       "path": "02 - Areas/Books/Demon Slayer Vol 1.md"
-    },
-    {
-      "basename": "The Triumph of the Sun",
-      "path": "02 - Areas/Books/The Triumph of the Sun.md"
     }
   ],
   "omittedPaths": [],
