@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Week 1 - C",
+      "path": "01 - Projects/CS50X/Week 1 - C.md"
+    },
+    {
+      "basename": "Week 2 - Arrays",
+      "path": "01 - Projects/CS50X/Week 2 - Arrays.md"
+    },
+    {
       "basename": "GSOC",
       "path": "GSOC.md"
     },
     {
       "basename": "GATE",
       "path": "GATE.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "Python Programs",
@@ -59,10 +67,6 @@
     {
       "basename": "Python",
       "path": "00 - Maps Of Contents/Python.md"
-    },
-    {
-      "basename": "Week 1 - C",
-      "path": "01 - Projects/CS50X/Week 1 - C.md"
     },
     {
       "basename": "Demon Slayer Vol 20",
@@ -195,10 +199,6 @@
     {
       "basename": "Demon Slayer Vol 2",
       "path": "02 - Areas/Books/Demon Slayer Vol 2.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 1",
-      "path": "02 - Areas/Books/Demon Slayer Vol 1.md"
     }
   ],
   "omittedPaths": [],
