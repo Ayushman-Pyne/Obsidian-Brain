@@ -1623,6 +1623,7 @@ Sara
 Strategy
 Step
 Scrabble
+Substitution
 EXCALIDRAW
 Elements
 Example
@@ -1900,6 +1901,7 @@ EuE
 Economist
 Elaine
 Edition
+Encryption
 VIEW
 Vitae
 Vault
@@ -2551,6 +2553,7 @@ interchange
 interchanging
 iii
 ingot
+index
 MORE
 My
 Movie
@@ -3421,6 +3424,7 @@ marked
 milestone
 modernize
 mentor
+mainly
 of
 on
 ornare
@@ -5605,6 +5609,7 @@ lKU
 lmt
 lDOQ
 lWlO
+loops
 cssclasses
 center
 costumes
@@ -6137,6 +6142,7 @@ catapulted
 continued
 contributor
 counts
+cipher
 Important
 In
 It
@@ -7345,6 +7351,7 @@ CapitalCorp
 Consumer
 Corp
 Confirm
+Caesar
 Week
 Well
 Wider
@@ -11473,6 +11480,7 @@ FbjL
 FCD
 FLd
 Finance
+First
 Just
 Journey
 Job

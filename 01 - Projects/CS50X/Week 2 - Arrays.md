@@ -143,9 +143,14 @@ $ ./readability
 Text: One fish. Two fish. Red fish. Blue fish.
 Before Grade 1
 $ ./readability
-Text: 
+Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+Grade 3
 $ ./readability
+Text: Harry Potter was a highly unusual boy in many ways. For one thing, he hated the summer holidays more than any other time of year. For another, he really wanted to do his homework, but was forced to do it in secret, in the dead of the night. And he also happened to be a wizard.
+Grade 5
 $ ./readability
+Text: When he was nearly thirteen, my brother Jem got his arm badly broken at the elbow. When it healed, and Jem's fears of never being able to play football were assuaged, he was seldom self-conscious about his injury. His left arm was somewhat shorter than his right; when he stood or walked, the back of his hand was at right angles to his body, his thumb parallel to his thigh.
+Grade 8
 $
 ```
 
@@ -154,6 +159,110 @@ Making the folder and the file.
 $ mkdir readability
 $ cd readability
 readability/ $ code readability.c
+```
+
+The program has mainly 3 loops;
+- number of words
+- number of letters
+- number of sentences
+and then just find the value of L and S; $$\begin{matrix}L = (letters / words) * 100 \\ S = (sentences / words) * 100\end{matrix}$$
+Then calculate the index through the formula, $$index = 0.0588 * L - 0.296 * S - 15.8$$
+```C
+#include <cs50.h>
+#include <ctype.h>
+#include <math.h>
+#include <stdio.h>
+#include <string.h>
+
+int countl(string a);
+int countw(string a);
+int counts(string a);
+
+int main(void)
+{
+    string s = get_string("Text: ");
+
+    float letters = countl(s);
+    float words = countw(s);
+    float sentences = counts(s);
+
+    float L = (letters / words) * 100;
+    float S = (sentences / words) * 100;
+
+    int index = round((0.0588 * L) - (0.296 * S) - 15.8);
+
+    if (index >= 16)
+    {
+        printf("Grade 16+\n");
+    }
+    else if (index < 1)
+    {
+        printf("Before Grade 1\n");
+    }
+    else
+    {
+        printf("Grade %i\n", index);
+    }
+}
+
+int countl(string a)
+{
+    int counter = 0;
+    for (int i = 0, n = strlen(a); i < n; i++)
+    {
+        if (isspace(a[i]) != 0 || ispunct(a[i]) != 0)
+        {
+            continue;
+        }
+        else
+        {
+            counter = counter + 1;
+        }
+    }
+    return counter;
+}
+
+int countw(string a)
+{
+    int counter = 0;
+    for (int i = 0, n = strlen(a); i < n; i++)
+    {
+        if (isspace(a[i]) != 0)
+        {
+            counter = counter + 1;
+        }
+        else
+        {
+            continue;
+        }
+    }
+    return counter + 1;
+}
+
+int counts(string a)
+{
+    int counter = 0;
+    for (int i = 0, n = strlen(a); i < n; i++)
+    {
+        if (a[i] == '!' || a[i] == '.' || a[i] == '?')
+        {
+            counter = counter + 1;
+        }
+        else
+        {
+            continue;
+        }
+    }
+    return counter;
+}
+```
+
+Output
+```terminal
+readability/ $ ./readability
+Text: Harry Potter was a highly unusual boy in many ways. For one thing, he hated the summer holidays more than any other time of year. For another, he really wanted to do his homework, but was forced to do it in secret, in the dead of the night. And he also happened to be a wizard.
+Grade 5
+readability/ $ 
 ```
 
 Test inputs:
@@ -173,6 +282,20 @@ Checking and submitting commands
 - `check50 cs50/problems/2024/x/readability - Test the program
 - `style50 readability.c` - stylize the file to make it look more aesthetically pleasing.
 - `submit50 cs50/problems/2024/x/readability` - Submit the program
+
+#### 3_2. Caesar
+
+First Encryption program! It's a simple Caesar cipher,
+
+
+Checking and submitting commands
+
+- `check50 cs50/problems/2024/x/caesar` - Test the program
+- `style50 mario.c` - stylize the file to make it look more aesthetically pleasing.
+- `submit50 cs50/problems/2024/x/mario/less` - Submit the program
+#### 3_2. Substitution
+
+
 
 ## References
 
