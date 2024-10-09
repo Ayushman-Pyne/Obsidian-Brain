@@ -9,6 +9,19 @@ cssclasses:
 ---
 # Week 2 - Arrays
 
+Some syntax discussed in class that will be <span style="color:GreenYellow">CRUCIAL</span> and needed when writing array or string programs.
+
+##### Basic Array declaration and initialization
+``` C
+#include <stdio.h>
+
+int main(void) 
+{ 
+	int array[] = {1, 2, 3, 4};
+}
+```
+
+strings can also be treated as arrays of datatype char.
 
 
 
@@ -288,11 +301,14 @@ Checking and submitting commands
 First Encryption program! It's a simple Caesar cipher,
 
 
+Test inputs:
+- `./caesar 42` and 
+
 Checking and submitting commands
 
 - `check50 cs50/problems/2024/x/caesar` - Test the program
-- `style50 mario.c` - stylize the file to make it look more aesthetically pleasing.
-- `submit50 cs50/problems/2024/x/mario/less` - Submit the program
+- `style50 caesar.c` - stylize the file to make it look more aesthetically pleasing.
+- `submit50 cs50/problems/2024/x/caesar` - Submit the program
 #### 3_2. Substitution
 
 
