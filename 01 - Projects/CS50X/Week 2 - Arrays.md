@@ -378,10 +378,18 @@ Checking and submitting commands
 
 #### 3_2. Caesar
 
-First Encryption program! It's a simple Caesar cipher,
-Some Specifications given important:
+First Encryption program! It's a simple Caesar cipher but has too many checks,
 
-- mplement your program in a file called `caesar.c` in a directory called `caesar`.
+```terminal
+$
+$
+$
+$
+
+```
+
+Some Specifications given important:
+- Implement your program in a file called `caesar.c` in a directory called `caesar`.
 - Your program must accept a single command-line argument, a non-negative integer. Let’s call it k for the sake of discussion.
 - If your program is executed without any command-line arguments or with more than one command-line argument, your program should print an error message of your choice (with `printf`) and return from `main` a value of `1` (which tends to signify an error) immediately.
 - If any of the characters of the command-line argument is not a decimal digit, your program should print the message `Usage: ./caesar key` and return from `main` a value of `1`.
@@ -480,7 +488,7 @@ char rot(char c, int r)
 
 
 Test inputs:
-- `./caesar 13` and 
+- `./caesar 13` and input the plain text as `Hi there!` the output cipher text should be `Uv gurer!`
 
 Checking and submitting commands
 
