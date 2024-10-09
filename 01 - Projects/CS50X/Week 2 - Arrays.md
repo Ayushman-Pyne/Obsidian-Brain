@@ -76,7 +76,17 @@ int main(int argc, string argv[])
 - Here `argc` stores the number of arguments given in command line separated by spaces usually.
 - `argv` array stores the arguments in an array. This array also contains the command itself as a value.
 - For Example:
-	- the above program is run wit
+	- the above program is run with the command `./greet Ayushman`
+	- the value of `argc` is 2.
+	- the value of `argv` is `{./greet , Ayushman}`.
+
+##### Exit status
+
+- You have probably noticed that the `main` function has a return of `int`.
+- When a program ends, a special exit code is provided to the computer.
+- When a program exits without error, a status code of `0` is provided the computer. 
+- Often, when an error occurs that results in the program ending, a status of `1` is provided by the computer.
+- Some Common exit status codes are 101, 102.
 
 
 ## Homework
