@@ -23,7 +23,60 @@ int main(void)
 
 strings can also be treated as arrays of datatype char.
 
+##### strlen
 
+This is function in the `string.h` header file which gives the length of the string.
+
+##### ctype.h
+The functions in this header file are:
+- `isalnum` - check whether a character is alphanumeric
+- `isalpha` - check whether a character is alphabetical
+- `isblank` - check whether a character is blank (i.e., a space or tab)
+- `isdigit` - check whether a character is a digit
+- `islower` - check whether a character is lowercase
+- `ispunct` - check whether a character is punctuation
+- `isspace` - check whether a character is whitespace (e.g., a newline, space, or tab)
+- `isupper` - check whether a character is uppercase
+- `tolower` - convert a char to lowercase
+- `toupper` - convert a char to uppercase
+
+##### Command Line Arguments
+
+- `Command-line arguments` are those arguments that are passed to your program at the command line. For example, all those statements you typed after `clang` are considered command line arguments. You can use these arguments in your own programs!
+- In your terminal window, type `code greet.c` and write code as follows:
+ ```C
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+ {
+	string answer = get_string("What's your name? ");
+    printf("hello, %s\n", answer);
+}
+```
+- Still, would it not be nice to be able to take arguments before the program even runs? Modify your code as follows:
+
+``` C
+#include <cs50.h>
+#include <stdio.h>
+
+int main(int argc, string argv[])
+{
+	if (argc == 2)
+	{
+		printf("hello, %s\n", argv[1]);
+	}
+	else
+	{
+		printf("hello, world\n");
+	}
+}
+```
+
+- Here `argc` stores the number of arguments given in command line separated by spaces usually.
+- `argv` array stores the arguments in an array. This array also contains the command itself as a value.
+- For Example:
+	- the above program is run wit
 
 
 ## Homework
