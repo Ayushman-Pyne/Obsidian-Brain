@@ -391,10 +391,96 @@ Some Specifications given important:
 - Your program must preserve case: capitalized letters, though rotated, must remain capitalized letters; lowercase letters, though rotated, must remain lowercase letters.
 - After outputting ciphertext, you should print a newline. Your program should then exit by returning `0` from `main`.
 
+Setting up folder:
+
+``` terminal
+$ mkdir caesar
+$ cd caesar
+caesar/ $ code caesar.c
+caesar/ $
+```
+
+The flow of the program is a simple on:
+1. Take the key as input from user through command line arguments
+2. Check for validity:
+	1. If the number of arguments is 2
+		1. the second argument passed should be a valid key i.e. have all numbers in it.
+			- run the rotation function then
+		2. else printf("Usage: ./caesar key\n") and return 1 as an exit status of 1.
+	2. else printf("Usage: ./caesar key\n") and return 1 as an exit status of 1.
+3. Rotation Function:
+	1. if the passed char is not an alphabet then return it as it is
+	2. else continue to change the character into its cipher equivalent.
+
+
+``` C
+#include <cs50.h>
+#include <ctype.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+char rot(char c, int r);
+
+int main(int argc, string argv[])
+{
+    if (argc == 2)
+    {
+        for (int i = 0; i < strlen(argv[1]); i++)
+        {
+            if (isdigit(argv[1][i]))
+            {
+                continue;
+            }
+            else
+            {
+                printf("Usage: ./caesar key\n");
+                return 1;
+            }
+        }
+        string ptext = get_string("plaintext: ");
+        int n = strlen(ptext);
+        printf("ciphertext: ");
+        for (int i = 0; i < n; i++)
+        {
+            printf("%c", rot(ptext[i], atoi(argv[1])));
+        }
+        printf("\n");
+    }
+    else
+    {
+        printf("Usage: ./caesar key\n");
+        return 1;
+    }
+}
+
+char rot(char c, int r)
+{
+    if (isalpha(c) == 0)
+    {
+        return c;
+    }
+    else
+    {
+        if (isupper(c) == 0)
+        {
+            c = c - 'a';
+            c = (c + r) > 25 ? (c + r) % 26 : (c + r);
+            return c + 'a';
+        }
+        else
+        {
+            c = c - 'A';
+            c = (c + r) > 25 ? (c + r) % 26 : (c + r);
+            return c + 'A';
+        }
+    }
+}
+```
 
 
 Test inputs:
-- `./caesar 42` and 
+- `./caesar 13` and 
 
 Checking and submitting commands
 
