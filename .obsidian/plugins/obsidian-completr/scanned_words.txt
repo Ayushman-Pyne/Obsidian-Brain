@@ -1269,6 +1269,7 @@ tudgV
 tqT
 third
 tier
+takes
 Switch
 Some
 Scratch
@@ -8836,6 +8837,7 @@ wkk
 wiOrI
 wen
 welfare
+winner
 scratch
 soothing
 some
@@ -9362,6 +9364,7 @@ sides
 surplus
 section
 straight
+score
 background
 backdrops
 border
