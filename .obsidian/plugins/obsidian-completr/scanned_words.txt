@@ -1620,6 +1620,7 @@ Simmons
 Sara
 Strategy
 Step
+Scrabble
 EXCALIDRAW
 Elements
 Example
@@ -9360,6 +9361,7 @@ selling
 sides
 surplus
 section
+straight
 background
 backdrops
 border
@@ -15238,6 +15240,7 @@ QlH
 QOrkQO
 Qnm
 QYN
+Questions
 KI
 Ko
 KP

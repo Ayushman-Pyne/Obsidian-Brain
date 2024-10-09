@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4676f47a1d47e657",
+            "id": "bd9643aa383d9eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GSOC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa6a86bd1317ef7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "01 - Projects/CS50X/Week 1 - C.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,9 +228,9 @@
   },
   "active": "3b8fdbcffeb35bce",
   "lastOpenFiles": [
-    "00 - Maps Of Contents/0 - Home.md",
     "01 - Projects/CS50X/Week 1 - C.md",
     "01 - Projects/CS50X/Week 2 - Arrays.md",
+    "00 - Maps Of Contents/0 - Home.md",
     "GSOC.md",
     "GATE.md",
     "02 - Areas/Python/Notes/Python Programs.md",
