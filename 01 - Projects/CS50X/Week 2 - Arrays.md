@@ -17,12 +17,29 @@ Some syntax discussed in class that will be <span style="color:GreenYellow">CRUC
 
 int main(void) 
 { 
-	int array[] = {1, 2, 3, 4};
+	int array[4]; 
+	array[] = {1, 2, 3, 4};
 }
 ```
 
 strings can also be treated as arrays of datatype char.
+Some characteristics:
+- If an array consists of n elements, the first element is located at index 0. The last element is located at index (n-1).
+- C is very lenient. It will not prevent you from going “out of bounds” of your array.
+- Multidimensional array is just the same thing with a slight different, 
+``` C
+#include <stdio.h>
 
+int main(void) 
+{ 
+	int array[4][4];
+}
+```
+
+- While we can treat individual elements of arrays as variables, we cannot treat entire arrays themselves as variables. 
+- We cannot, for instance, assign one array to another using the assignment operator. That is not legal C. 
+- Instead, we must use a loop to copy over the elements one at a time
+- 
 ##### strlen
 
 This is function in the `string.h` header file which gives the length of the string.
@@ -362,6 +379,18 @@ Checking and submitting commands
 #### 3_2. Caesar
 
 First Encryption program! It's a simple Caesar cipher,
+Some Specifications given important:
+
+- mplement your program in a file called `caesar.c` in a directory called `caesar`.
+- Your program must accept a single command-line argument, a non-negative integer. Let’s call it k for the sake of discussion.
+- If your program is executed without any command-line arguments or with more than one command-line argument, your program should print an error message of your choice (with `printf`) and return from `main` a value of `1` (which tends to signify an error) immediately.
+- If any of the characters of the command-line argument is not a decimal digit, your program should print the message `Usage: ./caesar key` and return from `main` a value of `1`.
+- Do not assume that k will be less than or equal to 26. Your program should work for all non-negative integral values of k less than 231−26. In other words, you don’t need to worry if your program eventually breaks if the user chooses a value for k that’s too big or almost too big to fit in an `int`. (Recall that an `int` can overflow.) But, even if k is greater than 26, alphabetical characters in your program’s input should remain alphabetical characters in your program’s output. For instance, if k is 27, `A` should not become `\` even though `\` is 27 positions away from `A` in ASCII, per [asciitable.com](https://www.asciitable.com/); `A` should become `B`, since `B` is 27 positions away from `A`, provided you wrap around from `Z` to `A`.
+- Your program must output `plaintext:` (with two spaces but without a newline) and then prompt the user for a `string` of plaintext (using `get_string`).
+- Your program must output `ciphertext:` (with one space but without a newline) followed by the plaintext’s corresponding ciphertext, with each alphabetical character in the plaintext “rotated” by _k_ positions; non-alphabetical characters should be outputted unchanged.
+- Your program must preserve case: capitalized letters, though rotated, must remain capitalized letters; lowercase letters, though rotated, must remain lowercase letters.
+- After outputting ciphertext, you should print a newline. Your program should then exit by returning `0` from `main`.
+
 
 
 Test inputs:
