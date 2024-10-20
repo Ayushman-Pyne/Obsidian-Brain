@@ -82,9 +82,4 @@ img {
 
 code {
   font-family: "JetBrainsMono Nerd Font Mono", monospace;
-  background: white;
-}
-
-.rem-code-bg :is(code, .HyperMd-codeblock) {
-  background-color: transparent !important;
 }

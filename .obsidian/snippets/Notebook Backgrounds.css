@@ -150,18 +150,24 @@ https://angel-rs.github.io/css-color-filter-generator
   background-color: var(--page-blue);
 }
 /* Adds a dot grid on page background */
-.dot-grid{
+.dot-grid {
   --page-color: var(--pen-black);
   --accent-color: var(--pen-gray);
   --dot-bg: var(--page-color);
   --dot-color: var(--accent-color);
   --dot-size: 1px;
   --dot-space: 22px;
-  background:
-    linear-gradient(90deg, 
-    var(--dot-bg) calc(var(--dot-space) - var(--dot-size)), transparent 1%) center / var(--dot-space) var(--dot-space),
-    linear-gradient(var(--dot-bg) calc(var(--dot-space) - var(--dot-size)), 
-    transparent 1%) center / var(--dot-space) var(--dot-space),
+  background: linear-gradient(
+        90deg,
+        var(--dot-bg) calc(var(--dot-space) - var(--dot-size)),
+        transparent 1%
+      )
+      center / var(--dot-space) var(--dot-space),
+    linear-gradient(
+        var(--dot-bg) calc(var(--dot-space) - var(--dot-size)),
+        transparent 1%
+      )
+      center / var(--dot-space) var(--dot-space),
     var(--dot-color);
 }
 
@@ -206,19 +212,19 @@ https://angel-rs.github.io/css-color-filter-generator
 }
 
 /* Code Blocks */
-:is(.page-white, .page-manila, .page-blueprint) :is(code,
-.HyperMD-codeblock, .cm-inline-code) {
+:is(.page-white, .page-manila, .page-blueprint)
+  :is(code, .HyperMD-codeblock, .cm-inline-code) {
   --code-normal: var(--accent-color);
   --code-background: color-mix(
     in srgb,
-    var(--page-color) 80%,
+    var(--page-color) 100%,
     black
   ) !important;
 }
 div > pre {
   --code-background: color-mix(
     in srgb,
-    var(--page-color) 80%,
+    var(--page-color) 100%,
     black
   ) !important;
 }
