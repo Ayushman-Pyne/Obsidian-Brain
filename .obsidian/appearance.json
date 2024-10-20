@@ -5,9 +5,9 @@
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "Notebook Backgrounds",
-    "CyanVoxel's General Tweaks",
     "MCL Multi Column",
-    "Cards"
+    "Cards",
+    "CyanVoxel's General Tweaks"
   ],
   "theme": "obsidian",
   "interfaceFontFamily": "JetBrains Mono",
