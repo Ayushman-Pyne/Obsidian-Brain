@@ -2,6 +2,7 @@
 cssclasses:
   - page-white
   - center-titles
+  - rem-code-bg
 ---
 # HTML assignment
 

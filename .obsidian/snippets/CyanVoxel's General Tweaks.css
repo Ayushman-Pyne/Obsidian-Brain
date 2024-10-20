@@ -76,14 +76,14 @@ img {
   ) {
   text-align: center;
 }
-.center-h1
-  :is(
-    h1,
-    .HyperMD-header.HyperMD-header-1
-  ){
-    text-align: center;
-  }
+.center-h1 :is(h1, .HyperMD-header.HyperMD-header-1) {
+  text-align: center;
+}
 
 code {
   font-family: "JetBrainsMono Nerd Font Mono", monospace;
+}
+
+.rem-code-bg :is(code) {
+  background-color: transparent !important;
 }
