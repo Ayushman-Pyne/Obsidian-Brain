@@ -448,6 +448,14 @@ earned
 entered
 eligibility
 email
+element
+entire
+ends
+exit
+exits
+error
+ending
+else
 plugin
 parsed
 present
@@ -902,6 +910,11 @@ philosophy
 progressive
 pioneering
 putting
+punctuation
+passed
+printf
+plaintext
+ptext
 tags
 to
 the
@@ -1271,6 +1284,10 @@ tqT
 third
 tier
 takes
+treated
+treat
+tab
+typed
 Switch
 Some
 Scratch
@@ -1902,6 +1919,7 @@ Economist
 Elaine
 Edition
 Encryption
+Exit
 VIEW
 Vitae
 Vault
@@ -2555,6 +2573,9 @@ iii
 ingot
 index
 initialization
+isdigit
+isalpha
+isupper
 MORE
 My
 Movie
@@ -2820,6 +2841,8 @@ METHODS
 Mark
 Managing
 Metro
+Multidimensional
+Modify
 OPTIONS
 OFF
 ON
@@ -3061,6 +3084,7 @@ OEMo
 OUTPUT
 Offline
 Over
+Often
 menu
 made
 music
@@ -3426,6 +3450,7 @@ milestone
 modernize
 mentor
 mainly
+main
 of
 on
 ornare
@@ -4100,6 +4125,7 @@ dSf
 deductions
 diagonal
 declaration
+datatype
 Drawing
 Date
 Define
@@ -4952,6 +4978,8 @@ gBb
 gYQ
 gag
 gross
+gives
+gurer
 hello
 here
 homework
@@ -5612,6 +5640,7 @@ lmt
 lDOQ
 lWlO
 loops
+lenient
 cssclasses
 center
 costumes
@@ -6146,6 +6175,10 @@ contributor
 counts
 cipher
 caesar
+ctype
+command
+codes
+ciphertext
 Important
 In
 It
@@ -6474,6 +6507,7 @@ IGJW
 INPUT
 Inclusion
 Ito
+Instead
 Links
 Lorem
 Learning
@@ -7022,6 +7056,9 @@ nLoO
 nzw
 nuw
 neX
+newline
+nice
+noticed
 CS
 Completed
 Courses
@@ -7355,6 +7392,7 @@ Consumer
 Corp
 Confirm
 Caesar
+Common
 Week
 Well
 Wider
@@ -7879,6 +7917,7 @@ App
 Aadhaar
 Activation
 Array
+Arguments
 are
 and
 amet
@@ -8311,6 +8350,13 @@ aspirations
 apart
 acquiring
 age
+assignment
+alphanumeric
+alphabetical
+arguments
+argc
+argv
+atoi
 Homework
 Here
 HOME
@@ -8855,6 +8901,8 @@ welfare
 winner
 wheelbarrow
 winning
+whitespace
+window
 scratch
 soothing
 some
@@ -9383,6 +9431,14 @@ section
 straight
 score
 scrabble
+strings
+slight
+strlen
+statements
+stores
+separated
+stdio
+stdlib
 background
 backdrops
 border
@@ -9750,6 +9806,8 @@ breadth
 broken
 billion
 begin
+bounds
+blank
 features
 file
 for
@@ -11227,6 +11285,7 @@ Ufa
 United
 Upload
 Uzumaki
+Usage
 For
 FB
 Feel
@@ -12155,6 +12214,7 @@ relation
 roots
 responsibility
 readability
+rot
 Base
 But
 Bit

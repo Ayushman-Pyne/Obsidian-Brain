@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "HTML assignment",
+      "path": "02 - Areas/Assignments/Answers/HTML assignment.md"
+    },
+    {
+      "basename": "Python Programs",
+      "path": "02 - Areas/Assignments/Answers/Python Programs.md"
+    },
+    {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Clip",
+      "path": "Clip.md"
+    },
+    {
       "basename": "Week 2 - Arrays",
       "path": "01 - Projects/CS50X/Week 2 - Arrays.md"
     },
@@ -9,24 +25,12 @@
       "path": "01 - Projects/CS50X/Week 1 - C.md"
     },
     {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
-    },
-    {
       "basename": "GSOC",
       "path": "GSOC.md"
     },
     {
       "basename": "GATE",
       "path": "GATE.md"
-    },
-    {
-      "basename": "Python Programs",
-      "path": "02 - Areas/Python/Notes/Python Programs.md"
-    },
-    {
-      "basename": "Clip",
-      "path": "Clip.md"
     },
     {
       "basename": "Books",
@@ -79,14 +83,6 @@
     {
       "basename": "It",
       "path": "02 - Areas/Books/It.md"
-    },
-    {
-      "basename": "pylist",
-      "path": "02 - Areas/Python/pylist.pdf"
-    },
-    {
-      "basename": "question list sem 1",
-      "path": "02 - Areas/Python/question list sem 1.pdf"
     },
     {
       "basename": "03 - SiH References",
@@ -195,10 +191,6 @@
     {
       "basename": "Demon Slayer Vol 3",
       "path": "02 - Areas/Books/Demon Slayer Vol 3.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 2",
-      "path": "02 - Areas/Books/Demon Slayer Vol 2.md"
     }
   ],
   "omittedPaths": [],
