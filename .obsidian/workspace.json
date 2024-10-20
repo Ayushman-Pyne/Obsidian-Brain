@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf6cf1dc23082849",
+            "id": "6af58a4456c6e388",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9723ac20622d22eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clip.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Assignments/Answers/HTML assignment.md"
+                "file": "Clip.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Assignments/Answers/HTML assignment.md",
+                "file": "Clip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Assignments/Answers/HTML assignment.md",
+                "file": "Clip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,23 +213,24 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "bf6cf1dc23082849",
+  "active": "9723ac20622d22eb",
   "lastOpenFiles": [
-    "Pasted image 20241020192459.png",
+    "02 - Areas/Assignments/Answers/HTML assignment.md",
+    "00 - Maps Of Contents/0 - Home.md",
+    "02 - Areas/Assignments/Attachments/Pasted image 20241020192459.png",
+    "Clip.md",
+    "02 - Areas/Assignments/Attachments/Pasted image 20241020193529.png",
+    "02 - Areas/Assignments/Attachments/Pasted image 20241020193115.png",
+    "02 - Areas/Assignments/Attachments/Pasted image 20241020193043.png",
+    "Pasted image 20241020193036.png",
+    "Pasted image 20241020193021.png",
+    "02 - Areas/Assignments/Attachments/Pasted image 20241020192951.png",
+    "02 - Areas/Assignments/Attachments/Pasted image 20241020192933.png",
     "02 - Areas/Assignments/Questions/html assignment.pdf",
     "02 - Areas/Assignments/Answers/Python Programs.md",
-    "02 - Areas/Assignments/Answers/HTML assignment.md",
     "02 - Areas/Assignment/HTML assignment.md",
     "02 - Areas/Assignments/Attachments/Pasted image 20240910204324.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20240910203830.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20240910203143.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20240910144745.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20240910202952.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20240910144336.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20240910010749.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20240910004206.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20240910004106.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20240905124025.png",
     "02 - Areas/Assignments/Attachments",
     "02 - Areas/Assignments/Answers",
     "02 - Areas/Assignments/Questions/pylist.pdf",
@@ -233,8 +248,6 @@
     "02 - Areas/Assignments/HTML assignment.md",
     "02 - Areas/Python/Notes/Python Programs.md",
     "02 - Areas/Assignment/Notes/Python Programs.md",
-    "00 - Maps Of Contents/0 - Home.md",
-    "Clip.md",
     "01 - Projects/CS50X/Week 2 - Arrays.md",
     "01 - Projects/CS50X/Week 1 - C.md",
     "GSOC.md",
