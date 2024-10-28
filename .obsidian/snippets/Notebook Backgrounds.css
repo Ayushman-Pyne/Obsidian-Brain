@@ -217,14 +217,14 @@ https://angel-rs.github.io/css-color-filter-generator
   --code-normal: var(--accent-color);
   --code-background: color-mix(
     in srgb,
-    var(--page-color) 100%,
+    var(--page-color) 80%,
     black
   ) !important;
 }
 div > pre {
   --code-background: color-mix(
     in srgb,
-    var(--page-color) 100%,
+    var(--page-color) 80%,
     black
   ) !important;
 }
