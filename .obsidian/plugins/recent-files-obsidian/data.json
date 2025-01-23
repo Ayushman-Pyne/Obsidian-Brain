@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "GATE",
-      "path": "GATE.md"
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
+      "basename": "Thus Spoke Zarathustra",
+      "path": "02 - Areas/Books/Thus Spoke Zarathustra.md"
+    },
+    {
+      "basename": "The Girl who Played with Fire",
+      "path": "02 - Areas/Books/The Girl who Played with Fire.md"
     },
     {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 20",
+      "path": "02 - Areas/Books/Demon Slayer Vol 20.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 21",
+      "path": "02 - Areas/Books/Demon Slayer Vol 21.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 22",
+      "path": "02 - Areas/Books/Demon Slayer Vol 22.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 23",
+      "path": "02 - Areas/Books/Demon Slayer Vol 23.md"
+    },
+    {
+      "basename": "Demon Slayer Vol 19",
+      "path": "02 - Areas/Books/Demon Slayer Vol 19.md"
+    },
+    {
+      "basename": "Dopamine Detox",
+      "path": "02 - Areas/Books/Dopamine Detox.md"
+    },
+    {
+      "basename": "GATE",
+      "path": "GATE.md"
     },
     {
       "basename": "Week 1 - C",
@@ -37,16 +73,8 @@
       "path": "GSOC.md"
     },
     {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
-    },
-    {
       "basename": "Demon Slayer Vol 15",
       "path": "02 - Areas/Books/Demon Slayer Vol 15.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 19",
-      "path": "02 - Areas/Books/Demon Slayer Vol 19.md"
     },
     {
       "basename": "Ikigai",
@@ -75,10 +103,6 @@
     {
       "basename": "Python",
       "path": "00 - Maps Of Contents/Python.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 20",
-      "path": "02 - Areas/Books/Demon Slayer Vol 20.md"
     },
     {
       "basename": "Eclipse",
@@ -175,14 +199,6 @@
     {
       "basename": "Demon Slayer Vol 5",
       "path": "02 - Areas/Books/Demon Slayer Vol 5.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 4",
-      "path": "02 - Areas/Books/Demon Slayer Vol 4.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 3",
-      "path": "02 - Areas/Books/Demon Slayer Vol 3.md"
     }
   ],
   "omittedPaths": [],

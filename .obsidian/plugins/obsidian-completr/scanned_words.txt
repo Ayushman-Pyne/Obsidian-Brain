@@ -2194,6 +2194,7 @@ SRX
 SRRP
 SOg
 SkK
+Spoke
 EXCALIDRAW
 Elements
 Example
@@ -3004,6 +3005,7 @@ VsW
 VDJ
 VbA
 VmZ
+Vintage
 in
 is
 ipsum
@@ -3960,6 +3962,7 @@ MhR
 MiBb
 MbRs
 MlW
+Mikael
 OPTIONS
 OFF
 ON
@@ -6566,6 +6569,7 @@ Tqv
 ToNj
 TNa
 TBK
+Thus
 game
 grid
 get
@@ -9483,6 +9487,7 @@ LhdX
 LhBlXb
 LlC
 LRM
+Lulu
 nodes
 notes
 no
@@ -16310,6 +16315,8 @@ FRO
 FHp
 FnRaS
 FKh
+Fire
+Friedrich
 Just
 Journey
 Job
@@ -17679,6 +17686,7 @@ Bnm
 BVIAnEqAuy
 BGU
 BrB
+Blomkvist
 your
 yellow
 you
@@ -18472,6 +18480,8 @@ PoGfXG
 PyF
 PLaz
 Pvw
+Played
+Philosophy
 just
 journey
 jB
@@ -19561,6 +19571,7 @@ NHc
 NjiQNAnzfZ
 NqmO
 Nuc
+Nietzsche
 keep
 known
 kind
@@ -20673,6 +20684,7 @@ ZHG
 ZVgRuSB
 ZgR
 ZQW
+Zarathustra
 xy
 xq
 xB
