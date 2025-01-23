@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "GATE",
+      "path": "GATE.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "Week 1 - C",
+      "path": "01 - Projects/CS50X/Week 1 - C.md"
+    },
+    {
+      "basename": "Week 2 - Arrays",
+      "path": "01 - Projects/CS50X/Week 2 - Arrays.md"
     },
     {
       "basename": "Clip",
@@ -21,20 +33,8 @@
       "path": "02 - Areas/Assignments/Answers/Python Programs.md"
     },
     {
-      "basename": "Week 2 - Arrays",
-      "path": "01 - Projects/CS50X/Week 2 - Arrays.md"
-    },
-    {
-      "basename": "Week 1 - C",
-      "path": "01 - Projects/CS50X/Week 1 - C.md"
-    },
-    {
       "basename": "GSOC",
       "path": "GSOC.md"
-    },
-    {
-      "basename": "GATE",
-      "path": "GATE.md"
     },
     {
       "basename": "Books",
@@ -87,18 +87,6 @@
     {
       "basename": "It",
       "path": "02 - Areas/Books/It.md"
-    },
-    {
-      "basename": "03 - SiH References",
-      "path": "01 - Projects/SiH 2024/03 - SiH References.md"
-    },
-    {
-      "basename": "01 - SiH Documentation",
-      "path": "01 - Projects/SiH 2024/01 - SiH Documentation.md"
-    },
-    {
-      "basename": "00 - SiH map of contents",
-      "path": "01 - Projects/SiH 2024/00 - SiH map of contents.md"
     },
     {
       "basename": "Demon Slayer Vol 18",

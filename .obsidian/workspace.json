@@ -4,89 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee353ffed643cb4",
+        "id": "528c7c519688e6ff",
         "type": "tabs",
         "children": [
           {
-            "id": "bd9643aa383d9eb0",
+            "id": "38c4a649f7065150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/CS50X/Week 1 - C.md",
+                "file": "GATE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1 - C"
+              "title": "GATE"
             }
           }
         ]
-      },
-      {
-        "id": "7222a8fe9a6e3fd5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b8fdbcffeb35bce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/CS50X/Week 2 - Arrays.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 2 - Arrays"
-            }
-          },
-          {
-            "id": "261106aebfeb1de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clip.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clip"
-            }
-          },
-          {
-            "id": "2b0a545afb6a3143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 - Home"
-            }
-          },
-          {
-            "id": "afca0b748679ab03",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -283,9 +219,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "afca0b748679ab03",
+  "active": "38c4a649f7065150",
   "lastOpenFiles": [
     "00 - Maps Of Contents/0 - Home.md",
+    "01 - Projects/BroCode/PHP",
+    "01 - Projects/BroCode",
+    "01 - Projects/CS50X/Week 1 - C.md",
+    "01 - Projects/CS50X/Week 2 - Arrays.md",
     "Clip.md",
     "02 - Areas/Assignments/Answers/HTML assignment.md",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020192459.png",
@@ -312,14 +252,10 @@
     "02 - Areas/Assignments/#Done",
     "02 - Areas/Assignments/Python Notes/HTML assignment.md",
     "02 - Areas/Assignments/Python Notes/Python Programs.md",
-    "02 - Areas/Assignments/Python Notes",
     "02 - Areas/Assignments/Notes/Python Programs.md",
-    "02 - Areas/Assignments/question list sem 1.pdf",
     "02 - Areas/Assignments/HTML assignment.md",
     "02 - Areas/Python/Notes/Python Programs.md",
     "02 - Areas/Assignment/Notes/Python Programs.md",
-    "01 - Projects/CS50X/Week 2 - Arrays.md",
-    "01 - Projects/CS50X/Week 1 - C.md",
     "GSOC.md",
     "GATE.md",
     "00 - Maps Of Contents/Books.md",
