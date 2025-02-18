@@ -13,28 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "02 - Areas/Books/The Guest List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Guest List"
+            }
+          },
+          {
+            "id": "07610c67fbaa9370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "00 - Maps Of Contents/Books.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Books"
             }
           },
           {
-            "id": "825a9febab271d5e",
+            "id": "99ca495d19238018",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0 - Home"
+              "title": "New tab"
             }
           }
         ],
@@ -57,7 +85,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -235,14 +264,23 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "825a9febab271d5e",
+  "active": "07610c67fbaa9370",
   "lastOpenFiles": [
+    "00 - Maps Of Contents/0 - Home.md",
+    "02 - Areas/Books/The Guest List.md",
     "00 - Maps Of Contents/Books.md",
+    "02 - Areas/Books/Master Your Emotions.md",
+    "02 - Areas/Books/Master Your Emotions - Copy.md",
+    "03 - Resources/BookCovers/The Guest List.jpg",
+    "01 - Projects/BroCode/Javascript",
+    "01 - Projects/BroCode/C",
+    "01 - Projects/BroCode/Python",
+    "01 - Projects/BroCode/PHP/Untitled.md",
+    "02 - Areas/Assignments/Questions/pylist.pdf",
     "02 - Areas/Books/Thus Spoke Zarathustra.md",
     "03 - Resources/BookCovers/Thus Spoke Zarathustra.jpg",
     "02 - Areas/Books/The Girl who Played with Fire.md",
     "03 - Resources/BookCovers/The Girl who Played with Fire.jpg",
-    "00 - Maps Of Contents/0 - Home.md",
     "02 - Areas/Books/Demon Slayer Vol 20.md",
     "02 - Areas/Books/Demon Slayer Vol 21.md",
     "02 - Areas/Books/Demon Slayer Vol 22.md",
@@ -263,26 +301,17 @@
     "Pasted image 20241020193036.png",
     "Pasted image 20241020193021.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020192951.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20241020192933.png",
     "02 - Areas/Assignments/Questions/html assignment.pdf",
     "02 - Areas/Assignments/Answers/Python Programs.md",
     "02 - Areas/Assignment/HTML assignment.md",
     "02 - Areas/Assignments/Attachments",
     "02 - Areas/Assignments/Answers",
-    "02 - Areas/Assignments/Questions/pylist.pdf",
     "02 - Areas/Assignments/Questions/question list sem 1.pdf",
-    "02 - Areas/Assignments/Questions",
-    "02 - Areas/Assignments/New folder",
     "02 - Areas/Assignments/#Done/HTML assignment.md",
     "02 - Areas/Assignments/#Done/Python Programs.md",
-    "02 - Areas/Assignments/#Done",
     "02 - Areas/Assignments/Python Notes/HTML assignment.md",
     "02 - Areas/Assignments/Python Notes/Python Programs.md",
     "02 - Areas/Assignments/Notes/Python Programs.md",
-    "02 - Areas/Assignments/HTML assignment.md",
-    "02 - Areas/Python/Notes/Python Programs.md",
-    "02 - Areas/Assignment/Notes/Python Programs.md",
-    "GSOC.md",
     "00 - Map Of Contents/Home Page.canvas"
   ]
 }

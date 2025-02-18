@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
+      "basename": "The Guest List",
+      "path": "02 - Areas/Books/The Guest List.md"
+    },
+    {
+      "basename": "Master Your Emotions",
+      "path": "02 - Areas/Books/Master Your Emotions.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "01 - Projects/BroCode/PHP/Untitled.md"
+    },
+    {
+      "basename": "pylist",
+      "path": "02 - Areas/Assignments/Questions/pylist.pdf"
     },
     {
       "basename": "Thus Spoke Zarathustra",
@@ -183,22 +199,6 @@
     {
       "basename": "Demon Slayer Vol 9",
       "path": "02 - Areas/Books/Demon Slayer Vol 9.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 8",
-      "path": "02 - Areas/Books/Demon Slayer Vol 8.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 7",
-      "path": "02 - Areas/Books/Demon Slayer Vol 7.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 6",
-      "path": "02 - Areas/Books/Demon Slayer Vol 6.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 5",
-      "path": "02 - Areas/Books/Demon Slayer Vol 5.md"
     }
   ],
   "omittedPaths": [],
