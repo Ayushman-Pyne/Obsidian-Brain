@@ -122,9 +122,47 @@ int main(){
 - `%lf` = double
 - `%d` = integer
 
-- %.1 = decimal precision
-- %1 = minimum field Width
-- %- = left align
+- `%.1` = decimal precision
+- `%1` = minimum field Width
+- `%-` = left align
+
+## Constant
+- fixed value that cannot be altered by the program during its execution
+```C
+const float PI = 3.14;
+```
+
+## Arithmetic Operators
+- `+` (addition)
+- `-` (subtraction)
+- `*` (multiplication)
+- `/` (division)
+- `%` (modulus)
+- `++`  increment
+- `--`  decrement
+
+## Augmented Assignment operator
+
+- used to replace a statement where an operator takes a variable as one of its arguments and then assigns the result back to the same variable.
+```C
+x = x + 2;
+x += 2;
+
+x = x - 2;
+x -= 2;
+
+x = x * 2;
+x *= 2;
+
+x = x / 2;
+x /= 2;
+
+x = x % 2;
+x %= 2;
+```
+
+
+
 
 
 
