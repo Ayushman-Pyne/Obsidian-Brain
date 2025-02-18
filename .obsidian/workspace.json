@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "01 - Projects/BroCode/C/BROCode C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0 - Home"
+              "title": "BROCode C"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "right": {
     "id": "a370b92b12670430",
@@ -231,8 +232,9 @@
   },
   "active": "99ca495d19238018",
   "lastOpenFiles": [
-    "01 - Projects/CS50X/Week 3 - Algorithms.md",
+    "01 - Projects/BroCode/PHP/Untitled.md",
     "00 - Maps Of Contents/0 - Home.md",
+    "01 - Projects/CS50X/Week 3 - Algorithms.md",
     "01 - Projects/BroCode/Javascript/BROCode Javascript.md",
     "01 - Projects/BroCode/C/BROCode C.md",
     "01 - Projects/BroCode/PHP/BROCode PHP.md",
@@ -247,7 +249,6 @@
     "01 - Projects/BroCode/Javascript",
     "01 - Projects/BroCode/C",
     "01 - Projects/BroCode/Python",
-    "01 - Projects/BroCode/PHP/Untitled.md",
     "02 - Areas/Assignments/Questions/pylist.pdf",
     "02 - Areas/Books/Thus Spoke Zarathustra.md",
     "03 - Resources/BookCovers/Thus Spoke Zarathustra.jpg",
