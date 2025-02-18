@@ -9,7 +9,7 @@ cover: http://books.google.com/books/content?id=KiszDwAAQBAJ&printsec=frontcover
 rating: ⭐⭐⭐⭐⭐
 date read: 
 status:
-  - Finished
+  - Ongoing
 cssclasses:
   - center-h1
 ---

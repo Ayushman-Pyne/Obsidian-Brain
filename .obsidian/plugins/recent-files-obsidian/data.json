@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
-    },
-    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
+      "basename": "Week 3 - Algorithms",
+      "path": "01 - Projects/CS50X/Week 3 - Algorithms.md"
+    },
+    {
+      "basename": "BROCode Javascript",
+      "path": "01 - Projects/BroCode/Javascript/BROCode Javascript.md"
+    },
+    {
+      "basename": "BROCode C",
+      "path": "01 - Projects/BroCode/C/BROCode C.md"
+    },
+    {
+      "basename": "BROCode PHP",
+      "path": "01 - Projects/BroCode/PHP/BROCode PHP.md"
+    },
+    {
+      "basename": "BROCode Python",
+      "path": "01 - Projects/BroCode/Python/BROCode Python.md"
+    },
+    {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
       "basename": "The Guest List",
       "path": "02 - Areas/Books/The Guest List.md"
+    },
+    {
+      "basename": "It",
+      "path": "02 - Areas/Books/It.md"
+    },
+    {
+      "basename": "12000005122019",
+      "path": "06 - Daily/12000005122019.md"
     },
     {
       "basename": "Master Your Emotions",
@@ -125,10 +153,6 @@
       "path": "02 - Areas/Books/Eclipse.md"
     },
     {
-      "basename": "It",
-      "path": "02 - Areas/Books/It.md"
-    },
-    {
       "basename": "Demon Slayer Vol 18",
       "path": "02 - Areas/Books/Demon Slayer Vol 18.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "CS50X",
       "path": "00 - Maps Of Contents/CS50X.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 13",
-      "path": "02 - Areas/Books/Demon Slayer Vol 13.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 14",
-      "path": "02 - Areas/Books/Demon Slayer Vol 14.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 12",
-      "path": "02 - Areas/Books/Demon Slayer Vol 12.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 11",
-      "path": "02 - Areas/Books/Demon Slayer Vol 11.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 10",
-      "path": "02 - Areas/Books/Demon Slayer Vol 10.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 9",
-      "path": "02 - Areas/Books/Demon Slayer Vol 9.md"
     }
   ],
   "omittedPaths": [],
