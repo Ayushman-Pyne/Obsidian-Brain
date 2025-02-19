@@ -593,6 +593,7 @@ etq
 elD
 ejhO
 ejUbz
+exe
 plugin
 parsed
 present
@@ -1197,6 +1198,7 @@ pPL
 pTY
 pAD
 peu
+plate
 tags
 to
 the
@@ -2195,6 +2197,8 @@ SRRP
 SOg
 SkK
 Spoke
+Specify
+Specifier
 EXCALIDRAW
 Elements
 Example
@@ -3006,6 +3010,7 @@ VDJ
 VbA
 VmZ
 Vintage
+Variables
 in
 is
 ipsum
@@ -3553,6 +3558,7 @@ iHe
 iMZ
 itD
 iXL
+increment
 MORE
 My
 Movie
@@ -4303,6 +4309,7 @@ OmuOo
 ORB
 OwC
 OYq
+Operators
 menu
 made
 music
@@ -4817,6 +4824,8 @@ mfsmvc
 mhbl
 miIQiIQK
 mbd
+memory
+modulus
 of
 on
 ornare
@@ -5731,6 +5740,12 @@ dyb
 dHpA
 dDbBb
 dJH
+declare
+definition
+defines
+displayed
+division
+decrement
 Drawing
 Date
 Define
@@ -6143,6 +6158,7 @@ DRM
 Dxok
 Dbh
 DUvG
+Declaration
 Text
 The
 Type
@@ -8634,6 +8650,7 @@ cPWh
 clYr
 cqI
 cnw
+compiled
 Important
 In
 It
@@ -9093,6 +9110,7 @@ IAv
 Ilv
 Ivp
 InN
+Initialization
 Links
 Lorem
 Learning
@@ -10354,6 +10372,10 @@ CSp
 CsO
 Contact
 CSS
+CMD
+Comments
+Character
+Constant
 Week
 Well
 Wider
@@ -11158,6 +11180,9 @@ ApgfGbt
 AqK
 Academics
 Admission
+Assignment
+Arithmetic
+Augmented
 are
 and
 amet
@@ -11720,6 +11745,10 @@ aTO
 aHe
 aWC
 apvCR
+actions
+allocated
+altered
+assigns
 Homework
 Here
 HOME
@@ -13214,6 +13243,8 @@ sMuV
 spI
 ssrt
 sRsA
+single
+subtraction
 background
 backdrops
 border
@@ -13721,6 +13752,8 @@ bNs
 bZe
 bey
 bdQ
+boiler
+behaves
 features
 file
 for
@@ -14253,6 +14286,7 @@ fGat
 fMnX
 fzG
 fEJ
+formats
 References
 Resources
 Requirement
@@ -16319,6 +16353,7 @@ FKh
 Fire
 Friedrich
 Foley
+Format
 Just
 Journey
 Job
@@ -17303,6 +17338,7 @@ rxi
 rcj
 rpM
 rRs
+replace
 Base
 But
 Bit
@@ -17690,6 +17726,9 @@ BGU
 BrB
 Blomkvist
 BookCovers
+BroCode
+BROCode
+Boilerplate
 your
 yellow
 you
