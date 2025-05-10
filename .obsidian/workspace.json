@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40ee2b3d468482ea",
+        "id": "0b474b66cd2cfed2",
         "type": "tabs",
         "children": [
           {
-            "id": "99ca495d19238018",
+            "id": "6271c66577ce5225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/BroCode/C/BROCode C.md",
+                "file": "Clip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BROCode C"
-            }
-          },
-          {
-            "id": "92526ea3223c93ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "0 - Home"
+              "title": "Clip"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "right": {
     "id": "a370b92b12670430",
@@ -254,8 +230,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "f2d0c9b7f19738c4",
+  "active": "6271c66577ce5225",
   "lastOpenFiles": [
+    "00 - Maps Of Contents/0 - Home.md",
+    "01 - Projects/BroCode/C/BROCode C.md",
     "01 - Projects/BroCode/C/Programs/v49.c",
     "01 - Projects/BroCode/C/Programs/v48.c",
     "01 - Projects/BroCode/C/Programs/v47.c",
@@ -266,10 +244,7 @@
     "01 - Projects/BroCode/C/Programs/v42.c",
     "01 - Projects/BroCode/C/Programs/v41.c",
     "01 - Projects/BroCode/C/Programs/v40.c",
-    "01 - Projects/BroCode/C/Programs/v39.c",
-    "01 - Projects/BroCode/C/BROCode C.md",
     "01 - Projects/BroCode/PHP/Untitled.md",
-    "00 - Maps Of Contents/0 - Home.md",
     "01 - Projects/CS50X/Week 3 - Algorithms.md",
     "01 - Projects/BroCode/Javascript/BROCode Javascript.md",
     "01 - Projects/BroCode/PHP/BROCode PHP.md",
