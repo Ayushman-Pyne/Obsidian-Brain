@@ -55,7 +55,8 @@
               "title": "0 - Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "a370b92b12670430",
@@ -254,8 +254,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "f2d0c9b7f19738c4",
+  "active": "02723e4a761e8bcf",
   "lastOpenFiles": [
+    "Clip.md",
     "00 - Maps Of Contents/0 - Home.md",
     "01 - Projects/BroCode/C/BROCode C.md",
     "01 - Projects/BroCode/C/Programs/v49.c",
@@ -293,7 +294,6 @@
     "GATE.md",
     "01 - Projects/CS50X/Week 1 - C.md",
     "01 - Projects/CS50X/Week 2 - Arrays.md",
-    "Clip.md",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020192459.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193529.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193115.png",
