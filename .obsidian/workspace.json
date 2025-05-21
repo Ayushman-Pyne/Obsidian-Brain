@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "GATE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0 - Home"
+              "title": "GATE"
             }
           }
         ],
@@ -256,8 +256,11 @@
   },
   "active": "02723e4a761e8bcf",
   "lastOpenFiles": [
-    "Clip.md",
+    "02 - Areas/Python/Programs/Pasted image 20250521165325.png",
+    "02 - Areas/Python/Programs",
+    "02 - Areas/Python",
     "00 - Maps Of Contents/0 - Home.md",
+    "Clip.md",
     "01 - Projects/BroCode/C/BROCode C.md",
     "01 - Projects/BroCode/C/Programs/v49.c",
     "01 - Projects/BroCode/C/Programs/v48.c",
@@ -267,8 +270,6 @@
     "01 - Projects/BroCode/C/Programs/v44.c",
     "01 - Projects/BroCode/C/Programs/v43.c",
     "01 - Projects/BroCode/C/Programs/v42.c",
-    "01 - Projects/BroCode/C/Programs/v41.c",
-    "01 - Projects/BroCode/C/Programs/v40.c",
     "01 - Projects/BroCode/PHP/Untitled.md",
     "01 - Projects/CS50X/Week 3 - Algorithms.md",
     "01 - Projects/BroCode/Javascript/BROCode Javascript.md",

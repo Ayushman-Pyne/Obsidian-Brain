@@ -20,3 +20,9 @@ Part4:
 3: Discrete Mathematics: [https://www.goclasses.in/courses/Disc...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmlmdHZCSkNSajdZTmR6UlE3cUNDc2tPYkJKQXxBQ3Jtc0ttazNqUUNCYVZKdUNNb01jMkNJT0JtUDduX1hTMnNkd3hmREFicWRLYXF3bEh0cXRGVnBGT1RtU0twd3R5Wm1oUVB6VXFxS0dIa0tkajRQMUwwZUxOMUhxOXY2X1d0SUNkR1QycFZ0WS1HbUViWjI4UQ&q=https%3A%2F%2Fwww.goclasses.in%2Fcourses%2FDiscrete-Mathematics-Course-63f9aa9be4b0a8a370cfb0ad&v=Duiyk9GyPW0)
 4: Maths: [https://www.goclasses.in/courses/Engi...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG1rQTIybHFwVWxPWVVxT2FYYnNURURaaU1ad3xBQ3Jtc0tuVzdEelo3elJhZnotbVFEYVUxelNvbzdNZlVJZnJFckdkWjNIVUdfNkx0RkRWMmZJYU53S1J2LWNsQ2Q2dllyQXp5QnNiVWpsR1pvYWVFVzgyVDBfOE4wR3Q4ZkJPNDB3dUU0Ml9sb2xuQzVvZmlTQQ&q=https%3A%2F%2Fwww.goclasses.in%2Fcourses%2FEngineering-Mathematics-60fdd8530cf2c7989e1f109d&v=Duiyk9GyPW0)
 5: Aptitude:    [![](https://www.gstatic.com/youtube/img/watch/yt_favicon.png) • General Aptitude 01 | Counting Theory...](https://www.youtube.com/watch?v=RkNZbGHr_Kw&list=PLvTTv60o7qj-PgF3DhvvTK6_-g_FU8wCT&index=1&t=0s)
+
+
+
+![[Pasted image 20250521165325.png]]
+
+[baquer/GATE-and-CSE-Resources-for-Students: 📚 📖 📚CSE GATE Resources for GATE and CSE Aspirants 😎 😁 . Show your ❤️ by ⭐️⭐️](https://github.com/baquer/GATE-and-CSE-Resources-for-Students)
