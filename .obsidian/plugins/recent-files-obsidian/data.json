@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "autoshutdown brainstorm",
+      "path": "03 - Resources/03 - Excalidraw/autoshutdown brainstorm.md"
+    },
+    {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
+      "basename": "033727072025",
+      "path": "033727072025.md"
+    },
+    {
       "basename": "Clip",
       "path": "Clip.md"
     },
     {
       "basename": "GATE",
       "path": "GATE.md"
-    },
-    {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
       "basename": "BROCode C",
@@ -191,14 +199,6 @@
     {
       "basename": "Book Template",
       "path": "99 - Meta/Book Template.md"
-    },
-    {
-      "basename": "Bullet Journaling",
-      "path": "00 - Maps Of Contents/Bullet Journaling.md"
-    },
-    {
-      "basename": "CS50X",
-      "path": "00 - Maps Of Contents/CS50X.md"
     }
   ],
   "omittedPaths": [],
