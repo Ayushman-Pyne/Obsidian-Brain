@@ -26,3 +26,7 @@ Part4:
 ![[Pasted image 20250521165325.png]]
 
 [baquer/GATE-and-CSE-Resources-for-Students: 📚 📖 📚CSE GATE Resources for GATE and CSE Aspirants 😎 😁 . Show your ❤️ by ⭐️⭐️](https://github.com/baquer/GATE-and-CSE-Resources-for-Students)
+
+![[Pasted image 20250521171351.png]]
+
+![[Pasted image 20250521171904.png]]

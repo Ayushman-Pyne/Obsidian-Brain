@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Clip"
             }
-          },
-          {
-            "id": "02723e4a761e8bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GATE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "GATE"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,12 +229,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "02723e4a761e8bcf",
+  "active": "f2d0c9b7f19738c4",
   "lastOpenFiles": [
+    "GATE.md",
+    "02 - Areas/Python/Programs/Pasted image 20250521171904.png",
+    "00 - Maps Of Contents/0 - Home.md",
+    "02 - Areas/Python/Programs/Pasted image 20250521171351.png",
     "02 - Areas/Python/Programs/Pasted image 20250521165325.png",
     "02 - Areas/Python/Programs",
     "02 - Areas/Python",
-    "00 - Maps Of Contents/0 - Home.md",
     "Clip.md",
     "01 - Projects/BroCode/C/BROCode C.md",
     "01 - Projects/BroCode/C/Programs/v49.c",
@@ -292,16 +270,12 @@
     "02 - Areas/Books/Demon Slayer Vol 23.md",
     "02 - Areas/Books/Demon Slayer Vol 19.md",
     "02 - Areas/Books/Dopamine Detox.md",
-    "GATE.md",
     "01 - Projects/CS50X/Week 1 - C.md",
     "01 - Projects/CS50X/Week 2 - Arrays.md",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020192459.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193529.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193115.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193043.png",
-    "Pasted image 20241020193036.png",
-    "Pasted image 20241020193021.png",
-    "02 - Areas/Assignments/Attachments/Pasted image 20241020192951.png",
     "00 - Map Of Contents/Home Page.canvas"
   ]
 }
