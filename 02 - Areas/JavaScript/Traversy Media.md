@@ -53,12 +53,82 @@ let - can be changed
 	- undefined
 	- Symbol
 
+```JavaScript
+const name = "arceus"; // string
+
+const age = 21;//number
+
+const rating = 4.5;// number
+
+const isCool = true;//boolean
+
+const x = null;//null
+
+const y = undefined;
+
+let z;
+
+  
+
+console.log(typeof age);
+```
 
 
+```javascript
+const name = 'arceus'; // string
 
+const age = 21;//number
 
+  
 
+// Concatenation
 
+  
+
+console.log('My name is' + name + ' and I am '+ age);
+
+  
+
+// Template String
+
+console.log(`My name is ${name} and I am ${age}`)
+```
+
+```javascript
+const s = 'Hello World!';
+
+  
+
+console.log(s.toUpperCase());
+
+console.log(s.length);
+
+console.log(s.toLowerCase());
+
+console.log(s.substring(0,5));
+
+console.log(s.split(''));
+```
+
+```javascript
+// Comments
+
+  
+
+/**
+
+ *
+
+ * multiline comments
+
+ * wow
+
+ * wow
+
+ */
+```
+
+- Arrays -  variable that holds multiple values
 
 
 
