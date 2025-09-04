@@ -33,10 +33,25 @@ cssclasses:
 
 All things are done in [[index.html]]
 
+```JavaScript
+console.log("Hello world");
+console.error("This is the error");
+console.warn("this is a warning");
+```
 
 
+```JavaScript
+const -  cannot be changed
+let - can be changed
+```
 
-
+- Datatype is directly assigned to memory
+	- Strings
+	- Numbers
+	- Boolean
+	- null
+	- undefined
+	- Symbol
 
 
 
