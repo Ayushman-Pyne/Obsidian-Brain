@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traversy Media.md",
+                "file": "02 - Areas/JavaScript/Traversy Media.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "a370b92b12670430",
@@ -231,10 +230,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7bffa7875f71f0e4",
+  "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
+    "02 - Areas/JavaScript/Traversy Media/main.js",
+    "02 - Areas/JavaScript/Traversy Media/index.html",
+    "02 - Areas/JavaScript/Traversy Media",
+    "02 - Areas/JavaScript/New folder",
     "00 - Maps Of Contents/0 - Home.md",
-    "Traversy Media.md",
+    "02 - Areas/JavaScript/Traversy Media.md",
     "02 - Areas/JavaScript",
     "033727072025.md",
     "03 - Resources/03 - Excalidraw/autoshutdown brainstorm.md",
@@ -250,9 +253,6 @@
     "01 - Projects/BroCode/C/BROCode C.md",
     "01 - Projects/BroCode/C/Programs/v49.c",
     "01 - Projects/BroCode/C/Programs/v48.c",
-    "01 - Projects/BroCode/C/Programs/v47.c",
-    "01 - Projects/BroCode/C/Programs/v46.c",
-    "01 - Projects/BroCode/C/Programs/v45.c",
     "01 - Projects/BroCode/PHP/Untitled.md",
     "01 - Projects/CS50X/Week 3 - Algorithms.md",
     "01 - Projects/BroCode/Javascript/BROCode Javascript.md",
@@ -274,7 +274,6 @@
     "02 - Areas/Books/Demon Slayer Vol 22.md",
     "02 - Areas/Books/Demon Slayer Vol 23.md",
     "02 - Areas/Books/Demon Slayer Vol 19.md",
-    "02 - Areas/Books/Dopamine Detox.md",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020192459.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193529.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193115.png",

@@ -31,8 +31,7 @@ cssclasses:
 - Events
 - basic Form validation
 
-
-#
+All things are done in [[index.html]]
 
 
 
