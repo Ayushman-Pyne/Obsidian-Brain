@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Traversy Media"
             }
+          },
+          {
+            "id": "43117cc65e57726e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps Of Contents/0 - Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0 - Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,14 +255,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "f2d0c9b7f19738c4",
+  "active": "43117cc65e57726e",
   "lastOpenFiles": [
+    "02 - Areas/JavaScript/Traversy Media.md",
     "02 - Areas/JavaScript/Traversy Media/main.js",
     "02 - Areas/JavaScript/Traversy Media/index.html",
     "02 - Areas/JavaScript/Traversy Media",
     "02 - Areas/JavaScript/New folder",
     "00 - Maps Of Contents/0 - Home.md",
-    "02 - Areas/JavaScript/Traversy Media.md",
     "02 - Areas/JavaScript",
     "033727072025.md",
     "03 - Resources/03 - Excalidraw/autoshutdown brainstorm.md",
@@ -252,7 +277,6 @@
     "02 - Areas/Python",
     "01 - Projects/BroCode/C/BROCode C.md",
     "01 - Projects/BroCode/C/Programs/v49.c",
-    "01 - Projects/BroCode/C/Programs/v48.c",
     "01 - Projects/BroCode/PHP/Untitled.md",
     "01 - Projects/CS50X/Week 3 - Algorithms.md",
     "01 - Projects/BroCode/Javascript/BROCode Javascript.md",
