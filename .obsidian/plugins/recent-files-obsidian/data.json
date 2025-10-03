@@ -5,6 +5,10 @@
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
+      "basename": "SIH 2025",
+      "path": "SIH 2025.md"
+    },
+    {
       "basename": "Traversy Media",
       "path": "02 - Areas/JavaScript/Traversy Media.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Demon Slayer Vol 16",
       "path": "02 - Areas/Books/Demon Slayer Vol 16.md"
-    },
-    {
-      "basename": "Program Note Template",
-      "path": "99 - Meta/Program Note Template.md"
     }
   ],
   "omittedPaths": [],
