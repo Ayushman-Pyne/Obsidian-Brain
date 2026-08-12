@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Eclipse",
       "path": "02 - Areas/Books/Eclipse.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 18",
-      "path": "02 - Areas/Books/Demon Slayer Vol 18.md"
     }
   ],
   "omittedPaths": [],

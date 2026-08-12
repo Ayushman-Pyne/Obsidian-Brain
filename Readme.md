@@ -35,6 +35,8 @@ This will continue until I gain a Job that I like or I finally understand enough
 #### Feel Free To message me: [@artixx._.me](https://www.instagram.com/artixx._.me/)
 If you are learning from this vault and happened to post any of the notes. You can also tag me at the above account to encourage me in making more notes. 
 
+
+okk
 ##### You can support my work here.
 (well i have no way to get any kind of payment yet so this is just place holder text 😅)
 If u want to buy me Obsidian Publish so that i can make this vault available online. Email me [@Ayushman](mailto:arceus.z2xy@gmail.com?cc=ayushman.pyne@gmail.com&subject=You%20Wanna%20Buy%20me%20Obsidian)

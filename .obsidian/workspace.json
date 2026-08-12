@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0 - Home"
+              "title": "Readme"
             }
           }
         ]
@@ -232,6 +232,7 @@
   },
   "active": "7bffa7875f71f0e4",
   "lastOpenFiles": [
+    "00 - Maps Of Contents/0 - Home.md",
     "03 - Resources/music.mp3",
     "02 - Areas/JavaScript/Traversy Media.md",
     "04 - Permanent/Project Moto/WhatsApp Image 2024-07-04 at 06.46.05_668b28ea.jpg",
@@ -246,7 +247,6 @@
     "Clip.md",
     "033727072025.md",
     "00 - Maps Of Contents/Books.md",
-    "00 - Maps Of Contents/0 - Home.md",
     "07 - Archives/Test column.md",
     "07 - Archives/Test book.md",
     "07 - Archives/Test.md",
@@ -264,7 +264,6 @@
     "02 - Areas/Python/Programs",
     "02 - Areas/Python",
     "01 - Projects/BroCode/C/BROCode C.md",
-    "01 - Projects/BroCode/C/Programs/v49.c",
     "01 - Projects/BroCode/PHP/Untitled.md",
     "01 - Projects/CS50X/Week 3 - Algorithms.md",
     "01 - Projects/BroCode/Javascript/BROCode Javascript.md",
