@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/JavaScript/Traversy Media.md",
+                "file": "00 - Maps Of Contents/0 - Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Traversy Media"
-            }
-          },
-          {
-            "id": "43117cc65e57726e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04 - Permanent/Project Moto/WhatsApp Image 2024-07-04 at 06.46.05_668b28ea.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "WhatsApp Image 2024-07-04 at 06.46.05_668b28ea"
+              "title": "0 - Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,8 +230,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "43117cc65e57726e",
+  "active": "7bffa7875f71f0e4",
   "lastOpenFiles": [
+    "03 - Resources/music.mp3",
+    "02 - Areas/JavaScript/Traversy Media.md",
+    "04 - Permanent/Project Moto/WhatsApp Image 2024-07-04 at 06.46.05_668b28ea.jpg",
     "04 - Permanent/Project Moto/Untitled-1.png",
     "04 - Permanent/Project Moto/prj moto 1_0003.jpg",
     "04 - Permanent/Project Moto/prj moto 1_0002.jpg",
@@ -260,7 +250,6 @@
     "07 - Archives/Test column.md",
     "07 - Archives/Test book.md",
     "07 - Archives/Test.md",
-    "02 - Areas/JavaScript/Traversy Media.md",
     "02 - Areas/JavaScript/Traversy Media/main.js",
     "02 - Areas/JavaScript/Traversy Media/index.html",
     "02 - Areas/JavaScript/Traversy Media",
@@ -288,9 +277,7 @@
     "02 - Areas/Books/Master Your Emotions - Copy.md",
     "03 - Resources/BookCovers/The Guest List.jpg",
     "02 - Areas/Books/Thus Spoke Zarathustra.md",
-    "03 - Resources/BookCovers/Thus Spoke Zarathustra.jpg",
     "02 - Areas/Books/The Girl who Played with Fire.md",
-    "03 - Resources/BookCovers/The Girl who Played with Fire.jpg",
     "00 - Map Of Contents/Home Page.canvas"
   ]
 }
