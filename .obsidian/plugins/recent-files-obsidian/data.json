@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "book",
+      "path": "00 - Maps Of Contents/book.base"
+    },
+    {
       "basename": "Readme",
       "path": "Readme.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Python",
       "path": "00 - Maps Of Contents/Python.md"
-    },
-    {
-      "basename": "Eclipse",
-      "path": "02 - Areas/Books/Eclipse.md"
     }
   ],
   "omittedPaths": [],

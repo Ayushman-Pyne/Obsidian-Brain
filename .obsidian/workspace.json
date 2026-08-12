@@ -11,24 +11,13 @@
             "id": "7bffa7875f71f0e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "00 - Maps Of Contents/book.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Readme"
+              "icon": "lucide-table",
+              "title": "book"
             }
           }
         ]
@@ -230,8 +219,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7bffa7875f71f0e4",
+  "active": "0155e84e638cc8a7",
   "lastOpenFiles": [
+    "book.base.md",
+    "00 - Maps Of Contents/book.base",
+    "Readme.md",
     "00 - Maps Of Contents/0 - Home.md",
     "03 - Resources/music.mp3",
     "02 - Areas/JavaScript/Traversy Media.md",
@@ -262,7 +254,6 @@
     "02 - Areas/Python/Programs/Pasted image 20250521171351.png",
     "02 - Areas/Python/Programs/Pasted image 20250521165325.png",
     "02 - Areas/Python/Programs",
-    "02 - Areas/Python",
     "01 - Projects/BroCode/C/BROCode C.md",
     "01 - Projects/BroCode/PHP/Untitled.md",
     "01 - Projects/CS50X/Week 3 - Algorithms.md",
@@ -275,8 +266,6 @@
     "02 - Areas/Books/Master Your Emotions.md",
     "02 - Areas/Books/Master Your Emotions - Copy.md",
     "03 - Resources/BookCovers/The Guest List.jpg",
-    "02 - Areas/Books/Thus Spoke Zarathustra.md",
-    "02 - Areas/Books/The Girl who Played with Fire.md",
     "00 - Map Of Contents/Home Page.canvas"
   ]
 }

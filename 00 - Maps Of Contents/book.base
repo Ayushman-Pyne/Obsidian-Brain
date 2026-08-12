@@ -1,0 +1,71 @@
+{
+  "property": "path",
+  "operator": "starts_with",
+  "value": "02 - Areas/Books"
+};
+{
+  "views": [
+    {
+      "name": "Ongoing Books",
+      "type": "table",
+      "query": {
+        "filter": {
+          "and": [
+            {
+              "property": "status",
+              "operator": "contains",
+              "value": "Ongoing"
+            },
+            {
+              "property": "path",
+              "operator": "starts_with",
+              "value": "02 - Areas/Books"
+            }
+          ]
+        },
+        "sort": [
+          {
+            "property": "bookNo",
+            "direction": "ascending"
+          }
+        ]
+      },
+      "columns": [
+        {
+          "property": "cover",
+          "name": "Cover",
+          "type": "image"
+        },
+        {
+          "property": "series",
+          "name": "Series"
+        },
+        {
+          "property": "bookNo",
+          "name": "No."
+        },
+        {
+          "property": "file",
+          "name": "Title",
+          "type": "link"
+        },
+        {
+          "property": "author",
+          "name": "Author"
+        },
+        {
+          "property": "pages",
+          "name": "Pages"
+        },
+        {
+          "property": "category",
+          "name": "Genre"
+        },
+        {
+          "property": "rating",
+          "name": "Rating"
+        }
+      ]
+    }
+  ]
+}
