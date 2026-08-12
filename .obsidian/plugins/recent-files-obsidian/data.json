@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - Home",
+      "path": "00 - Maps Of Contents/0 - Home.md"
+    },
+    {
       "basename": "book",
       "path": "00 - Maps Of Contents/book.base"
     },
     {
-      "basename": "Readme",
-      "path": "Readme.md"
+      "basename": "Demon Slayer Vol 6",
+      "path": "02 - Areas/Books/Demon Slayer Vol 6.md"
     },
     {
-      "basename": "0 - Home",
-      "path": "00 - Maps Of Contents/0 - Home.md"
+      "basename": "11th Hour",
+      "path": "02 - Areas/Books/11th Hour.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "Readme.md"
     },
     {
       "basename": "Traversy Media",
@@ -189,16 +197,8 @@
       "path": "04 - Permanent/Proj 1/Business Studies.md"
     },
     {
-      "basename": "11th Hour",
-      "path": "02 - Areas/Books/11th Hour.md"
-    },
-    {
       "basename": "Week 0 - Scratch",
       "path": "01 - Projects/CS50X/Week 0 - Scratch.md"
-    },
-    {
-      "basename": "Python",
-      "path": "00 - Maps Of Contents/Python.md"
     }
   ],
   "omittedPaths": [],

@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5aab674e1b3590e7",
+        "id": "9f958d165ca37ea5",
         "type": "tabs",
         "children": [
           {
-            "id": "7bffa7875f71f0e4",
+            "id": "905a08f1e3744a19",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/book.base",
-                "viewName": "Table"
+                "file": "00 - Maps Of Contents/0 - Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "book"
+              "icon": "lucide-file",
+              "title": "0 - Home"
             }
           }
         ]
@@ -219,10 +230,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0155e84e638cc8a7",
+  "active": "905a08f1e3744a19",
   "lastOpenFiles": [
-    "book.base.md",
     "00 - Maps Of Contents/book.base",
+    "02 - Areas/Books/Demon Slayer Vol 6.md",
+    "02 - Areas/Books/11th Hour.md",
+    "book.base.md",
     "Readme.md",
     "00 - Maps Of Contents/0 - Home.md",
     "03 - Resources/music.mp3",
@@ -263,8 +276,6 @@
     "02 - Areas/Books/The Guest List.md",
     "02 - Areas/Books/It.md",
     "06 - Daily/12000005122019.md",
-    "02 - Areas/Books/Master Your Emotions.md",
-    "02 - Areas/Books/Master Your Emotions - Copy.md",
     "03 - Resources/BookCovers/The Guest List.jpg",
     "00 - Map Of Contents/Home Page.canvas"
   ]
