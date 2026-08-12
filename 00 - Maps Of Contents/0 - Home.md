@@ -4,7 +4,7 @@ cssclasses:
   - center-h1
   - cards
 ---
-	 git****# <span style= "color: GreenYellow;">Home Page</span>
+# <span style= "color: GreenYellow;">Home Page</span>
 
 
 > [!multi-column]
