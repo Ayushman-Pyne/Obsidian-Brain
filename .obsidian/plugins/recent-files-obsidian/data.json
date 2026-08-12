@@ -5,6 +5,18 @@
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
     {
+      "basename": "Test column",
+      "path": "07 - Archives/Test column.md"
+    },
+    {
+      "basename": "Test book",
+      "path": "07 - Archives/Test book.md"
+    },
+    {
+      "basename": "Test",
+      "path": "07 - Archives/Test.md"
+    },
+    {
       "basename": "SIH 2025",
       "path": "SIH 2025.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Escape from Jabar-loo",
       "path": "02 - Areas/Books/Escape from Jabar-loo.md"
-    },
-    {
-      "basename": "The Metamorphosis",
-      "path": "02 - Areas/Books/The Metamorphosis.md"
-    },
-    {
-      "basename": "Say Cheese - And Die Screaming!",
-      "path": "02 - Areas/Books/Say Cheese - And Die Screaming!.md"
-    },
-    {
-      "basename": "Demon Slayer Vol 16",
-      "path": "02 - Areas/Books/Demon Slayer Vol 16.md"
     }
   ],
   "omittedPaths": [],

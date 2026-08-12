@@ -76,6 +76,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "07 - Archives/Test column.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test column"
+            }
+          },
+          {
+            "id": "a4e447b86e8c9558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "00 - Maps Of Contents/0 - Home.md",
                 "mode": "source",
                 "source": false,
@@ -95,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -294,10 +318,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "de580d2ce6d9dcde",
+  "active": "a4e447b86e8c9558",
   "lastOpenFiles": [
-    "SIH 2025.md",
+    "07 - Archives/Test column.md",
+    "07 - Archives/Test book.md",
+    "07 - Archives/Test.md",
     "00 - Maps Of Contents/0 - Home.md",
+    "SIH 2025.md",
     "02 - Areas/JavaScript/Traversy Media.md",
     "02 - Areas/JavaScript/Traversy Media/main.js",
     "02 - Areas/JavaScript/Traversy Media/index.html",
@@ -335,9 +362,6 @@
     "03 - Resources/BookCovers/The Girl who Played with Fire.jpg",
     "02 - Areas/Books/Demon Slayer Vol 20.md",
     "02 - Areas/Books/Demon Slayer Vol 21.md",
-    "02 - Areas/Books/Demon Slayer Vol 22.md",
-    "02 - Areas/Books/Demon Slayer Vol 23.md",
-    "02 - Areas/Books/Demon Slayer Vol 19.md",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020192459.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193529.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193115.png",
