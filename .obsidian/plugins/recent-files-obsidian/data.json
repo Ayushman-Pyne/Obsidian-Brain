@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "GATE",
+      "path": "GATE.md"
+    },
+    {
+      "basename": "Clip",
+      "path": "Clip.md"
+    },
+    {
+      "basename": "033727072025",
+      "path": "033727072025.md"
+    },
+    {
+      "basename": "Books",
+      "path": "00 - Maps Of Contents/Books.md"
+    },
+    {
       "basename": "0 - Home",
       "path": "00 - Maps Of Contents/0 - Home.md"
     },
@@ -17,28 +33,12 @@
       "path": "07 - Archives/Test.md"
     },
     {
-      "basename": "SIH 2025",
-      "path": "SIH 2025.md"
-    },
-    {
       "basename": "Traversy Media",
       "path": "02 - Areas/JavaScript/Traversy Media.md"
     },
     {
-      "basename": "033727072025",
-      "path": "033727072025.md"
-    },
-    {
       "basename": "autoshutdown brainstorm",
       "path": "03 - Resources/03 - Excalidraw/autoshutdown brainstorm.md"
-    },
-    {
-      "basename": "Clip",
-      "path": "Clip.md"
-    },
-    {
-      "basename": "GATE",
-      "path": "GATE.md"
     },
     {
       "basename": "BROCode C",
@@ -63,10 +63,6 @@
     {
       "basename": "BROCode Python",
       "path": "01 - Projects/BroCode/Python/BROCode Python.md"
-    },
-    {
-      "basename": "Books",
-      "path": "00 - Maps Of Contents/Books.md"
     },
     {
       "basename": "The Guest List",
@@ -139,10 +135,6 @@
     {
       "basename": "Python Programs",
       "path": "02 - Areas/Assignments/Answers/Python Programs.md"
-    },
-    {
-      "basename": "GSOC",
-      "path": "GSOC.md"
     },
     {
       "basename": "Demon Slayer Vol 15",

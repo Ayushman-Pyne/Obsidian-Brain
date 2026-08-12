@@ -3,6 +3,7 @@ cssclasses:
   - dot-grid
   - pen-purple
   - cards
+title: The Books I have Read and Am Gonna Read
 ---
 # Ongoing
 ```dataview

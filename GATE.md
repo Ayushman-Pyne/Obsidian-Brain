@@ -1,4 +1,4 @@
-GATE CSE Free Resources: 
+ATE CSE Free Resources: 
 0: Introduction to Programming:    [![](https://www.gstatic.com/youtube/img/watch/yt_favicon.png) • Lecture 01: Introduction To Programmi...](https://www.youtube.com/watch?v=y3OOaXrFy-Q&t=0s)   
 Part1: 
 1: C Programming:    [![](https://www.gstatic.com/youtube/img/watch/yt_favicon.png) • C Programming 01 | Introduction to C ...](https://www.youtube.com/watch?v=hMLKVkJGV5Q&list=PL3eEXnCBViH_Phqkk2k_WFWHz0rDBBubC&index=1&t=0s)   

@@ -71,36 +71,12 @@
             }
           },
           {
-            "id": "de580d2ce6d9dcde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - Archives/Test column.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Test column"
-            }
-          },
-          {
             "id": "a4e447b86e8c9558",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps Of Contents/0 - Home.md",
+                "file": "GATE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -115,11 +91,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0 - Home"
+              "title": "GATE"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -320,23 +296,25 @@
   },
   "active": "a4e447b86e8c9558",
   "lastOpenFiles": [
+    "SIH 2025.md",
+    "GATE.md",
+    "GSOC.md",
+    "Clip.md",
+    "033727072025.md",
+    "00 - Maps Of Contents/Books.md",
+    "00 - Maps Of Contents/0 - Home.md",
     "07 - Archives/Test column.md",
     "07 - Archives/Test book.md",
     "07 - Archives/Test.md",
-    "00 - Maps Of Contents/0 - Home.md",
-    "SIH 2025.md",
     "02 - Areas/JavaScript/Traversy Media.md",
     "02 - Areas/JavaScript/Traversy Media/main.js",
     "02 - Areas/JavaScript/Traversy Media/index.html",
     "02 - Areas/JavaScript/Traversy Media",
     "02 - Areas/JavaScript/New folder",
     "02 - Areas/JavaScript",
-    "033727072025.md",
     "03 - Resources/03 - Excalidraw/autoshutdown brainstorm.md",
     "03 - Resources/03 - Excalidraw",
     "01 - Projects/PythonAutoShutdown",
-    "Clip.md",
-    "GATE.md",
     "02 - Areas/Python/Programs/Pasted image 20250521171904.png",
     "02 - Areas/Python/Programs/Pasted image 20250521171351.png",
     "02 - Areas/Python/Programs/Pasted image 20250521165325.png",
@@ -349,7 +327,6 @@
     "01 - Projects/BroCode/Javascript/BROCode Javascript.md",
     "01 - Projects/BroCode/PHP/BROCode PHP.md",
     "01 - Projects/BroCode/Python/BROCode Python.md",
-    "00 - Maps Of Contents/Books.md",
     "02 - Areas/Books/The Guest List.md",
     "02 - Areas/Books/It.md",
     "06 - Daily/12000005122019.md",
@@ -361,7 +338,6 @@
     "02 - Areas/Books/The Girl who Played with Fire.md",
     "03 - Resources/BookCovers/The Girl who Played with Fire.jpg",
     "02 - Areas/Books/Demon Slayer Vol 20.md",
-    "02 - Areas/Books/Demon Slayer Vol 21.md",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020192459.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193529.png",
     "02 - Areas/Assignments/Attachments/Pasted image 20241020193115.png",

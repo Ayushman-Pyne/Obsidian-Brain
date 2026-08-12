@@ -1,4 +1,4 @@
-## Step 1 (Basics + DSA)
+# Step 1 (Basics + DSA)
 
 [Java & DSA Course for Placement - YouTube](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
 
